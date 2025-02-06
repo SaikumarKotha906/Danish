@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="SubHeader">Tilslut enheden til en strømkilde</p>
+        <p MadCap:conditions="Product Type.TV Streamer">Enheden kan få strøm direkte via tv'ets USB-A-port via det medfølgende USB-A-til-USB-C-kabel. Alternativt kan USB-A-stikproppen tilsluttes til enhver passende strømkilde.</p>
+        <p MadCap:conditions="Product Type.TV Streamer">USB-C-stikket indsættes i enheden.</p>
+        <p MadCap:conditions="Product Type.TV Streamer">
+            <MadCap:snippetText src="LED on back of TVS_plus will show white.flsnp" />
+        </p>
+    </body>
+</html>

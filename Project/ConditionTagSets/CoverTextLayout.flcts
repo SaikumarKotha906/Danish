@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="_All-CoverTextLayouts"
+    Comment="EXCLUDE to exclude all cover text layout options"
+    OriginalName="_All-CoverTextLayouts" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Amplifon-One-Family"
+    Comment="Amplifon - one model"
+    OriginalName="Amplifon-One-Family" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Default"
+    Comment="Base GN User Guides: ProductType Brand+Family ModelNumbers ManualType"
+    OriginalName="Default" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Costco-Jabra"
+    Comment="Costco/Jabra"
+    OriginalName="Costco-Jabra" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Amplifon-Two-Families"
+    Comment="Amplifon - two models"
+    OriginalName="Amplifon-Two-Families" />
+</CatapultConditionTagSet>

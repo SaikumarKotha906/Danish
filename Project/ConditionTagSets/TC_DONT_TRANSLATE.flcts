@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment="Danish"
+    Name="da"
+    BackgroundColor="#BDB76B" />
+  <ConditionTag
+    Comment="German"
+    Name="de"
+    BackgroundColor="#4B0082" />
+  <ConditionTag
+    Comment="Spanish"
+    Name="es"
+    BackgroundColor="#188fff" />
+  <ConditionTag
+    Comment="French"
+    Name="fr"
+    BackgroundColor="#32CD32" />
+  <ConditionTag
+    Comment="_Nothing (Covers all languages)"
+    Name="_anything"
+    BackgroundColor="#FF0000" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="ja"
+    Comment="Japanese"
+    OriginalName="ja" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="pt"
+    Comment="Portuguese"
+    OriginalName="pt" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="zh-cn"
+    Comment="Simplified Chinese"
+    OriginalName="zh-cn" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="sv"
+    Comment="Swedish"
+    OriginalName="sv" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="it"
+    Comment="Italian"
+    OriginalName="it" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="us"
+    Comment="English American"
+    OriginalName="us" />
+</CatapultConditionTagSet>

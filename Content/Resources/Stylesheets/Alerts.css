@@ -1,0 +1,62 @@
+/*<meta conditions="TC_TRANSLATE._all" />*/
+
+p.note,
+p.note_table
+{
+	mc-auto-number-format: '{b}BEMÆRK: {/b}';
+}
+
+p.warning,
+p.warning_table
+{
+	mc-auto-number-format: '{b}ADVARSEL: {/b}';
+}
+
+p.caution,
+p.caution_table
+{
+	mc-auto-number-format: '{b}FORSIGTIG: {/b}';
+}
+
+/* ---- New Alert styles added by Matthew ---- */
+
+div.notes::before
+{
+	content: "BEMÆRK: ";
+}
+
+div.cautions::before
+{
+	content: "FORSIGTIG:";
+}
+
+h1.warning::before,
+h2.warning::before,
+h3.warning::before,
+h4.warning::before,
+div.warnings::before
+{
+	content: "ADVARSEL:";
+}
+
+/* ---- END New Alert styles added by Matthew ---- */
+
+MadCap|xref.SeeAlso
+{
+	mc-format: 'Se også {quote}{paratext}{quote}, side {page}';
+}
+
+MadCap|xref.See
+{
+	mc-format: 'Se {quote}{paratext}{quote}, side {page}';
+}
+
+MadCap|xref.page
+{
+	mc-format: 'Se også: {paratext}, side {page}';
+}
+
+MadCap|xref.Seepage
+{
+	mc-format: 'Se side {page}';
+}

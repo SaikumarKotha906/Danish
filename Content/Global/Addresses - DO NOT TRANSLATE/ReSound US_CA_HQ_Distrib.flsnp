@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Brands.ReSound">
+    <head>
+    </head>
+    <body>
+   
+            <MadCap:snippetBlock src="../../Addresses/Manufacturer USCA.flsnp" />
+            <MadCap:snippetBlock src="../../Addresses/Distributor USA.flsnp" />
+            <MadCap:snippetBlock src="../../Addresses/Distributor CA.flsnp" />
+     		<MadCap:snippetBlock src="../../Addresses/ManufacturerIcon.flsnp" />
+	     	<MadCap:snippetBlock src="Addresses/WorldwideHeadquartersUS.flsnp" />
+        <MadCap:snippetBlock src="Addresses/US_addresses.flsnp" />
+            <MadCap:snippetBlock src="Addresses/Local contacts/RS Canada According.flsnp" />
+		    <MadCap:snippetBlock src="../../Addresses/Local contacts.flsnp" />
+            <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+	    	<MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+		    <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+			<MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+    </body>
+</html>

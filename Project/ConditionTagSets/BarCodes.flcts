@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment=""
+    Name="401515"
+    BackgroundColor="#C8C8C8"
+    OriginalName="401515" />
+  <ConditionTag
+    Comment=""
+    Name="401512"
+    BackgroundColor="#C8C8C8"
+    OriginalName="401512" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401511"
+    Comment=""
+    OriginalName="40151100" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401536"
+    Comment="KA AMP PBTE"
+    OriginalName="401536" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401537"
+    Comment="KA AMP BTE"
+    OriginalName="401537" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401538"
+    Comment="KA AMP RIE RHA"
+    OriginalName="401538" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401539"
+    Comment="KA AMP RIE"
+    OriginalName="401539" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401540"
+    Comment="KA AMP Custom"
+    OriginalName="401540" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401541"
+    Comment="KA AMP Desk Chgr"
+    OriginalName="401541" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401858"
+    Comment="KA AMP PBTE Beryllium Busoni" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401859"
+    Comment="KA AMP BTE Beryllium Busoni" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401829"
+    Comment="KA AMP C-4 Apollo 7 Floyd" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401828"
+    Comment="KA AMP CUS-R Thorium2 Floyd" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401951"
+    Comment="KA AMP CIC nonWL Thorium3 Harper" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401950"
+    Comment="KA AMP OM RIE-RHI Hassium2 Harper" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="401949"
+    Comment="KA AMP OM RIE Hassium2 Harper" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="402266"
+    Comment="KA AMP OM MNRIE60 RHI Schumann"
+    OriginalName="402266" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="402267"
+    Comment="KA AMP OM PBTE RHI Schumann"
+    OriginalName="402067" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="402268"
+    Comment="KA AMP OM BTE RHI Schumann"
+    OriginalName="402068" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="402269"
+    Comment="KA AMP OM CUST RHI Schumann"
+    OriginalName="402069" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="402270"
+    Comment="KA AMP OM CUST BAT TH3 Schumann"
+    OriginalName="402070" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="402071"
+    Comment="KA AMP VB RIE Schumann" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="402272"
+    Comment="KA AMP VB SPBTE Schumann" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="402273"
+    Comment="KA AMP VB BTE Schumann" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="402274"
+    Comment="KA AMP VB CUST Schumann" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="402437"
+    Comment="KA AMP NX RIE RHI Grieg" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="402438"
+    Comment="KA AMP NX RIE Grieg" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="101198"
+    Comment="KA AMP Jikang"
+    OriginalName="101198" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="101156"
+    Comment="KA AMP Jikang"
+    OriginalName="101156" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="101197"
+    Comment="KA AMP NX  BTE RHI Casella" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="101199"
+    Comment="KA AMP NX PBTE RHI Casella" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="101155"
+    Comment="KA AMP NX N-WC CIC Casella" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="101196"
+    Comment="KA AMP NX CUST RHI Casella" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="101293"
+    Comment="KA AMP BTE RHA Magnesium Menotti (402687)" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="101294"
+    Comment="KA AMP ITC Rhodium Menotti (402820)" />
+  <ConditionTag
+    Name="_All-BarCodes"
+    Comment=""
+    BackgroundColor="#ff00ff" />
+</CatapultConditionTagSet>

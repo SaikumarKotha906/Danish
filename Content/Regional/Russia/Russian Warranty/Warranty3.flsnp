@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../Resources/TableStyles/Warranty_Russian.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table class="TableStyle-Warranty_Russian" cellspacing="0" style="mc-table-style: url('../../../Resources/TableStyles/Warranty_Russian.css');">
+            <col class="TableStyle-Warranty_Russian-Column-Column1" />
+            <col class="TableStyle-Warranty_Russian-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-Warranty_Russian-Body-Body1">
+                    <td class="TableStyle-Warranty_Russian-BodyE-Column1-Body1">
+                        <p style="text-align: center;">Корешок талона № 3<br />на гарантийное обслуживание СА <br /><MadCap:variable name="Basic_variables.BrandName" /> в течение 12 месяцев</p>
+                    </td>
+                    <td class="TableStyle-Warranty_Russian-BodyD-Column2-Body1" style="padding-left: 0px;padding-right: 4px;padding-bottom: 0px;">&#160;</td>
+                </tr>
+                <tr class="TableStyle-Warranty_Russian-Body-Body1">
+                    <td class="TableStyle-Warranty_Russian-BodyE-Column1-Body1">
+                        <p class="russian">Серийный №</p>
+                    </td>
+                    <td class="TableStyle-Warranty_Russian-BodyD-Column2-Body1" style="padding-left: 0px;padding-right: 4px;padding-bottom: 0px;">
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Warranty_Russian-Body-Body1">
+                    <td class="TableStyle-Warranty_Russian-BodyE-Column1-Body1">
+                        <p class="russian">Дата проверки</p>
+                    </td>
+                    <td class="TableStyle-Warranty_Russian-BodyD-Column2-Body1" style="padding-left: 0px;padding-right: 4px;padding-bottom: 0px;">
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Warranty_Russian-Body-Body1">
+                    <td class="TableStyle-Warranty_Russian-BodyE-Column1-Body1">
+                        <p class="russian">Изъят</p>
+                    </td>
+                    <td class="TableStyle-Warranty_Russian-BodyD-Column2-Body1" style="padding-left: 0px;padding-right: 4px;padding-bottom: 0px;">
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Warranty_Russian-Body-Body1">
+                    <td class="TableStyle-Warranty_Russian-BodyE-Column1-Body1">
+                        <p class="russian">Представитель ремонтной </p>
+                    </td>
+                    <td class="TableStyle-Warranty_Russian-BodyD-Column2-Body1" style="padding-left: 0px;padding-right: 4px;padding-bottom: 0px;">
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Warranty_Russian-Body-Body1">
+                    <td class="TableStyle-Warranty_Russian-BodyE-Column1-Body1">
+                        <p class="russian">организации</p>
+                    </td>
+                    <td class="TableStyle-Warranty_Russian-BodyD-Column2-Body1" style="padding-left: 0px;padding-right: 4px;padding-bottom: 0px;">
+                        <p>	м.п</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Warranty_Russian-Body-Body1">
+                    <td class="TableStyle-Warranty_Russian-BodyE-Column1-Body1" style="padding-right: 4px;padding-top: 16px;padding-bottom: 0px;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #000000;">
+                        <p>ТАЛОН № 3 на гарантийное обслуживание<br />СА <MadCap:variable name="Basic_variables.BrandName" /> течение 12 месяцев	</p>
+                    </td>
+                    <td class="TableStyle-Warranty_Russian-BodyD-Column2-Body1" style="padding-left: 0px;padding-right: 4px;padding-bottom: 0px;">&#160;</td>
+                </tr>
+                <tr class="TableStyle-Warranty_Russian-Body-Body1">
+                    <td class="TableStyle-Warranty_Russian-BodyE-Column1-Body1">
+                        <p class="russian">Серийный №</p>
+                    </td>
+                    <td class="TableStyle-Warranty_Russian-BodyD-Column2-Body1" style="padding-left: 0px;padding-right: 4px;padding-top: 7px;padding-bottom: 0px;">
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Warranty_Russian-Body-Body1">
+                    <td class="TableStyle-Warranty_Russian-BodyE-Column1-Body1">
+                        <p class="russian">Дата проверки</p>
+                    </td>
+                    <td class="TableStyle-Warranty_Russian-BodyD-Column2-Body1" style="padding-left: 0px;padding-right: 4px;padding-top: 7px;padding-bottom: 0px;">
+                        <p>Штамп</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Warranty_Russian-Body-Body1">
+                    <td class="TableStyle-Warranty_Russian-BodyE-Column1-Body1">
+                        <p class="russian">Дата продажи</p>
+                    </td>
+                    <td class="TableStyle-Warranty_Russian-BodyD-Column2-Body1" style="padding-left: 0px;padding-right: 4px;padding-top: 7px;padding-bottom: 0px;">
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Warranty_Russian-Body-Body1">
+                    <td class="TableStyle-Warranty_Russian-BodyB-Column1-Body1">
+                        <p class="russian">Представитель ремонтной <br />организации	</p>
+                    </td>
+                    <td class="TableStyle-Warranty_Russian-BodyA-Column2-Body1" style="padding-left: 0px;padding-right: 4px;padding-top: 7px;padding-bottom: 0px;">
+                        <p>м.п.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

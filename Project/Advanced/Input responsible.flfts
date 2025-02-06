@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileTagSet
+  Type="Status"
+  Comment="My set of author tags">
+  <FileTag
+    Name="Product Manager"
+    Comment="Søren Ohgrøn (Bohrium)"
+    OriginalName="Product Manager" />
+  <FileTag
+    Name="Corporate Quality"
+    Comment="Jane Dalaa, Youssef, Nichlas Brown, Henrik Povelsen, Vinnie Christensen"
+    OriginalName="Corporate Quality" />
+  <FileTag
+    Name="Audiology"
+    Comment="Anja Ravn (UX), Charlotte Jespersen"
+    OriginalName="Audiology" />
+  <FileTag
+    Name="Brand Team"
+    Comment="Rolf B (Interton)," />
+  <FileTag
+    Name="Technical Writer"
+    Comment="Isabella Jespersen" />
+  <FileTag
+    Name="Graphical Team"
+    Comment="Linda C, Anna Holst, Mette Gramkow" />
+  <FileTag
+    Name="Brand Quality Assurance"
+    Comment="Katja Petersen, Martin Sick Nielsen"
+    OriginalName="Brand Quality Assurance" />
+  <FileTag
+    Name="Development"
+    Comment="Kim Rasmussen (battery)" />
+</CatapultFileTagSet>

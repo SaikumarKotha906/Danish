@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="SubHeader">Andre lydkilder</p>
+        <p>Du kan anvende <MadCap:conditionalText MadCap:conditions="Product Type.TV Streamer">TV-Streamer+</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Product Type.Multi-Mic">Multi-Mic+</MadCap:conditionalText> sammen med andre enheder, der har kompatible udgange som fx en pc eller andre lydsystemer.</p>
+    </body>
+</html>

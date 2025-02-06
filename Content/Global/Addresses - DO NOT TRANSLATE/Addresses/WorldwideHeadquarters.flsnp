@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="AddressLanguages._All-AddressLanguages,AddressLanguages.NotInUSCustom">
+    <head>
+    </head>
+    <body>
+        <p class="AddressLine" MadCap:conditions="Backpage address setup.WorldWideHQ">
+            <MadCap:snippetText src="../../../Addresses/Worldwide Headquarters.flsnp" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="Generic.MDR"><MadCap:variable name="Basic_variables.CompanyNameLong for BackPages and CE mark" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="Generic.MDD"><MadCap:variable name="Basic_variables.CompanyNameLong for BackPages and CE mark" />
+
+        </p>
+        <p class="AddressLine"><MadCap:variable name="Addresses.Road" />
+        </p>
+        <p class="AddressLine">
+            <MadCap:snippetText src="../../../Addresses/Town.flsnp" />
+        </p>
+        <p class="AddressLine">
+            <MadCap:snippetText src="../../../Addresses/Denmark.flsnp" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="Backpage address setup.DK Telephone">
+            <MadCap:snippetText src="../../../Addresses/Telephone.flsnp" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="Backpage address setup.URL"><MadCap:variable name="Basic_variables.URL_main" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="Backpage address setup.DK&#160;CVR">
+            <MadCap:snippetText src="../../../Addresses/CVR_No.flsnp" />
+        </p>
+    </body>
+</html>

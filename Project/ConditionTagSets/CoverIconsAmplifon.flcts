@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="_All-CoverIconsAmplifon"
+    Comment=""
+    OriginalName="-All-ConverIconsAmplifon" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="KA_XF_BTE_Thin_tube_Champagne"
+    Comment=""
+    OriginalName="KA_XF_BTE_Thin_tube_Champagne" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="KA_XF_PBTE_80_Plastic_Hook_Champagne"
+    Comment=""
+    OriginalName="KA_XF_PBTE_80_Plastic_Hook_ Champagne" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="KA_XF_CIC_Anthracite"
+    Comment=""
+    OriginalName="KA_XF_CIC_Anthracite" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="KA_XF_ITC_Anthracite"
+    Comment=""
+    OriginalName="KA_XF_ITC_Anthracite" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="KA_XF_ITE_Anthracite"
+    Comment=""
+    OriginalName="KA_XF_ITE_Anthracite" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="RS_NX_ITC_non-re_Anthracite"
+    Comment="" />
+</CatapultConditionTagSet>

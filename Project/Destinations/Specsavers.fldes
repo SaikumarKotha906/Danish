@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="R:\Marketing\GN ReSound Group\4. Key Account Management\Specsavers\User guides\Advance (Trust)\MRIE - Lily 2"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="file"
+  UploadLogFile="false"
+  RemoveStale="false"
+  ChangedOnly="false"></CatapultDestination>

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment="Use only to exclude  from later version!"
+    Name="Salieri"
+    BackgroundColor="#0000ff" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Bohrium"
+    Comment="Use only to exclude from later version!" />
+  <ConditionTag
+    BackgroundColor="#ffff00"
+    Name="Hassium"
+    Comment="Use only to exclude  from later version! Umbrella for Hassium UGs"
+    OriginalName="rium based U" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Hassium 2_0"
+    Comment="Use to distinguish Hassium 2 from other Hassium versions" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Hassium 1_1"
+    Comment="Use to distinguish Hassium 1.1 from other Hassium versions" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Dubnium"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Thorium"
+    Comment="Umbrella for Thorium 2 and 3" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Domino"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="Beryllium"
+    Comment="Umbrella for Beryllium classic and for Hassium 3 (Beryllium program comprises the first BTE and PBTE RHIs)." />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="Hassium 1"
+    Comment="Use to distinguish Hassium 1 from other Hassium versions" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="Hassium 3"
+    Comment="Use to distinguish Hassium 3 from other Hassium, Thorium, Beryllium versions - as it is a mix." />
+  <ConditionTag
+    BackgroundColor="#0e7fb4"
+    Name="Thorium 3"
+    Comment="Use to distinguish Thorium 3 models from &quot;Thorium 2 for Hassium 3&quot; project. For other differences, use conditions non wireless or battery"
+    OriginalName="Thorium 3" />
+  <ConditionTag
+    BackgroundColor="#9acd32"
+    Name="Thorium 2"
+    Comment="Use to distinguish models from Thorium 3 and from &quot;Thorium 2 for Hassium 3&quot; project. For other differences, use conditions wireless or rechargeable." />
+  <ConditionTag
+    BackgroundColor="#fa8072"
+    Name="Beryllium 1"
+    Comment="Classic Beryllium.  (Beryllium is BTE and PBTE RHIs). Needed to discriminate from Beryllium for the Hassium 3 program"
+    OriginalName="Beryllium 1" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Palladium"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#4169e1"
+    Name="Rhodium"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Magnesium"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Magnesium_Jikang"
+    Comment="CIC from Thorium3 based on Bohrium" />
+  <ConditionTag
+    BackgroundColor="#f2cf90"
+    Name="Magnesium_Jikang 2"
+    Comment="CIC from Thorium3 based on Salieri"
+    OriginalName="Magnesium_Jikang 2" />
+  <ConditionTag
+    BackgroundColor="#7fffd4"
+    Name="Gallium"
+    Comment="Gallium project"
+    OriginalName="Gallium" />
+</CatapultConditionTagSet>

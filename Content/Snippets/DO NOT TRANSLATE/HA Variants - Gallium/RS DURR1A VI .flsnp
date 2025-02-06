@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="TC_DONT_TRANSLATE._anything">
+    <body>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 9">VI960S-DRWC</MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Flex demo model">, VIX60S-DRWC</MadCap:conditionalText></body>
+</html>

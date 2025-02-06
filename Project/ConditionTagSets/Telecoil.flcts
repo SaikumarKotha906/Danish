@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment=""
+    Name="HAS"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="May"
+    Comment="" />
+</CatapultConditionTagSet>

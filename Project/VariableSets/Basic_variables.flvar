@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Name="BrandName" EvaluatedDefinition="[BrandName]">[BrandName]</Variable>
+  <Variable Name="BrandName" EvaluatedDefinition="AGXR">AGXR</Variable>
+  <Variable Name="BrandName" EvaluatedDefinition="Amplifon">Amplifon</Variable>
+  <Variable Name="BrandName" EvaluatedDefinition="Audigy">Audigy</Variable>
+  <Variable Name="BrandName" EvaluatedDefinition="Beltone">Beltone</Variable>
+  <Variable Name="BrandName" EvaluatedDefinition="Danavox">Danavox</Variable>
+  <Variable Name="BrandName" EvaluatedDefinition="Interton">Interton</Variable>
+  <Variable Name="BrandName" Comment="GN Jabra (initially used for Costco)" EvaluatedDefinition="Jabra">Jabra</Variable>
+  <Variable Name="BrandName" EvaluatedDefinition="Lively">Lively</Variable>
+  <Variable Name="BrandName" EvaluatedDefinition="ReSound">ReSound</Variable>
+  <Variable Name="BrandName" EvaluatedDefinition="Specsavers">Specsavers</Variable>
+  <Variable Comment="RS and IT" Name="CompanyNameLong for Registered Trademark" EvaluatedDefinition="GN Hearing A/S">GN Hearing A/S</Variable>
+  <Variable Name="URL_main" Comment="Web adress" EvaluatedDefinition="[Website]">[Website]</Variable>
+  <Variable Name="URL_main" Comment="ReSound" EvaluatedDefinition="resound.com">resound.com</Variable>
+  <Variable Name="URL_main" Comment="Beltone" EvaluatedDefinition="beltone.com">beltone.com</Variable>
+  <Variable Name="URL_main" Comment="Interton" EvaluatedDefinition="interton.com">interton.com</Variable>
+  <Variable Name="BrandNameLong" Comment="" EvaluatedDefinition="[BrandNameLong]">[BrandNameLong]</Variable>
+  <Variable Name="BrandNameLong" Comment="" EvaluatedDefinition="GN ReSound A/S">GN ReSound A/S</Variable>
+  <Variable Name="BrandNameLong" Comment="" EvaluatedDefinition="Beltone A/S">Beltone A/S</Variable>
+  <Variable Name="BrandNameLong" Comment="" EvaluatedDefinition="Interton A/S">Interton A/S</Variable>
+  <Variable Name="BrandNameLong" Comment="" EvaluatedDefinition="Audigy">Audigy</Variable>
+  <Variable Name="URL_main" Comment="Audigy" EvaluatedDefinition="agxhearing.com">agxhearing.com</Variable>
+  <Variable Name="DocumentNumber" Comment="Numerals only, ex. 400877 (Bohrium, rechargeable)" EvaluatedDefinition="[DocNo]">[DocNo]</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound LiNX Quattro, RHA" EvaluatedDefinition="400877">400877</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound LiNX Quattro, RIE" EvaluatedDefinition="400876">400876</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Amaze, RIE" EvaluatedDefinition="400874">400874</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Amaze, RHA" EvaluatedDefinition="400875">400875</Variable>
+  <Variable Name="DocumentNumber" Comment="Audigy AGXR, RIE" EvaluatedDefinition="400934">400934</Variable>
+  <Variable Name="DocumentNumber" Comment="Audigy AGXR, RHA" EvaluatedDefinition="400935">400935</Variable>
+  <Variable Name="Language_ID" Comment="3 numerals followed by 2 letters, ex. 001DE for German" EvaluatedDefinition="[LangID]">[LangID]</Variable>
+  <Variable Name="Language_ID" Comment="British English (source)" EvaluatedDefinition="000GB">000GB</Variable>
+  <Variable Name="Language_ID" Comment="German" EvaluatedDefinition="001DE">001DE</Variable>
+  <Variable Name="Language_ID" Comment="Dutch" EvaluatedDefinition="002NL">002NL</Variable>
+  <Variable Name="Language_ID" Comment="French" EvaluatedDefinition="003FR">003FR</Variable>
+  <Variable Name="Language_ID" Comment="Spanish" EvaluatedDefinition="004ES">004ES</Variable>
+  <Variable Name="Language_ID" Comment="Italian" EvaluatedDefinition="005IT">005IT</Variable>
+  <Variable Name="Language_ID" Comment="Danish (DA)" EvaluatedDefinition="006DK">006DK</Variable>
+  <Variable Name="Language_ID" Comment="Swedish (SV)" EvaluatedDefinition="007SE">007SE</Variable>
+  <Variable Name="Language_ID" Comment="Norwegian" EvaluatedDefinition="008NO">008NO</Variable>
+  <Variable Name="Language_ID" Comment="Finnish" EvaluatedDefinition="009FI">009FI</Variable>
+  <Variable Name="Language_ID" Comment="Brazilian Portuguese" EvaluatedDefinition="010BR">010BR</Variable>
+  <Variable Name="Language_ID" Comment="Brazilian Portuguese OBSOLETE – use 010BR or 037PT (EU)" EvaluatedDefinition="010PT">010PT</Variable>
+  <Variable Name="Language_ID" Comment="American English (US-EN)" EvaluatedDefinition="011US">011US</Variable>
+  <Variable Name="Language_ID" Comment="American Canadian" EvaluatedDefinition="011US_CA">011US_CA</Variable>
+  <Variable Name="Language_ID" Comment="American Canada Veteran" EvaluatedDefinition="011US_CA_VA">011US_CA_VA</Variable>
+  <Variable Name="Language_ID" Comment="American Veterans" EvaluatedDefinition="011US_VA">011US_VA</Variable>
+  <Variable Name="Language_ID" Comment="Canadian" EvaluatedDefinition="014CA">014CA</Variable>
+  <Variable Name="Language_ID" Comment="Japanese" EvaluatedDefinition="015JA">015JA</Variable>
+  <Variable Name="Language_ID" Comment="Icelandic" EvaluatedDefinition="019IS">019IS</Variable>
+  <Variable Name="Language_ID" Comment="Chinese (mainland)" EvaluatedDefinition="024CN">024CN</Variable>
+  <Variable Name="Language_ID" Comment="Czech (CS)" EvaluatedDefinition="028CZ">028CZ</Variable>
+  <Variable Name="Language_ID" Comment="Korean" EvaluatedDefinition="030KR">030KR</Variable>
+  <Variable Name="Language_ID" Comment="French Canadian" EvaluatedDefinition="031FR_CA">031FR_CA</Variable>
+  <Variable Name="Language_ID" Comment="Slovak (GN)" EvaluatedDefinition="032SK">032SK</Variable>
+  <Variable Name="Language_ID" Comment="Spanish for Mexico (made by HQ)" EvaluatedDefinition="036MX">036MX</Variable>
+  <Variable Name="Language_ID" Comment="Portuguese for Portugal" EvaluatedDefinition="037PT">037PT</Variable>
+  <Variable Name="Language_ID" Comment="Spanish American (Mexican)" EvaluatedDefinition="044ES_US">044ES_US</Variable>
+  <Variable Name="Language_ID" Comment="Spanish American Veteran" EvaluatedDefinition="044ES_US_VA">044ES_US_VA</Variable>
+  <Variable Name="Language_ID" Comment="Taiwan Chinese" EvaluatedDefinition="047TW">047TW</Variable>
+  <Variable Name="Language_ID" Comment="India English" EvaluatedDefinition="050IND_GB">050IND_GB</Variable>
+  <Variable Name="Language_ID" Comment="Hindi" EvaluatedDefinition="051IND_HI">051IND_HI</Variable>
+  <Variable Name="Language_ID" Comment="Greek (EL)" EvaluatedDefinition="513GR">513GR</Variable>
+  <Variable Name="Language_ID" Comment="Croatian" EvaluatedDefinition="516HR">516HR</Variable>
+  <Variable Name="Language_ID" Comment="Hungarian" EvaluatedDefinition="525HU">525HU</Variable>
+  <Variable Name="Language_ID" Comment="Arabic" EvaluatedDefinition="529AR">529AR</Variable>
+  <Variable Name="Language_ID" Comment="Slovak (GPS)" EvaluatedDefinition="532SK">532SK</Variable>
+  <Variable Name="Language_ID" Comment="Slovenian" EvaluatedDefinition="534SL">534SL</Variable>
+  <Variable Name="Language_ID" Comment="Estonian (ET)" EvaluatedDefinition="535EE">535EE</Variable>
+  <Variable Name="Language_ID" Comment="Bulgarian (BG)" EvaluatedDefinition="536BGR">536BGR</Variable>
+  <Variable Name="Language_ID" Comment="Latvian" EvaluatedDefinition="537LV">537LV</Variable>
+  <Variable Name="Language_ID" Comment="Lithuanian (LT)" EvaluatedDefinition="538LTU">538LTU</Variable>
+  <Variable Name="Language_ID" Comment="Romanian" EvaluatedDefinition="540RO">540RO</Variable>
+  <Variable Name="Language_ID" Comment="Russian" EvaluatedDefinition="543RU">543RU</Variable>
+  <Variable Name="Language_ID" Comment="Taiwan Chinese" EvaluatedDefinition="547TW">547TW</Variable>
+  <Variable Name="Language_ID" Comment="Serbian (SR)" EvaluatedDefinition="549SRB">549SRB</Variable>
+  <Variable Name="Language_ID" Comment="Ukrainian (UK)" EvaluatedDefinition="554UKR">554UKR</Variable>
+  <Variable Name="Language_ID" Comment="Hebrew" EvaluatedDefinition="555HE">555HE</Variable>
+  <Variable Name="Language_ID" Comment="Macedonian" EvaluatedDefinition="556MK">556MK</Variable>
+  <Variable Name="Language_ID" Comment="Albanian" EvaluatedDefinition="557SQ">557SQ</Variable>
+  <Variable Name="Revision" Comment="Revision letter, A-B-C-D" EvaluatedDefinition="[RevisionCode]">[RevisionCode]</Variable>
+  <Variable Name="Revision" Comment="1st revision" EvaluatedDefinition="A">A</Variable>
+  <Variable Name="Revision" Comment="2nd revision" EvaluatedDefinition="B">B</Variable>
+  <Variable Name="Revision" Comment="3rd revision" EvaluatedDefinition="C">C</Variable>
+  <Variable Name="Revision" Comment="4th revision" EvaluatedDefinition="D">D</Variable>
+  <Variable Name="Revision" Comment="5th revision" EvaluatedDefinition="E">E</Variable>
+  <Variable Name="Revision" Comment="6th revision" EvaluatedDefinition="F">F</Variable>
+  <Variable Name="Revision" Comment="7th revision" EvaluatedDefinition="G">G</Variable>
+  <Variable Name="Revision" Comment="8th revision" EvaluatedDefinition="H">H</Variable>
+  <Variable Name="Revision" Comment="9th revision" EvaluatedDefinition="I">I</Variable>
+  <Variable Name="Revision" Comment="10th revision" EvaluatedDefinition="I">J</Variable>
+  <Variable Name="Revision" Comment="11th revision" EvaluatedDefinition="I">K</Variable>
+  <Variable Name="Revision" Comment="12th revision" EvaluatedDefinition="I">L</Variable>
+  <Variable Name="Revision" Comment="13th revision" EvaluatedDefinition="I">M</Variable>
+  <Variable Name="Revision" Comment="14th revision" EvaluatedDefinition="I">N</Variable>
+  <Variable Name="Revision" Comment="15th revision" EvaluatedDefinition="I">O</Variable>
+  <Variable Name="Revision" Comment="16th revision" EvaluatedDefinition="I">P</Variable>
+  <Variable Name="Revision" Comment="17th revision" EvaluatedDefinition="I">Q</Variable>
+  <Variable Name="Revision" Comment="18th revision" EvaluatedDefinition="I">R</Variable>
+  <Variable Name="Revision" Comment="19th revision" EvaluatedDefinition="I">S</Variable>
+  <Variable Name="Revision" Comment="20th revision" EvaluatedDefinition="I">T</Variable>
+  <Variable Name="Revision" Comment="21th revision" EvaluatedDefinition="I">U</Variable>
+  <Variable Name="Revision" Comment="22th revision" EvaluatedDefinition="I">V</Variable>
+  <Variable Name="Revision" Comment="23th revision" EvaluatedDefinition="I">W</Variable>
+  <Variable Name="Revision" Comment="24th revision" EvaluatedDefinition="I">X</Variable>
+  <Variable Name="Revision" Comment="25th revision" EvaluatedDefinition="I">Y</Variable>
+  <Variable Name="Revision" Comment="26th revision" EvaluatedDefinition="I">Z</Variable>
+  <Variable Name="CurrentYear" Comment="" Type="DateTime" LastUpdated="2019-01-24T13:50:39.7738041+01:00" EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon ampli-connect, RHA" EvaluatedDefinition="401003">401003</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon ampli-connect, RIE" EvaluatedDefinition="401022">401022</Variable>
+  <Variable Name="URL_main" Comment="Amplifon" EvaluatedDefinition="www.amplifon.it">www.amplifon.it</Variable>
+  <Variable Name="BrandNameLong" Comment="" EvaluatedDefinition="Amplifon S.p.A.">Amplifon S.p.A.</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound LiNX Quattro Custom" EvaluatedDefinition="401175">401175</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Amaze Custom" EvaluatedDefinition="401176">401176</Variable>
+  <Variable Name="CompanyNameLong for Registered Trademark" Comment="Beltone" EvaluatedDefinition="GN Hearing Care Corporation">GN Hearing Care Corporation</Variable>
+  <Variable Name="CompanyNameLong for BackPages and CE mark" Comment="" EvaluatedDefinition="[CompanyName BackPage and CE Mark]">[CompanyName BackPage and CE Mark]</Variable>
+  <Variable Name="CompanyNameLong for BackPages and CE mark" Comment="All" EvaluatedDefinition="GN Hearing A/S">GN Hearing A/S</Variable>
+  <Variable Name="BrandNameLong" Comment="" EvaluatedDefinition="GN Hearing A/S">GN Hearing A/S</Variable>
+  <Variable Name="DocumentNumber" Comment="SpecSavers Lily2" EvaluatedDefinition="401203">401203</Variable>
+  <Variable Name="CompanyNameLong for BackPages and CE mark" Comment="Resound" EvaluatedDefinition="GN ReSound A/S">GN ReSound A/S</Variable>
+  <Variable Name="CompanyNameLong for BackPages and CE mark" Comment="Beltone" EvaluatedDefinition="Beltone A/S">Beltone A/S</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound Quattro BTE" EvaluatedDefinition="401244">401244</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound Enzo Q" EvaluatedDefinition="401245">401245</Variable>
+  <Variable Name="DocumentNumber" Comment="BT Amaze BTE" EvaluatedDefinition="401256">401256</Variable>
+  <Variable Name="DocumentNumber" Comment="BT BOOST ULTRA" EvaluatedDefinition="401247">401247</Variable>
+  <Variable Name="DocumentNumber" Comment="UG, BT AMAZE, BTE, GB" EvaluatedDefinition="401246">401246</Variable>
+  <Variable Name="CurrentYearStatic" Comment="" EvaluatedDefinition="[yyyy]">[yyyy]</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound Key RIE" EvaluatedDefinition="401374">401374</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound Key RIE RHA" EvaluatedDefinition="401375">401375</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound Key BTE" EvaluatedDefinition="401376">401376</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound Key Power" EvaluatedDefinition="401377">401377</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound Key Custom" EvaluatedDefinition="401378">401378</Variable>
+  <Variable Name="ProductName" EvaluatedDefinition="[ProductName]">[ProductName]</Variable>
+  <Variable Name="ProductName" Comment="Interton" EvaluatedDefinition="Move">Move</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound ONE, RIE-RHA" EvaluatedDefinition="401305">401305</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Imagine, RIE-RHA" EvaluatedDefinition="401307">401307</Variable>
+  <Variable Name="DocumentNumber" Comment="Audigy Hassium RIE-RHA" EvaluatedDefinition="401309">401309</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound ONE MDR, RIE-RHA" EvaluatedDefinition="401390">401390</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound PREMIUM CHARGER" EvaluatedDefinition="401310">401310</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone PREMIUM CHARGER" EvaluatedDefinition="401311">401311</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound STANDARD CHARGER" EvaluatedDefinition="401312">401312</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone STANDARD CHARGER" EvaluatedDefinition="401313">401313</Variable>
+  <Variable Name="DocumentNumber" Comment="GEN Premium charger" EvaluatedDefinition="401314">401314</Variable>
+  <Variable Name="DocumentNumber" Comment="GEN STANDARD CHARGER" EvaluatedDefinition="401315">401315</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound ONE RIE&amp;RHI,GB w/o PP4" EvaluatedDefinition="401402">401402</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone IMG RIE&amp;RHI,GB w/o PP4" EvaluatedDefinition="401403">401403</Variable>
+  <Variable Name="ProductName" Comment="Beltone Hassium" EvaluatedDefinition="Imagine">Imagine</Variable>
+  <Variable Name="ProductName" Comment="ReSound Hassium" EvaluatedDefinition="ONE">ONE</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound Desktop charger" EvaluatedDefinition="401476">401476</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Desktop charger" EvaluatedDefinition="401477">401477</Variable>
+  <Variable Name="DocumentNumber" Comment="GEN Desktop Charger" EvaluatedDefinition="401478">401478</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - ReSound_Costco, RIE KS Prima" EvaluatedDefinition="401468">401468</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Kirkland_Costco, RIE PR Premium" EvaluatedDefinition="401469">401469</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Kirkland_Costco, PREMIUM CHARGER" EvaluatedDefinition="401474">401474</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Kirkland_Costco, STANDARD CHARGER" EvaluatedDefinition="401475">401475</Variable>
+  <Variable Name="ProductName" Comment="COSTCO_ReSound HA Hassium" EvaluatedDefinition="Prima">Prima</Variable>
+  <Variable Name="ProductName" Comment="COSTCO_KS Premium HA Hassium" EvaluatedDefinition="Kirkland Signature Premium">Kirkland Signature Premium</Variable>
+  <Variable Name="DocumentNumber" Comment="Specsavers Advance" EvaluatedDefinition="401485">401485</Variable>
+  <Variable Name="ProductName" Comment="Specsavers Advance RIE-RHI series" EvaluatedDefinition="Advance">Advance</Variable>
+  <Variable Name="DocumentNumber" Comment="Lively 2020 - Lambert 2, Bohrium" EvaluatedDefinition="401482">401482</Variable>
+  <Variable Name="BrandNameLong" Comment="" EvaluatedDefinition="Lively Hearing Corp.">Lively Hearing Corp.</Variable>
+  <Variable Name="URL_main" Comment="Lively" EvaluatedDefinition="listenlively.com">listenlively.com</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon Hassium RIE RHA" EvaluatedDefinition="401511">401511</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon Premium Charger" EvaluatedDefinition="401512">401512</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon Standard Charger" EvaluatedDefinition="401515">401515</Variable>
+  <Variable Name="DocumentNumber" Comment="GEN BTE (LiNX Q) Bonnet" EvaluatedDefinition="401529">401529</Variable>
+  <Variable Name="DocumentNumber" Comment="GEN Custom (LiNX Q) Bonnet" EvaluatedDefinition="401530">401530</Variable>
+  <Variable Name="DocumentNumber" Comment="GEN RIE (LiNX Q) Bonnet" EvaluatedDefinition="401531">401531</Variable>
+  <Variable Name="DocumentNumber" Comment="GEN RIE RHA (LiNX Q) Bonnet" EvaluatedDefinition="401532">401532</Variable>
+  <Variable Name="DocumentNumber" Comment="GEN SPBTE (LiNX Q) Bonnet" EvaluatedDefinition="401533">401533</Variable>
+  <Variable Name="DocumentNumber" Comment="GEN RIE/RHA (RS ONE) Bonnet" EvaluatedDefinition="401534">401534</Variable>
+  <Variable Name="DocumentNumber" Comment="BT RELY RIE" EvaluatedDefinition="401379">401379</Variable>
+  <Variable Name="DocumentNumber" Comment="BT RELY RIE RHA" EvaluatedDefinition="401380">401380</Variable>
+  <Variable Name="DocumentNumber" Comment="BT RELY BTE" EvaluatedDefinition="401381">401381</Variable>
+  <Variable Name="DocumentNumber" Comment="BT RELY Power BTE" EvaluatedDefinition="401382">401382</Variable>
+  <Variable Name="DocumentNumber" Comment="BT RELY Custom" EvaluatedDefinition="401383">401383</Variable>
+  <Variable Name="DocumentNumber" Comment="INT MOVE RIE" EvaluatedDefinition="401384">401384</Variable>
+  <Variable Name="DocumentNumber" Comment="INT MOVE RIE RHA" EvaluatedDefinition="401385">401385</Variable>
+  <Variable Name="DocumentNumber" Comment="INT MOVE BTE" EvaluatedDefinition="401386">401386</Variable>
+  <Variable Name="DocumentNumber" Comment="INT MOVE Power BTE" EvaluatedDefinition="401387">401387</Variable>
+  <Variable Name="DocumentNumber" Comment="INT MOVE Custom" EvaluatedDefinition="401388">401388</Variable>
+  <Variable Name="CompanyNameLong for BackPages and CE mark" Comment="Interton A/S" EvaluatedDefinition="Interton A/S">Interton A/S</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon Salieri PBTE ampli-easy" EvaluatedDefinition="401536">401536</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon Salieri BTE ampli-easy" EvaluatedDefinition="401537">401537</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon Salieri RHA ampli-energy" EvaluatedDefinition="401538">401538</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon Salieri RIE ampli-mini" EvaluatedDefinition="401539">401539</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon Salieri custom ampli-mini" EvaluatedDefinition="401540">401540</Variable>
+  <Variable Name="DocumentNumber" Comment="BeMore Salieri RIE" EvaluatedDefinition="401561">401561</Variable>
+  <Variable Name="DocumentNumber" Comment="BeMore Salieri RIE RHA" EvaluatedDefinition="401562">401562</Variable>
+  <Variable Name="DocumentNumber" Comment="BeMore Salieri BTE" EvaluatedDefinition="401563">401563</Variable>
+  <Variable Name="DocumentNumber" Comment="BeMore Salieri PBTE" EvaluatedDefinition="401564">401564</Variable>
+  <Variable Name="DocumentNumber" Comment="BeMore Salieri Custom" EvaluatedDefinition="401565">401565</Variable>
+  <Variable Name="ProductName" Comment="Amplifon BTEs" EvaluatedDefinition="ampli-easy">ampli-easy</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Imagine, MDR, RIE-RHA" EvaluatedDefinition="401391">401391</Variable>
+  <Variable Name="DocumentNumber" Comment="Audigy Hassium, MDR, RIE-RHA" EvaluatedDefinition="401392">401392</Variable>
+  <Variable Name="DocumentNumber" Comment="401541 AMPLI-CHARGE Desk" EvaluatedDefinition="401541">401541</Variable>
+  <Variable Name="DocumentNumber" Comment="Jabra BTE (Bonnet-Bohrium-Brockway)" EvaluatedDefinition="401569">401569</Variable>
+  <Variable Name="DocumentNumber" Comment="Jabra RIE (Bonnet-Bohrium-Brockway)" EvaluatedDefinition="401570">401570</Variable>
+  <Variable Name="DocumentNumber" Comment="Jabra RIE-RHA (Bonnet-Bohrium-Brockway)" EvaluatedDefinition="401571">401571</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - NHS - danalogic BTE Bohrium" EvaluatedDefinition="401584">401584</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - NHS - danalogic Custom Bohrium" EvaluatedDefinition="401585">401585</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - NHS - danalogic RIE Bohrium" EvaluatedDefinition="401586">401586</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - NHS - danalogic RIE-RHA Bohrium" EvaluatedDefinition="401587">401587</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - NHS - danalogic PBTE Bohrium" EvaluatedDefinition="401588">401588</Variable>
+  <Variable Name="URL_main" Comment="Jabra (GN AUDIO A/S)" EvaluatedDefinition="jabra.com/support">jabra.com/support</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound One Custom, RHA" EvaluatedDefinition="401637">401637</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Imagine Custom, RHA" EvaluatedDefinition="401638">401638</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound Charger C-4 - AP7" EvaluatedDefinition="401639">401639</Variable>
+  <Variable Name="DocumentNumber" Comment="BeltoneCharger C-4 - AP7" EvaluatedDefinition="401640">401640</Variable>
+  <Variable Name="URL_main" Comment="Amplifon" EvaluatedDefinition="amplifon.com">amplifon.com</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Costco - ENH PM Hassium" EvaluatedDefinition="401641">401641</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Fuji - RIE RHA Hassium" EvaluatedDefinition="401733">401733</Variable>
+  <Variable Name="DocumentNumber" Comment="UG,REMOTE CONTROL,RS,GB,MDR" EvaluatedDefinition="401747">401747</Variable>
+  <Variable Name="DocumentNumber" Comment="UG,RS RT,CHGR STD,GB,MDR" EvaluatedDefinition="401748">401748</Variable>
+  <Variable Name="DocumentNumber" Comment="UG,RS,CHGR DSKTP,GB,MDR" EvaluatedDefinition="401749">401749</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound ONE PBTE RHA no PP4" EvaluatedDefinition="401759">401759</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Imagine PBTE-RHA no PP4" EvaluatedDefinition="401760">401760</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore Beryllium PBTE-RHA" EvaluatedDefinition="401778">401778</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore Beryllium BTE-RHA" EvaluatedDefinition="401773">401773</Variable>
+  <Variable Name="DocumentNumber" EvaluatedDefinition="401707" Comment="ReSound ONE BTE RHA wPP4">401707</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound ONE PBTE PRHA wPP4" EvaluatedDefinition="401771">401771</Variable>
+  <Variable Name="DocumentNumber" EvaluatedDefinition="401772" Comment="Beltone Imagine PBTE-RHA wPP4">401772</Variable>
+  <Variable Name="DocumentNumber" EvaluatedDefinition="401708" Comment="Beltone Imagine BTE-RHA wPP4">401708</Variable>
+  <Variable Name="DocumentNumber" EvaluatedDefinition="401761" Comment="ReSound ONE BTE RHA no PP4">401761</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Imagine BTE-RHA no PP4" EvaluatedDefinition="401762">401762</Variable>
+  <Variable Name="DocumentNumber" Comment="GEN Charger C-4 - AP7" EvaluatedDefinition="401823">401823</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound One Custom, RHA no PP4" EvaluatedDefinition="401824">401824</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Imagine Custom, RHA" EvaluatedDefinition="401825">401825</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BM Custom Thorium2 RHA" EvaluatedDefinition="401827">401827</Variable>
+  <Variable Name="DocumentNumber" Comment="KA Costco JAB Thorium ITE-C PP9" EvaluatedDefinition="401820">401820</Variable>
+  <Variable Name="URL_main" Comment="Costco RS" EvaluatedDefinition="future.resound.com">future.resound.com</Variable>
+  <Variable Name="DocumentNumber" Comment="KA COSTCO MDR PBTE-RHA" EvaluatedDefinition="401844">401844</Variable>
+  <Variable Name="DocumentNumber" Comment="KA COSTCO MDR BTE-RHA" EvaluatedDefinition="401845">401845</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP MDR PBTE-RHA" EvaluatedDefinition="401858">401858</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP MDR BTE-RHA" EvaluatedDefinition="401859">401859</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Soler (Danavox) Alya RIE" EvaluatedDefinition="401683">401683</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Soler (Danavox) Barani BTE" EvaluatedDefinition="401693">401693</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Soler (Danavox) Barani Custom" EvaluatedDefinition="401694">401694</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Soler (Danavox) Barani RIE" EvaluatedDefinition="401695">401695</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Soler (Danavox) Barani RIE-RHI" EvaluatedDefinition="401696">401696</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Soler (Danavox) Barani SPBTE" EvaluatedDefinition="401697">401697</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Soler (Danavox) Klar RIE" EvaluatedDefinition="401676">401676</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Soler (Danavox) Klar RIE-RHI" EvaluatedDefinition="401677">401677</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Soler (Danavox) Klar BTE" EvaluatedDefinition="401678">401678</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Soler (Danavox) Klar SPBTE" EvaluatedDefinition="401679">401679</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - Soler (Danavox) Klar Custom" EvaluatedDefinition="401680">401680</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound X RIE w PP4" EvaluatedDefinition="401848">401848</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound X RIE no PP4" EvaluatedDefinition="401849">401849</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound X RIE-RHI w PP4" EvaluatedDefinition="401850">401850</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound X RIE-RHI no PP4" EvaluatedDefinition="401851">401851</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone X RIE w PP4" EvaluatedDefinition="401852">401852</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone X RIE no PP4" EvaluatedDefinition="401853">401853</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone X RIE-RHI w PP4" EvaluatedDefinition="401854">401854</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone X RIE-RHI no PP4" EvaluatedDefinition="401855">401855</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound ONE MDR, CIC, w/PP4, non-wireless!" EvaluatedDefinition="401865">401865</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound ONE MDR, CIC, noPP4, non-wireless!" EvaluatedDefinition="401866">401866</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone IMG MDR, CIC, w/PP4, non-wireless!" EvaluatedDefinition="401867">401867</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone IMG MDR, CIC, noPP4, non-wireless!" EvaluatedDefinition="401868">401868</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound ONE PBTE RHA no PP4 - no Canada - Temp edition for Q1-2022" EvaluatedDefinition="401885">401885</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Imagine PBTE-RHA - no Canada - Temp edition for Q1-2022" EvaluatedDefinition="401886">401886</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound ONE BTE RHA no PP4 - no CE - no Canada - Temp edition for Q1-2022" EvaluatedDefinition="401887">401887</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Imagine BTE-RHA - no CE - no Canada - Temp edition for Q1-2022" EvaluatedDefinition="401888">401888</Variable>
+  <Variable Name="DocumentNumber" Comment="KA Lively BM Hassium with My Lively app name" EvaluatedDefinition="401918">401918</Variable>
+  <Variable Name="DocumentNumber" Comment="KA Lively BM Salieri RIE with My Lively app name" EvaluatedDefinition="401919">401919</Variable>
+  <Variable Name="DocumentNumber" Comment="KA Lively BM Salieri RIE-RHA with My Lively app name" EvaluatedDefinition="401920">401920</Variable>
+  <Variable Name="URL_main" Comment="Jabra" EvaluatedDefinition="gnhearing.com">gnhearing.com</Variable>
+  <Variable Name="URL_main" Comment="Belton Malaysia" EvaluatedDefinition="beltone-hearing.com">beltone-hearing.com</Variable>
+  <Variable Name="DocumentNumber" Comment="KA Audigy AGXR Beryllium BTE-RHA" EvaluatedDefinition="401921">401921</Variable>
+  <Variable Name="DocumentNumber" Comment="KA Audigy AGXR Beryllium PBTE-RHA" EvaluatedDefinition="401922">401922</Variable>
+  <Variable Name="DocumentNumber" Comment="KA HBM Celebrate Beryllium BTE-RHA" EvaluatedDefinition="401925">401925</Variable>
+  <Variable Name="DocumentNumber" Comment="KA HBM Celebrate Beryllium PBTE-RHA" EvaluatedDefinition="401926">401926</Variable>
+  <Variable Name="Language_ID" Comment="Turkish" EvaluatedDefinition="548TUR">548TUR</Variable>
+  <Variable Name="URL_compatibility" Comment="To be used in App and HI UGs for user website addresses" EvaluatedDefinition="[URL_compatibility]">[URL_compatibility]</Variable>
+  <Variable Name="URL_compatibility" Comment="" EvaluatedDefinition="go.gn.com/app-support">go.gn.com/app-support</Variable>
+  <Variable Name="URL_compatibility" Comment="" EvaluatedDefinition="resound.com/compatibility">resound.com/compatibility</Variable>
+  <Variable Name="URL_compatibility" Comment="" EvaluatedDefinition="beltone.com/compatibility">beltone.com/compatibility</Variable>
+  <Variable Name="URL_compatibility" Comment="" EvaluatedDefinition="interton.com/compatibility">interton.com/compatibility</Variable>
+  <Variable Name="Language_ID" Comment="Polish" EvaluatedDefinition="512PL">512PL</Variable>
+  <Variable Name="Language_ID" Comment="Thai" EvaluatedDefinition="552THA">552THA</Variable>
+  <Variable Name="Language_ID" Comment="Indonesian" EvaluatedDefinition="550INA">550INA</Variable>
+  <Variable Name="Language_ID" Comment="Bosnian" EvaluatedDefinition="539BS">539BS</Variable>
+  <Variable Name="Language_ID" Comment="Vietnamese" EvaluatedDefinition="553VNM">553VNM</Variable>
+  <Variable Name="Language_ID" Comment="Malay" EvaluatedDefinition="551MYS">551MYS</Variable>
+  <Variable Name="Language_ID" Comment="Japanese (GPS)" EvaluatedDefinition="515JP">515JP</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore Thorium 2 custom RHA" EvaluatedDefinition="401826">401826</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP Thorium 2 custom RHA" EvaluatedDefinition="401828">401828</Variable>
+  <Variable Name="DocumentNumber" Comment="KA XB HBM Celebrate CUST RHA (Thorium2)" EvaluatedDefinition="401838">401838</Variable>
+  <Variable Name="DocumentNumber" Comment="KA XB Audigy AGX7 CUST RHA (Thorium 2)" EvaluatedDefinition="401839">401839</Variable>
+  <Variable Name="DocumentNumber" Comment="KA COSTCO Jab CIC nonWL (Thorium 3)" EvaluatedDefinition="401945">401945</Variable>
+  <Variable Name="DocumentNumber" Comment="KA-AMP ON CIC nonWL (Thorium 3)" EvaluatedDefinition="401951">401951</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore XB CIC nonWL (Thorium 3)" EvaluatedDefinition="401957">401957</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AGX7 CIC nonWL (Thorium 3)" EvaluatedDefinition="401960">401960</Variable>
+  <Variable Name="DocumentNumber" Comment="KA HBM Celebrate CIC nonWL (Thorium 3)" EvaluatedDefinition="401963">401963</Variable>
+  <Variable Name="Language_ID" Comment="Moldovan" EvaluatedDefinition="560MO">560MO</Variable>
+  <Variable Name="DocumentNumber" Comment="KA COSTCO Jab RIE (Holten - Hassium 2)" EvaluatedDefinition="401943">401943</Variable>
+  <Variable Name="DocumentNumber" Comment="KA COSTCO Jab RIE-RHA (Holten - Hassium 2)" EvaluatedDefinition="401944">401944</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP OM RIE (Harper - Hassium 2)" EvaluatedDefinition="401949">401949</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP OM RIE-RHA (Harper - Hassium 2)" EvaluatedDefinition="401950">401950</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore XD RIE (Hummel - Hassium 2)" EvaluatedDefinition="401955">401955</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore XD RIE-RHA (Hummel - Hassium 2)" EvaluatedDefinition="401956">401956</Variable>
+  <Variable Name="DocumentNumber" Comment="KA Audigy AGX9 RIE (Hummel - Hassium 2)" EvaluatedDefinition="401958">401958</Variable>
+  <Variable Name="DocumentNumber" Comment="KA Audigy AGX9 RIE-RHA (Hummel - Hassium 2)" EvaluatedDefinition="401959">401959</Variable>
+  <Variable Name="DocumentNumber" Comment="KA HBM Celebrate RIE (Hummel - Hassium 2)" EvaluatedDefinition="401961">401961</Variable>
+  <Variable Name="DocumentNumber" Comment="KA HBM Celebrate RIE-RHA (Hummel - Hassium 2)" EvaluatedDefinition="401962">401962</Variable>
+  <Variable Name="DocumentNumber" Comment="KA Wenjing Vibrant, RIE (Bohrium)" EvaluatedDefinition="401974">401974</Variable>
+  <Variable Name="DocumentNumber" Comment="KA Wenjing Vibrant, BTE (Bohrium)" EvaluatedDefinition="401976">401976</Variable>
+  <Variable Name="DocumentNumber" Comment="KA Wenjing Vibrant, Custom CSX10, CSI12, CSI13" EvaluatedDefinition="401977">401977</Variable>
+  <Variable Name="DocumentNumber" Comment="KA Wenjing Wing PBTE HP_SP (Bohrium Enzo)" EvaluatedDefinition="401978">401978</Variable>
+  <Variable Name="DocumentNumber" Comment="RS C-1 Rechargable charger MDR" EvaluatedDefinition="402041">402041</Variable>
+  <Variable Name="DocumentNumber" Comment="BT C-1 Rechargable charger MDR" EvaluatedDefinition="402042">402042</Variable>
+  <Variable Name="DocumentNumber" Comment="BT C-2 Standard charger MDR" EvaluatedDefinition="402043">402043</Variable>
+  <Variable Name="DocumentNumber" Comment="BT C-3 Desktop charger MDR" EvaluatedDefinition="402044">402044</Variable>
+  <Variable Name="DocumentNumber" Comment="GEN C-1 Rechargable charger MDR" EvaluatedDefinition="402045">402045</Variable>
+  <Variable Name="DocumentNumber" Comment="GEN C-2 Standard charger MDR" EvaluatedDefinition="402046">402046</Variable>
+  <Variable Name="DocumentNumber" Comment="GEN C-3 Desktop charger MDR" EvaluatedDefinition="402047">402047</Variable>
+  <Variable Name="ProductName" Comment="RC3" EvaluatedDefinition="Remote Control">Remote Control</Variable>
+  <Variable Name="ProductName" Comment="Beltone" EvaluatedDefinition="Rely">Rely</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound OMNIA60 RIE-RHI - Hassium 3" EvaluatedDefinition="401930">401930</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Achieve60 RIE-RHI - Hassium 3" EvaluatedDefinition="401932">401932</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - NHS BM Danalogic BTE-R" EvaluatedDefinition="402114">402114</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - NHS BM Danalogic PBTE-R" EvaluatedDefinition="402115">402115</Variable>
+  <Variable Name="Language_ID" Comment="Spain (GPS)" EvaluatedDefinition="504ES">504ES</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound OMNIA, CIC non-WL (Thorium 3 for Hassium 3)" EvaluatedDefinition="402155">402155</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Achieve, CIC non-WL (Thorium 3 for Hassium 3)" EvaluatedDefinition="402159">402159</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound OMNIA, CUST WL (Thorium 2 for Hassium 3)" EvaluatedDefinition="402154">402154</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Achieve, CUST WL (Thorium 2 for Hassium 3)" EvaluatedDefinition="402158">402158</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound OMNIA, BTE-RHA (Beryllium for Hassium 3)" EvaluatedDefinition="402152">402152</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound OMNIA, PBTE-RHA (Beryllium for Hassium 3)" EvaluatedDefinition="402153">402153</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Achieve, BTE-RHA (Beryllium for Hassium 3)" EvaluatedDefinition="402156">402156</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Achieve, PBTE-RHA (Beryllium for Hassium 3)" EvaluatedDefinition="402157">402157</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound OMNIA, BTE-RHA (Beryllium for Hassium 3) no PP4" EvaluatedDefinition="402195">402195</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Achieve, BTE-RHA (Beryllium for Hassium 3) no PP4" EvaluatedDefinition="402199">402199</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound OMNIA60 RIE-RHI - Hassium 3 no PP4" EvaluatedDefinition="401931">401931</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Achieve60 RIE-RHI - Hassium 3 no PP4" EvaluatedDefinition="401933">401933</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Achieve, CUST WL (Thorium 2 for Hassium 3) no PP4" EvaluatedDefinition="402201">402201</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound OMNIA, CUST WL (Thorium 2 for Hassium 3) no PP4" EvaluatedDefinition="402197">402197</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound OMNIA, PBTE-RHA (Beryllium for Hassium 3) no PP4" EvaluatedDefinition="402196">402196</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Achieve, PBTE-RHA (Beryllium for Hassium 3) no PP4" EvaluatedDefinition="402200">402200</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound OMNIA, CIC non-WL (Thorium 3 for Hassium 3) no PP4" EvaluatedDefinition="402198">402198</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Achieve, CIC non-WL (Thorium 3 for Hassium 3) no PP4" EvaluatedDefinition="402202">402202</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore XD MiniRIE60-RHA Tianhua - Hassium 3)" EvaluatedDefinition="402174">402174</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore XD BTE-RHA Tianhua - Hassium 3)" EvaluatedDefinition="402175">402175</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore XD PBTE-RHA Tianhua - Hassium 3)" EvaluatedDefinition="402176">402176</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore XD CUST-RHA Tianhua - Hassium 3)" EvaluatedDefinition="402177">402177</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore XD CIC nonWL nonRHA Tianhua - Hassium 3)" EvaluatedDefinition="402178">402178</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP OM MNRIE60 RHI Schumann" EvaluatedDefinition="402266">402266</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP OM PBTE RHI Schumann" EvaluatedDefinition="402267">402267</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP OM BTE RHI Schumann" EvaluatedDefinition="402268">402268</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP OM CUST RHI Schumann" EvaluatedDefinition="402269">402269</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP OM CUST BAT TH3 Schumann" EvaluatedDefinition="402270">402270</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP VB RIE Schumann" EvaluatedDefinition="402271">402271</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP VB SPBTE Schumann" EvaluatedDefinition="402272">402272</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP VB BTE Schumann" EvaluatedDefinition="402273">402273</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP VB CUST Schumann" EvaluatedDefinition="402274">402274</Variable>
+  <Variable Name="BrandName" Comment="" EvaluatedDefinition="GN Hearing">GN Hearing</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VB RS RIE CN" EvaluatedDefinition="401988">401988</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VB RS RIE_RHA CN" EvaluatedDefinition="401989">401989</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VB RS BTE CN" EvaluatedDefinition="401990">401990</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VB RS LQ custom CN" EvaluatedDefinition="401991">401991</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VB RS PBTE CN" EvaluatedDefinition="401992">401992</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VX RS RIE CN" EvaluatedDefinition="401993">401993</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VX RS RIE_RHA CN" EvaluatedDefinition="401994">401994</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VX RS BTE CN" EvaluatedDefinition="401995">401995</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VX RS PBTE CN" EvaluatedDefinition="401996">401996</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VX LQ custom CN" EvaluatedDefinition="401997">401997</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VX RS RIE CN" EvaluatedDefinition="401998">401998</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VX RS RIE RHA CN" EvaluatedDefinition="401999">401999</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VX RS BTE CN" EvaluatedDefinition="402000">402000</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VX RS PBTE CN" EvaluatedDefinition="402001">402001</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ VX RS Custom CN" EvaluatedDefinition="402002">402002</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ JB SYM RIE CN" EvaluatedDefinition="402059">402059</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ JB SYM RIE RHA CN" EvaluatedDefinition="402060">402060</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ JB SYM BTE CN" EvaluatedDefinition="402061">402061</Variable>
+  <Variable Name="DocumentNumber" Comment="KA WJ JB SYM PBTE CN" EvaluatedDefinition="402062">402062</Variable>
+  <Variable Name="DocumentNumber" Comment="402063 KA WJ JB SYM Custom CN" EvaluatedDefinition="402063">402063</Variable>
+  <Variable Name="URL_main" Comment="GEN App" EvaluatedDefinition="go.gn.com/app-support">go.gn.com/app-support</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore XD MiniRIE60-RHA (Field 2)" EvaluatedDefinition="402336">402336</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore XD BTE-RHA (Field 2)" EvaluatedDefinition="402337">402337</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore XD PBTE-RHA (Field 2)" EvaluatedDefinition="402338">402338</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore XD CUST-RHA (Field 2)" EvaluatedDefinition="402339">402339</Variable>
+  <Variable Name="DocumentNumber" Comment="KA BeMore XD CIC nonWL nonRHA (Field 2)" EvaluatedDefinition="">402340</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP VB,RIE" EvaluatedDefinition="402271">402271</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP SPBTE" EvaluatedDefinition="402272">402272</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP BTE" EvaluatedDefinition="402273">402273</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP CUSTOM" EvaluatedDefinition="402274">402274</Variable>
+  <Variable Name="URL_main" Comment="RS Costco url" EvaluatedDefinition="jabra.com/enhancepro">jabra.com/enhancepro</Variable>
+  <Variable Name="URL_main" Comment="JabraEnhance (formerly Lively)'s webpage" EvaluatedDefinition="jabraenhance.com">jabraenhance.com</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - CELEB XC RIE" EvaluatedDefinition="401660">401660</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - CELEB XC RIE-RHA" EvaluatedDefinition="401661">401661</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - CELEB XC" EvaluatedDefinition="401662">401662</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - CELEB HP-SP BTE" EvaluatedDefinition="401663">401663</Variable>
+  <Variable Name="DocumentNumber" Comment="KA - CELEB XC CUST" EvaluatedDefinition="401664">401664</Variable>
+  <Variable Name="DocumentNumber" Comment="OTC Jabra Enhance Select 200 RIE RHA (Hassium)" EvaluatedDefinition="402299">402299</Variable>
+  <Variable Name="DocumentNumber" Comment="Audigy AGX9, MNRIE RHI" EvaluatedDefinition="402275">402275</Variable>
+  <Variable Name="DocumentNumber" Comment="Audigy AGX9, BTE" EvaluatedDefinition="402276">402276</Variable>
+  <Variable Name="DocumentNumber" Comment="Audigy AGX9, PBTE" EvaluatedDefinition="402277">402277</Variable>
+  <Variable Name="DocumentNumber" Comment="Audigy AGX9, CUST RHI" EvaluatedDefinition="402278">402278</Variable>
+  <Variable Name="DocumentNumber" Comment="Audigy AGX9, CUSTOM" EvaluatedDefinition="402279">402279</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Celebrate, MNRIE RHI" EvaluatedDefinition="402280">402280</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Celebrate, BTE" EvaluatedDefinition="402281">402281</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Celebrate, PBTE" EvaluatedDefinition="402282">402282</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Celebrate, CUST RHI" EvaluatedDefinition="402283">402283</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone Celebrate, CUSTOM" EvaluatedDefinition="402284">402284</Variable>
+  <Variable Name="URL_Accessories" Comment="Link to accessories web page" EvaluatedDefinition="[URL_Accessories]">[URL_Accessories]</Variable>
+  <Variable Name="URL_Accessories" Comment="(E.g. wireless) accessories for Jabra Enhance OTC HAs" EvaluatedDefinition="jabraenhance.com/accessories">jabraenhance.com/accessories</Variable>
+  <Variable Name="URL_terms_and_conditions" Comment="Webpage stating e.g. warranty terms" EvaluatedDefinition="[URL_terms_and_conditions]">[URL_terms_and_conditions]</Variable>
+  <Variable Name="URL_terms_and_conditions" Comment="Warranty terms for Jabra Enhance OTC HAs" EvaluatedDefinition="jabraenhance.com/terms-and-conditions">jabraenhance.com/terms-and-conditions</Variable>
+  <Variable Name="BrandName" Comment="Formerly Lively" EvaluatedDefinition="Jabra Enhance">Jabra Enhance</Variable>
+  <Variable Name="BrandNameLong" Comment="" EvaluatedDefinition="Jabra Enhance">Jabra Enhance</Variable>
+  <Variable Name="URL_compatibility" Comment="Compatibility site maintained by Jabra Enhance for OTC HAs" EvaluatedDefinition="jabraenhance.com/compatibility">jabraenhance.com/compatibility</Variable>
+  <Variable Name="DocumentNumber" Comment="OTC Jabra Enhance Select 100 RIE RHA (Salieri) PP4" EvaluatedDefinition="402300">402300</Variable>
+  <Variable Name="DocumentNumber" Comment="OTC Jabra Enhance Select 50R RIE RHA (Salieri) PP3" EvaluatedDefinition="402301">402301</Variable>
+  <Variable Name="DocumentNumber" Comment="OTC Jabra Enhance Select 50 RIE (Salieri) PP3" EvaluatedDefinition="402302">402302</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AGX BM RIE RHA" EvaluatedDefinition="401718">401718</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AGX BM BTE" EvaluatedDefinition="401719">401719</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AGX BM PBTE" EvaluatedDefinition="401720">401720</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AGX" EvaluatedDefinition="401721">401721</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AGX BM RIE" EvaluatedDefinition="401717">401717</Variable>
+  <Variable Name="DocumentNumber" Comment="HBM BM RIE w RH" EvaluatedDefinition="401667">401667</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound NEXIA 312/13 no PP4 (Palladium)" EvaluatedDefinition="402389">402389</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound NEXIA 312/13 w/PP4 (Palladium)" EvaluatedDefinition="402390">402390</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound NEXIA MICRIE RHI no PP4 (Palladium)" EvaluatedDefinition="402391">402391</Variable>
+  <Variable Name="DocumentNumber" Comment="ReSound NEXIA MICRIE RHI w/PP4 (Palladium)" EvaluatedDefinition="402392">402392</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone SERENE 312/13 no PP4 (Palladium)" EvaluatedDefinition="402393">402393</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone SERENE 312/13 w/PP4 (Palladium)" EvaluatedDefinition="402394">402394</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone SERENE MICRIE RHI no PP4 (Palladium)" EvaluatedDefinition="402395">402395</Variable>
+  <Variable Name="DocumentNumber" Comment="Beltone SERENE MICRIE RHI w/PP4 (Palladium)" EvaluatedDefinition="402396">402396</Variable>
+  <Variable Name="DocumentNumber" Comment="BeMore XF RIE (Palladium)" EvaluatedDefinition="402399">402399</Variable>
+  <Variable Name="DocumentNumber" Comment="BeMore XF MICRIE RHI (Palladium)" EvaluatedDefinition="402400">402400</Variable>
+  <Variable Name="DocumentNumber" Comment="Neuroth CIC nonWL" EvaluatedDefinition="402404">402404</Variable>
+  <Variable Name="DocumentNumber" Comment="OTC2 JBR ENH SEL 200 RIE-RHI" EvaluatedDefinition="402424">402424</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP NX MICRIE RHI (Palladium)" EvaluatedDefinition="402437">402437</Variable>
+  <Variable Name="DocumentNumber" Comment="KA AMP NX RIE (Palladium)" EvaluatedDefinition="402438">402438</Variable>
+  <Variable Name="DocumentNumber" Comment="KA JBR ENP 20 MICRIE RHI (Palladium)" EvaluatedDefinition="402446">402446</Variable>
+  <Variable Name="DocumentNumber" Comment="KA JBR ENP 20 RIE (Palladium)" EvaluatedDefinition="402447">402447</Variable>
+  <Variable Name="DocumentNumber" Comment="KA DANA AMBIO 6, RIE" EvaluatedDefinition="402448">402448</Variable>
+  <Variable Name="DocumentNumber" Comment="KA DANA AMBIO 6, BTE" EvaluatedDefinition="402449">402449</Variable>
+  <Variable Name="DocumentNumber" Comment="KA DANA AMBIO 6, PBTE" EvaluatedDefinition="402450">402450</Variable>
+  <Variable Name="BrandName" Comment="" EvaluatedDefinition="Hearing Australia">Hearing Australia</Variable>
+  <Variable Name="DocumentNumber" Comment="KA Hearing Australia (HAUS)" EvaluatedDefinition="402581">402581</Variable>
+  <Variable Name="DocumentNumber" Comment="C1 Prem Chgr OTC-FDA" EvaluatedDefinition="402584">402584</Variable>
+  <Variable Name="DocumentNumber" Comment="RS NX, BTE RHI (Magnesium)" EvaluatedDefinition="402585">402585</Variable>
+  <Variable Name="DocumentNumber" Comment="RS NX, PBTE RHI (Magnesium)" EvaluatedDefinition="402587">402587</Variable>
+  <Variable Name="DocumentNumber" Comment="RS NX, CIC non-WL (Magnesium)" EvaluatedDefinition="402589">402589</Variable>
+  <Variable Name="DocumentNumber" Comment="RS NX, CUST-RHI (Magnesium)" EvaluatedDefinition="402591">402591</Variable>
+  <Variable Name="DocumentNumber" Comment="BT SER, BTE RHI (Magnesium)" EvaluatedDefinition="402593">402593</Variable>
+  <Variable Name="DocumentNumber" Comment="BT SER, PBTE RHI (Magnesium)" EvaluatedDefinition="402595">402595</Variable>
+  <Variable Name="DocumentNumber" Comment="BT SER, CIC non-WL (Magnesium)" EvaluatedDefinition="402597">402597</Variable>
+  <Variable Name="DocumentNumber" Comment="BT SER, CUST-RHI (Magnesium)" EvaluatedDefinition="402599">402599</Variable>
+  <Variable Name="DocumentNumber" Comment="BM XF, BTE RHI (Magnesium)" EvaluatedDefinition="402601">402601</Variable>
+  <Variable Name="DocumentNumber" Comment="BM XF, PBTE RHI (Magnesium)" EvaluatedDefinition="402602">402602</Variable>
+  <Variable Name="DocumentNumber" Comment="BM XF, CIC non-WL (Magnesium)" EvaluatedDefinition="402603">402603</Variable>
+  <Variable Name="DocumentNumber" Comment="BM XF, CUST-RHI (Magnesium)" EvaluatedDefinition="402604">402604</Variable>
+  <Variable Name="URL_main" Comment="GN Hearing Costco" EvaluatedDefinition="vsgnresound.com">vsgnresound.com</Variable>
+  <Variable Name="ProductName" Comment="ReSound Palladium/Magnesium" EvaluatedDefinition="Nexia">Nexia</Variable>
+  <Variable Name="ProductName" Comment="Beltone Palladium/Magnesium" EvaluatedDefinition="Serene">Serene</Variable>
+  <Variable Name="ProductName" Comment="Jabra Enhance OTC" EvaluatedDefinition="Select">Select</Variable>
+  <Variable Name="ProductName" Comment="ReSound Hassium 2&amp;3" EvaluatedDefinition="OMNIA">OMNIA</Variable>
+  <Variable Name="ProductName" Comment="Beltone Hassium 2&amp;3" EvaluatedDefinition="Achieve">Achieve</Variable>
+  <Variable Name="ProductName" Comment="BeMore derivatives for Bohrium" EvaluatedDefinition="XA">XA</Variable>
+  <Variable Name="ProductName" Comment="BeMore derivatives for Hassium/Beryllium 1" EvaluatedDefinition="XB">XB</Variable>
+  <Variable Name="ProductName" Comment="BeMore derivatives for Salieri" EvaluatedDefinition="XC">XC</Variable>
+  <Variable Name="ProductName" Comment="BeMore derivatives for Hassium2&amp;3" EvaluatedDefinition="XD">XD</Variable>
+  <Variable Name="ProductName" Comment="BeMore derivatives for Palladium/Magnesium" EvaluatedDefinition="XF">XF</Variable>
+  <Variable Name="URL_compatibility" Comment="Hearing Australia website for GN Hearing products" EvaluatedDefinition="hearing.com.au/Hearing-Products/App-Support">hearing.com.au/Hearing-Products/App-Support</Variable>
+  <Variable Name="FamilyName" Comment="Only used on cover pages" EvaluatedDefinition="[FamilyName]">[FamilyName]</Variable>
+  <Variable Name="FamilyName" Comment="Beltone" EvaluatedDefinition="Achieve">Achieve</Variable>
+  <Variable Name="FamilyName" Comment="ReSound Palladium/Magnesium" EvaluatedDefinition="Nexia">Nexia</Variable>
+  <Variable Name="FamilyName" Comment="Interton" EvaluatedDefinition="Move">Move</Variable>
+  <Variable Name="FamilyName" Comment="ReSound Hassium 2&amp;3" EvaluatedDefinition="OMNIA">OMNIA</Variable>
+  <Variable Name="FamilyName" Comment="Beltone" EvaluatedDefinition="Rely">Rely</Variable>
+  <Variable Name="FamilyName" Comment="Jabra Enhance OTC" EvaluatedDefinition="Select">Select</Variable>
+  <Variable Name="FamilyName" Comment="Beltone Palladium/Magnesium" EvaluatedDefinition="Serene">Serene</Variable>
+  <Variable Name="FamilyName" Comment="BeMore derivatives for Bohrium" EvaluatedDefinition="XA">XA</Variable>
+  <Variable Name="FamilyName" Comment="BeMore derivatives for Hassium/Beryllium 1" EvaluatedDefinition="XB">XB</Variable>
+  <Variable Name="FamilyName" Comment="BeMore derivatives for Salieri" EvaluatedDefinition="XC">XC</Variable>
+  <Variable Name="FamilyName" Comment="BeMore derivatives for Hassium2&amp;3" EvaluatedDefinition="XD">XD</Variable>
+  <Variable Name="FamilyName" Comment="BeMore derivatives for Palladium/Magnesium" EvaluatedDefinition="XF">XF</Variable>
+  <Variable Name="FamilyName" Comment="ReSound Thorium 3/Bohrium/Jikang NonWL CIC" EvaluatedDefinition="LiNX Quattro™">LiNX Quattro™</Variable>
+  <Variable Name="FamilyName" Comment="ReSound Thorium 3/Salieri/Jikang NonWL CIC" EvaluatedDefinition="Key">Key</Variable>
+  <Variable Name="FamilyName" Comment="Beltone" EvaluatedDefinition="Amaze">Amaze</Variable>
+  <Variable Name="FamilyName" Comment="Beltone" EvaluatedDefinition="Rely">Rely</Variable>
+  <Variable Name="FamilyName" Comment="Interton" EvaluatedDefinition="Move">Move</Variable>
+  <Variable Name="ModelNumbers" Comment="Used on cover pages" EvaluatedDefinition="[ModelNumbers]">[ModelNumbers]</Variable>
+  <Variable Name="URL_main" Comment="danalogic" EvaluatedDefinition="danalogic.co.uk">danalogic.co.uk</Variable>
+  <Variable Name="URL_main" Comment="Hearing Australia" EvaluatedDefinition="hearing.com.au">hearing.com.au</Variable>
+  <Variable Name="URL_compatibility" Comment="" EvaluatedDefinition="agxhearing.com">agxhearing.com</Variable>
+  <Variable Name="FSW_Version" Comment="Created because Audigy has a different version than the other brands" EvaluatedDefinition="[FSW_Version]">[FSW_Version]</Variable>
+  <Variable Name="FSW_Version" Comment="All brands, except Audigy" EvaluatedDefinition="1.18">1.18</Variable>
+  <Variable Name="FSW_Version" Comment="Audigy" EvaluatedDefinition="2.18">2.18</Variable>
+  <Variable Name="FamilyName" Comment="SpecSavers" EvaluatedDefinition="Adventure">Adventure</Variable>
+  <Variable Name="FamilyName" Comment="" EvaluatedDefinition="ampli-mini">ampli-mini</Variable>
+  <Variable Name="FamilyName" Comment="" EvaluatedDefinition="ampli-energy">ampli-energy</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon ampli-energy, BTE RHI" EvaluatedDefinition="402687">402687</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon ampli-energy, PBTE RHI" EvaluatedDefinition="402688">402688</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon ampli-mini, N-WL CIC" EvaluatedDefinition="402689">402689</Variable>
+  <Variable Name="DocumentNumber" Comment="Amplifon ampli-energy, CUST RHI" EvaluatedDefinition="402690">402690</Variable>
+  <Variable Name="FamilyName2" Comment="" EvaluatedDefinition="[FamilyName2]">[FamilyName2]</Variable>
+  <Variable Name="ModelNumbers2" Comment="Used on cover pages" EvaluatedDefinition="[ModelNumbers2]">[ModelNumbers2]</Variable>
+  <Variable Name="FamilyName" Comment="Beltone (KA)" EvaluatedDefinition="Celebrate">Celebrate</Variable>
+  <Variable Name="FamilyName" Comment="Audigy (KA)" EvaluatedDefinition="AGXR">AGXR</Variable>
+  <Variable Name="BrandName" Comment="" EvaluatedDefinition="Multisound">Multisound</Variable>
+  <Variable Name="BrandNameLong" Comment="" EvaluatedDefinition="Multisound (S.N.C.)">Multisound (S.N.C.)</Variable>
+  <Variable Name="CompanyNameLong for BackPages and CE mark" Comment="" EvaluatedDefinition="Multisound (S.N.C.)">Multisound (S.N.C.)</Variable>
+  <Variable Name="CompanyNameLong for Registered Trademark" Comment="" EvaluatedDefinition="Multisound (S.N.C.)">Multisound (S.N.C.)</Variable>
+  <Variable Name="DocumentNumber" Comment="TV Streamer 2" EvaluatedDefinition="402032">402032</Variable>
+  <Variable Name="FamilyName" Comment="Zenaud's version of BeMore XA" EvaluatedDefinition="ZA">ZA</Variable>
+  <Variable Name="FamilyName" Comment="Zenaud's version of BeMore XC" EvaluatedDefinition="ZC">ZC</Variable>
+  <Variable Name="FamilyName" Comment="Zenaud's version of BeMore XD" EvaluatedDefinition="ZD">ZD</Variable>
+  <Variable Name="FamilyName" Comment="Zenaud's version of BeMore XF" EvaluatedDefinition="ZF">ZF</Variable>
+  <Variable Name="URL_main" Comment="BeMore, Generic, COS KLS-Choice" EvaluatedDefinition="gnheraing.com/guides/app-support">gnheraing.com/guides/app-support</Variable>
+  <Variable Name="URL_compatibility" Comment="JAB-Enh P, BeM, Gen, COS KLS-Choice" EvaluatedDefinition="gnheraing.com/guides/app-support">gnheraing.com/guides/app-support</Variable>
+  <Variable Name="Language_ID" Comment="Bengali (BN)" EvaluatedDefinition="561BN">561BN</Variable>
+  <Variable Name="Language_ID" Comment="Divehi" EvaluatedDefinition="562DV">562DV</Variable>
+  <Variable Name="Language_ID" Comment="Lao (LO)" EvaluatedDefinition="563LO">563LO</Variable>
+  <Variable Name="Language_ID" Comment="Bengali" EvaluatedDefinition="061BN">061BN</Variable>
+</CatapultVariableSet>

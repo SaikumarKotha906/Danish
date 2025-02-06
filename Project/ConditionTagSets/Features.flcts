@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="_All-Features"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Telecoil"
+    Comment="Function to improve &#xD;&#xA;understanding of speech  in theatres,&#xD;&#xA;cinemas, etc." />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Direct Audio Input"
+    Comment="Direct Audio Input" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Connection to external devices"
+    Comment="For hearing aids that allow for external connection for a DAI shoe or wired fitting." />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Live Assist"
+    Comment="Service where the user can get the hearing aids to be adjusted remotely without having to visit a HCP." />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Online Services and Assist Live"
+    Comment="Service where the user can get face-to-face&#xD;&#xA;assistance from the HCP remotely." />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Android Streaming for Hearing Aids"
+    Comment="Include if ASHA is required on the mobile Andoid device" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Streaming from mobile devices"
+    Comment="One-way streaming into the HA" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Tap control"
+    Comment="The hearing aid has tap control for taking phone calls" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Tinnitus"
+    Comment="Tinnitus Sound Generator is tool for generating sounds to temporarily relieve suffering from tinnitus." />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Front Focus"
+    Comment="Ultra/Front Focus. Program in some hearing aids. Use with the variable Ultra-focus if applicaple." />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Streaming to mobile devices"
+    Comment="One-way streaming from the HA" />
+</CatapultConditionTagSet>

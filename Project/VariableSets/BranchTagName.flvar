@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Comment="" Name="BranchNameContent" EvaluatedDefinition="BranchNameContent">Branch Name: 77975-Gallium_MMplus</Variable>
+</CatapultVariableSet>

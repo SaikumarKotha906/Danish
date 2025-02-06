@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="framebreak_before_after">
+            <p class="AddressLine"><span MadCap:conditions="Backpage address setup.LocalContacts" class="bold">Lokale kontakter:</span>&#160;</p>
+        </div>
+    </body>
+</html>

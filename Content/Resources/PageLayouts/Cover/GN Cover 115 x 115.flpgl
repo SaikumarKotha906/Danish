@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Width="115mm" Height="115mm" Padding="20px" PageSize="custom" PageType="first" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Name="Cover" Orientation="portrait" BleedBottom="3mm" BleedLeft="-3mm" BleedTop="-3mm" BleedRight="-3mm" BackgroundRepeat="no-repeat" BackgroundImage="none">
+        <Frame X="10.05417mm" Y="6.879167mm" Width="94.98542mm" Height="15.08125mm" Flow="body" Bottom="352px" Anchors="" Right="38px" />
+        <Frame Width="94.98542mm" Height="21.96042mm" FlowIndex="1" Flow="body" Y="23.54792mm" X="10.05417mm" Right="38px" Bottom="263px" Anchors="" />
+        <Frame Width="94.98542mm" Height="46.83125mm" FlowIndex="2" Flow="body" Y="51.06458mm" X="10.05417mm" Right="38px" Bottom="65px" Anchors="" />
+        <Frame Width="63.5mm" Height="8.202084mm" FlowIndex="4" Flow="body" Y="100.0125mm" X="41.53959mm" Right="10.05417mm" Bottom="6.879167mm" Anchors="" />
+    </Page>
+</PageStyles>

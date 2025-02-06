@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Cover/Cover.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" PageType="first" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Cover/GN Cover 115 x 115.flpgl">
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Print only topics/TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Body/GN Body 115 x 115.flpgl" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Instructuctions for use.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ChapterNumberReset="continue" SectionNumberReset="continue" VolumeNumberReset="same" BreakType="chapter" PageNumberReset="continue" StartSection="false" PageNumber="1">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Intended purpose.htm" ChapterNumberReset="continue" ChapterNumber="" SectionNumberReset="continue" VolumeNumberReset="same" BreakType="none" StartSection="false" PageNumberReset="reset" PageNumber="1">
+        </TocEntry>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Target group.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/TVSplusMMplus/Therapeutic indications.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/TVSplusMMplus/Contra-indications.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/TVSplusMMplus/Intended clinical benefits.htm" conditions="Generic.Internal" StartSection="false" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/X_Common/Symbols.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" StartSection="false" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Getting to know your device.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Packaging.htm">
+        </TocEntry>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Device description.htm">
+        </TocEntry>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/LED information.htm" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/TVSplusMMplus/How to install the device.htm" conditions="Product Type.TV Streamer" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/TVSplusMMplus/Using the device for the first time.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Pairing your device.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Pairing LED sequence.htm" conditions="Product Type.TV Streamer" StartSection="false" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/TVSplusMMplus/Adjust volume.htm" conditions="Product Type.TV Streamer" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/TVSplusMMplus/Delay mode.htm" conditions="Product Type.TV Streamer">
+        </TocEntry>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/TVSplusMMplus/TVS locations.htm" StartSection="false" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/AUto streaming.htm" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/TVSplusMMplus/Daily use.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Resetting the device.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Warning.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Cyber warnings.htm" conditions="Generic.Internal" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Maintenance.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Cleaning.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Servicing.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/TVSplusMMplus/Connections checklist.htm" conditions="Product Type.TV Streamer" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Technical data.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Warranty information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Statement - TVStreamer.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Acknowledgements.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Regional/Brazil/Brazil.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" conditions="Markets.BRA,Markets._All-Markets" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Regional/Slovakia/Slovakian Warranty/Warranty SK.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" conditions="Markets.SVK,Markets._All-Markets" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Regional/Russia/Russian Warranty/Warranty Hearing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" conditions="Markets.RUS,Markets._All-Markets" />
+    <TocEntry Title="EmptyPages" Link="/Project/TOCs/EmptyPages.fltoc" ReplaceMergeNode="true" StartSection="false">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Accessories/X_Common/Copyright information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Body/GN Body 115 x 115.flpgl" ChapterNumberReset="continue" SectionNumberReset="continue" VolumeNumberReset="same" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Global/Addresses - DO NOT TRANSLATE/_All addresses.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" BreakType="pageLayout" StartSection="false" PageLayout="/Content/Resources/PageLayouts/Rear/GN BackPage 115 x 115.flpgl" ReplaceMergeNode="false" />
+</CatapultToc>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="SubHeader">Rækkevidde</p>
+        <p>Afhængigt af høreapparatet er streamingrækkeviden fra enheden til høreapparaterne op til <MadCap:conditionalText MadCap:conditions="Product Type.TV Streamer">7 meter (23 ft)</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Product Type.Multi-Mic">25 meter (82 ft)</MadCap:conditionalText>. Du behøver ikke at kunne se enheden og du kan godt befinde dig i et andet rum. Imidlertid kan fysiske objekter som fx vægge eller møbler reducere rækkevidden.</p>
+        <p>Lydsignalet vil standse, hvis høreapparaterne ikke er inden for enhedens rækkevidde. Når høreapparaterne igen er inden for enhedens rækkevidde, vil streamingen automatisk blive genoptaget.</p>
+        <p>Der er en tidsgrænse på 5 min. til automatisk genoprettelse af forbindelsen. Hvis du er uden for rækkevidde i mere end 5 minutter, skal du genstarte streamingen manuelt via dine høreapparater eller appen.</p>
+        <p>Denne enhed har en RF-sender, der virker inden for frekvensområdet 2,4 GHz til 2,48 GHz.</p>
+    </body>
+</html>

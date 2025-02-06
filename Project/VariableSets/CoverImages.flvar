@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <Variable Name="Cover_image" EvaluatedDefinition="KA MS ORTIZ 402073-80.pdf">KA MS ORTIZ 402073-80.pdf</Variable>
+  <Variable Name="Cover_image" EvaluatedDefinition="RS_ONE_UG_Covers_MADCAP.pdf">RS_ONE_UG_Covers_MADCAP.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="RS_Chargers_Covers.jpg">RS_Chargers_Covers.jpg</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="RS_Chargers_Covers2.pdf">RS_Chargers_Covers2.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="BT-UG_Covers_MADCAP_IMG.jpg">BT-UG_Covers_MADCAP_IMG.jpg</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="BT_UG_Covers_MADCAP_Charger_Standard.jpg">BT_UG_Covers_MADCAP_Charger_Standard.jpg</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="BT_UG_Covers_MADCAP_Charger_Premium.jpg">BT_UG_Covers_MADCAP_Charger_Premium.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Std Chgr Ap6 GEN" EvaluatedDefinition="Apollo6_Charger_UG_Cover_MADCAP.jpg">Apollo6_Charger_UG_Cover_MADCAP.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Prem Chgr Ap5 GEN" EvaluatedDefinition="401314 Apollo5_Charger_UG_Cover_MADCAP.jpg">401314 Apollo5_Charger_UG_Cover_MADCAP.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Test 1" EvaluatedDefinition="KS_ONE_UG_Covers_MADCAP.jpg">KS_ONE_UG_Covers_MADCAP.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Special for COSTCO Kirkland Signature" EvaluatedDefinition="KA_COSTO_Kirkland_Cover.pdf">KA_COSTO_Kirkland_Cover.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="RS_COSTCO_PRIMA_UG_Cover.pdf">RS_COSTCO_PRIMA_UG_Cover.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Special for COSTCO Kirkland Signature" EvaluatedDefinition="KS_Apollo5_Cover.jpg">KS_Apollo5_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Special for COSTCO Kirkland Signature" EvaluatedDefinition="KS_Apollo6_Cover.jpg">KS_Apollo6_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Advance RIE_RHI Specsavers 2020" EvaluatedDefinition="KA_SpC_Advance.jpg">KA_SpC_Advance.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Lively 2020-08" EvaluatedDefinition="KA_Lively2020.jpg">KA_Lively2020.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Special for Amplifon homologation" EvaluatedDefinition="KA AMP A6.jpg">KA AMP A6.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon 2020 standard chgr" EvaluatedDefinition="UG_Cover_Vivaldi_AP6.jpg">UG_Cover_Vivaldi_AP6.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon 2020 premium chgr" EvaluatedDefinition="UG_Cover_Vivaldi_AP5.jpg">UG_Cover_Vivaldi_AP5.jpg</Variable>
+  <Variable Name="Cover_image" Comment="BeMore XA cover for Bonnet 2020-10" EvaluatedDefinition="KA BeMore GEN HA UG.pdf">KA BeMore GEN HA UG.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Apollo 6_1 Desktop charger RS temp" EvaluatedDefinition="RS_Apollo 6_1_Cover.pdf">RS_Apollo 6_1_Cover.pdf</Variable>
+  <Variable Name="Cover_image" Comment="RS Salieri RIE Key" EvaluatedDefinition="401374000_RIE_RS_cover.jpg">401374000_RIE_RS_cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="RS Salieri RIE-RHA Key" EvaluatedDefinition="RS_401375000_RIE_RHA_Cover.jpg">RS_401375000_RIE_RHA_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="RS Salieri BTE Key" EvaluatedDefinition="RS_401376000_BTE_Cover.jpg">RS_401376000_BTE_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="RS Salieri PBTE Key" EvaluatedDefinition="RS_401377000_PBTE_Cover.jpg">RS_401377000_PBTE_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="RS Salieri Custom Key" EvaluatedDefinition="RS_401378000_Custom_Cover.jpg">RS_401378000_Custom_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Beltone Desktop charger temp version" EvaluatedDefinition="BT_Apollo 6_1_Cover.pdf">BT_Apollo 6_1_Cover.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Beltone RELY RIE 2020-10" EvaluatedDefinition="BT_401379_Rely_RIE_Cover.jpg">BT_401379_Rely_RIE_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Beltone RELY RIE RHA 2020-10" EvaluatedDefinition="BT_401380_Rely_RIE_RCH_Cover.jpg">BT_401380_Rely_RIE_RCH_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Beltone RELY BTE 2020-10" EvaluatedDefinition="BT_401381_Rely_BTE_Cover.jpg">BT_401381_Rely_BTE_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Beltone RELY Power BTE 2020-10" EvaluatedDefinition="BT_401382_Rely_PBTE_Cover.jpg">BT_401382_Rely_PBTE_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Beltone RELY Custom 2020-10" EvaluatedDefinition="BT_401383_Rely_Custom_Cover.jpg">BT_401383_Rely_Custom_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="BeMore XB cover for Bonnet 2020-10" EvaluatedDefinition="KA BeMore GEN XB HA UG.pdf">KA BeMore GEN XB HA UG.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon AP6 105 104 top bleed" EvaluatedDefinition="UG-Cover_Vivaldi_AP6-R.jpg">UG-Cover_Vivaldi_AP6-R.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Interton - Salieri" EvaluatedDefinition="INT MVE 401384_RIE_Cover.jpg">INT MVE 401384_RIE_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Interton - Salieri" EvaluatedDefinition="INT MVE 401385_RHA_Cover.jpg">INT MVE 401385_RHA_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Interton - Salieri" EvaluatedDefinition="INT MVE 401386_BTE_Cover.jpg">INT MVE 401386_BTE_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Interton - Salieri" EvaluatedDefinition="INT MVE 401387_PBTE_Cover.jpg">INT MVE 401387_PBTE_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Interton - Salieri" EvaluatedDefinition="INT MVE 401388_Custom_Cover.jpg">INT MVE 401388_Custom_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Generic Desktop charger" EvaluatedDefinition="GEN_Apollo 6_1_Cover.pdf">GEN_Apollo 6_1_Cover.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Apollo 6_1 Desktop charger RS 2020-11" EvaluatedDefinition="RS_401476_Cover_6_1.jpg">RS_401476_Cover_6_1.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Salieri based BeMore" EvaluatedDefinition="KA BeMore GEN XC HA UG.pdf">KA BeMore GEN XC HA UG.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Beltone Desktop charger 6.1" EvaluatedDefinition="BT_401477_6_1 Desk_Charger_Cover.jpg">BT_401477_6_1 Desk_Charger_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="NHS - Danalogic cover" EvaluatedDefinition="NHS_UG_Cover">NHS_UG_Cover</Variable>
+  <Variable Name="Cover_image" Comment="JABRA BTE &amp; RIE Brockway 2021" EvaluatedDefinition="JAB_Brockway 401569-70-71.pdf">JAB_Brockway 401569-70-71.pdf</Variable>
+  <Variable Name="Cover_image" Comment="RS Thorium Custom RHA UG" EvaluatedDefinition="RS_401637_ITC RHA Cover.jpg">RS_401637_ITC RHA Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="BT Thorium Custom RHA UG" EvaluatedDefinition="BT_401638_ITC RHA Cover.jpg">BT_401638_ITC RHA Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="RS Apollo-7 C-4 Charger UG" EvaluatedDefinition="RS_401639000_Apollo-7_C-4 Cover.jpg">RS_401639000_Apollo-7_C-4 Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="BT Apollo-7 C-4 Charger UG" EvaluatedDefinition="BT_401639000_Apollo-7_C-4 Cover.jpg">BT_401639000_Apollo-7_C-4 Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Sensini 105" EvaluatedDefinition="KA AMP 401536_Cover.jpg">KA AMP 401536_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Sensini 105" EvaluatedDefinition="KA AMP 401537_Cover.jpg">KA AMP 401537_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Sensini 105" EvaluatedDefinition="KA AMP 401538_Cover.jpg">KA AMP 401538_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Sensini 105" EvaluatedDefinition="KA AMP 401539_Cover.jpg">KA AMP 401539_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Sensini 105" EvaluatedDefinition="KA AMP 401540_Cover.jpg">KA AMP 401540_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Desktop charger" EvaluatedDefinition="KA AMP 401541_AP6_1_Cover.jpg">KA AMP 401541_AP6_1_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Sensini 105 print" EvaluatedDefinition="KA AMP 401536_Cover P.jpg">KA AMP 401536_Cover P.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Sensini 105 print" EvaluatedDefinition="KA AMP 401537_Cover P.jpg">KA AMP 401537_Cover P.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Sensini 105 print" EvaluatedDefinition="KA AMP 401538_Cover P.jpg">KA AMP 401538_Cover P.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Sensini 105 print" EvaluatedDefinition="401539 KA AMP_Cover P.jpg">401539 KA AMP_Cover P.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Sensini 105 print" EvaluatedDefinition="KA AMP 401540_Cover P.jpg">KA AMP 401540_Cover P.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Desktop charger print" EvaluatedDefinition="KA AMP 401541_AP6_1_Cover P.jpg">KA AMP 401541_AP6_1_Cover P.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Jabra EP RHA" EvaluatedDefinition="KA JAB 401571 RIE RHA Cover.jpg">KA JAB 401571 RIE RHA Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Jabra EP BTE" EvaluatedDefinition="KA JAB 401569 BTE Cover.jpg">KA JAB 401569 BTE Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Jabra EP RIE" EvaluatedDefinition="KA JAB 401570 RIE Cover.jpg">KA JAB 401570 RIE Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Special for COSTCO Hassium Jab" EvaluatedDefinition="KA Jab Corra 401641cover-Web.pdf">KA Jab Corra 401641cover-Web.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Special for COSTCO Hassium Jab" EvaluatedDefinition="KA Jab Corra 401641cover-Print.pdf">KA Jab Corra 401641cover-Print.pdf</Variable>
+  <Variable Name="Cover_image" EvaluatedDefinition="KA Danavox Cover XD POWER BTE.pdf">KA Danavox Cover XD POWER BTE.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Key account generic PBTE-R cover - Beryllium" EvaluatedDefinition="KA_BTE-R_Cover_88.pdf">KA_BTE-R_Cover_88.pdf</Variable>
+  <Variable Name="Cover_image" Comment="RS PBTE-R cover - Beryllium" EvaluatedDefinition="RS_BTE-R_Cover_88.pdf">RS_BTE-R_Cover_88.pdf</Variable>
+  <Variable Name="Cover_image" Comment="RS BTE-R cover - Beryllium" EvaluatedDefinition="RS_BTE-R_Cover_77.pdf">RS_BTE-R_Cover_77.pdf</Variable>
+  <Variable Name="Cover_image" Comment="BT PBTE-R cover - Beryllium" EvaluatedDefinition="BT_BTE-R_Cover_88.pdf">BT_BTE-R_Cover_88.pdf</Variable>
+  <Variable Name="Cover_image" Comment="BT BTE-R cover - Beryllium" EvaluatedDefinition="BT_BTE-R_Cover_76.pdf">BT_BTE-R_Cover_76.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Key account generic BTE-R cover - Beryllium" EvaluatedDefinition="KA_BTE-R_Cover_77.pdf">KA_BTE-R_Cover_77.pdf</Variable>
+  <Variable Name="Cover_image" Comment="BT ITC-R cover - Thorium" EvaluatedDefinition="BT_ITC-R_Cover.pdf">BT_ITC-R_Cover.pdf</Variable>
+  <Variable Name="Cover_image" Comment="RS ITC-R cover - Thorium" EvaluatedDefinition="RS_ITC-R_Cover.pdf">RS_ITC-R_Cover.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Custom_Charger_Cover-RS" EvaluatedDefinition="Custom_Charger_Cover-RS.jpg">Custom_Charger_Cover-RS.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Custom_Charger_Cover-BT" EvaluatedDefinition="Custom_Charger_Cover-BT.jpg">Custom_Charger_Cover-BT.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Custom_Charger_Cover-KA" EvaluatedDefinition="Custom_Charger_Cover-KA.jpg">Custom_Charger_Cover-KA.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Special for COSTCO Jabra Thorium web" EvaluatedDefinition="KA Jab Corra 401820 cover-Web.pdf">KA Jab Corra 401820 cover-Web.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Special for COSTCO Jabra Thorium print" EvaluatedDefinition="KA Jab Corra 401820 cover-Print.pdf">KA Jab Corra 401820 cover-Print.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Floyd RIE-RHA 115x115" EvaluatedDefinition="KA Amp_401511_RIE_R 115.pdf">KA Amp_401511_RIE_R 115.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Floyd Premium charger 115x115" EvaluatedDefinition="KA Amp_401512_Prem_C-1_115.pdf">KA Amp_401512_Prem_C-1_115.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Floyd Standard charger 115x115" EvaluatedDefinition="KA Amp_401515_Std_C-2_115.pdf">KA Amp_401515_Std_C-2_115.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Floyd Desktop charger 115x115" EvaluatedDefinition="KA Amp_401541_Desk_C-3_115.pdf">KA Amp_401541_Desk_C-3_115.pdf</Variable>
+  <Variable Name="Cover_image" Comment="115x115" EvaluatedDefinition="KA_Amp_401541_Desktop_Chgr_115.pdf">KA_Amp_401541_Desktop_Chgr_115.pdf</Variable>
+  <Variable Name="Cover_image" Comment="401247" EvaluatedDefinition="BT Boost Ultra Cover.pdf">BT Boost Ultra Cover.pdf</Variable>
+  <Variable Name="Cover_image" Comment="400874, 400875" EvaluatedDefinition="Amaze_UG_RIE_Cover.png">Amaze_UG_RIE_Cover.png</Variable>
+  <Variable Name="Cover_image" Comment="401176" EvaluatedDefinition="401176_Custom-Cover.png">401176_Custom-Cover.png</Variable>
+  <Variable Name="Cover_image" Comment="401187" EvaluatedDefinition="INT_Remote_Control_Cover.png">INT_Remote_Control_Cover.png</Variable>
+  <Variable Name="Cover_image" Comment="401188" EvaluatedDefinition="RS_Remote_Control_Cover.png">RS_Remote_Control_Cover.png</Variable>
+  <Variable Name="Cover_image" Comment="401189" EvaluatedDefinition="Beltone_Remote_Control_Cover.png">Beltone_Remote_Control_Cover.png</Variable>
+  <Variable Name="Cover_image" Comment="401202" EvaluatedDefinition="NB Remote_Control_Cover.png">NB Remote_Control_Cover.png</Variable>
+  <Variable Name="Cover_image" Comment="401747 ReSound RC-3" EvaluatedDefinition="RS_Remote_Control_401747.pdf">RS_Remote_Control_401747.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Busoni Q1-2022 PBTE-Rechargeable" EvaluatedDefinition="KA Amp_401858_PBTE_115.jpg">KA Amp_401858_PBTE_115.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Busoni Q1-2022 BTE-Rechargeable" EvaluatedDefinition="KA Amp_401859_BTE_115.jpg">KA Amp_401859_BTE_115.jpg</Variable>
+  <Variable Name="Cover_image" Comment="RS Hassium 2 RIE OMNIA 401848-49" EvaluatedDefinition="RS 401849 RIE HAS2.jpg">RS 401849 RIE HAS2.jpg</Variable>
+  <Variable Name="Cover_image" Comment="RS Hassium 2 RIE RHA OMNIA 401850-51" EvaluatedDefinition="RS 401851 RIE-RHI HAS2.jpg">RS 401851 RIE-RHI HAS2.jpg</Variable>
+  <Variable Name="Cover_image" Comment="BT Hassium 2 RIE OMNIA 401852-53" EvaluatedDefinition="BT 401853 RIE HAS2.jpg">BT 401853 RIE HAS2.jpg</Variable>
+  <Variable Name="Cover_image" Comment="BT Hassium 2 RIE RHA OMNIA 401854-55" EvaluatedDefinition="BT 401855 RIE-RHI HAS2.jpg">BT 401855 RIE-RHI HAS2.jpg</Variable>
+  <Variable Name="Cover_image" Comment="App INT_Control.pdf" EvaluatedDefinition="App INT_Control.pdf">App INT_Control.pdf</Variable>
+  <Variable Name="Cover_image" Comment="RS_401374000_RIE_Cover.jpg" EvaluatedDefinition="RS_401374000_RIE_Cover.jpg">RS_401374000_RIE_Cover.jpg</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon 105x105" EvaluatedDefinition="Vivaldi-Cover_front_HI.jpg">Vivaldi-Cover_front_HI.jpg</Variable>
+  <Variable Name="Cover_image" Comment="RS Bohrium Custom Linx Quattro" EvaluatedDefinition="RS 401175 LxQt Cust.pdf">RS 401175 LxQt Cust.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="400876000GB-18.04-Rev.A-Frontpage.pdf">400876000GB-18.04-Rev.A-Frontpage.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="401245 Frontpage.pdf">401245 Frontpage.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="401244-front.pdf">401244-front.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA Amplifon Custom RHA ITE-ITC - Thorium2-based" EvaluatedDefinition="KA Amp_401828_CUS_R_115.pdf">KA Amp_401828_CUS_R_115.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Amplifon Floyd2 C-4 charger" EvaluatedDefinition="KA Amp_401829_C-4_Apollo7 chgr115.pdf">KA Amp_401829_C-4_Apollo7 chgr115.pdf</Variable>
+  <Variable Name="Cover_image" Comment="BT Thorium 3 - non-wireless CIC" EvaluatedDefinition="BT_401867-68 CIC nonWL.pdf">BT_401867-68 CIC nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="RS Thorium 3 - non-wireless CIC" EvaluatedDefinition="RS_401865-66 CIC nonWL.pdf">RS_401865-66 CIC nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA COSTCO Thorium 3 - non-wireless CIC - web" EvaluatedDefinition="KA Jab 401945 CUS-nonWL-web.pdf">KA Jab 401945 CUS-nonWL-web.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA Amplifon Hassium 2" EvaluatedDefinition="KA AMP 401949 RIE.pdf">KA AMP 401949 RIE.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA Amplifon Hassium 2" EvaluatedDefinition="KA AMP 401950 RIE-RHA.pdf">KA AMP 401950 RIE-RHA.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA Amplifon Thorium 3" EvaluatedDefinition="KA AMP 401951 CUS-nonWL.pdf">KA AMP 401951 CUS-nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA COSTCO Thorium 3 - non-wireless CIC - print" EvaluatedDefinition="KA Jab 401945 CUS-nonWL-print.pdf">KA Jab 401945 CUS-nonWL-print.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA Audigy AGX7 CIC non wireless (Thorium 3)" EvaluatedDefinition="KA AGX7 401960 XB CUS-nonWL.jpg">KA AGX7 401960 XB CUS-nonWL.jpg</Variable>
+  <Variable Name="Cover_image" Comment="KA BeMore non-wireless HA" EvaluatedDefinition="KA BeMore GEN XB nonWL.pdf">KA BeMore GEN XB nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA HBM Celebrate Thorium 3 - non-wireless CIC" EvaluatedDefinition="KA BM XB CELEB Tho3UG.pdf">KA BM XB CELEB Tho3UG.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA BeMore XD (e.g. HBM Celebrate - Hassium 2 KAs)" EvaluatedDefinition="KA BM XD CELEB Has2 UG.pdf">KA BM XD CELEB Has2 UG.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Wenjing key accounts Bohrium and Salieri HP_FR - CN" EvaluatedDefinition="KA Wenjing Wing.pdf">KA Wenjing Wing.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Wenjing key accounts Bohrium and Salieri FR - CN" EvaluatedDefinition="KA Wenjing Vibrant.pdf">KA Wenjing Vibrant.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Ortiz charger" EvaluatedDefinition="KA MS Ortiz 95x95.pdf">KA MS Ortiz 95x95.pdf</Variable>
+  <Variable Name="Cover_image" Comment="XD for Hassium 2 or 3 BeMore UGs" EvaluatedDefinition="KA BeMore GEN XD HA UG.pdf">KA BeMore GEN XD HA UG.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Beltone Achieve MiniRIE60 (401932-33)" EvaluatedDefinition="BT 401932 ACV RIE60-RHI.pdf">BT 401932 ACV RIE60-RHI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="ReSound OMNIA MiniRIE60 (401930-31)" EvaluatedDefinition="RS 401930 OMN RIE60-RHI.pdf">RS 401930 OMN RIE60-RHI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="ReSound Omnia BTE (402152-402195)" EvaluatedDefinition="RS 402152 OMN BTE-RHI.pdf">RS 402152 OMN BTE-RHI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="ReSound Omnia PBTE (402153-402196)" EvaluatedDefinition="RS 402153 OMN PBTE-RHI.pdf">RS 402153 OMN PBTE-RHI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Beltone Achieve BTE (402156-402199)" EvaluatedDefinition="BT 402156 ACV BTE-RHI.pdf">BT 402156 ACV BTE-RHI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="ReSound Omnia CUST WL (402154-402197)" EvaluatedDefinition="RS 402154 OMN CUST-RHI.pdf">RS 402154 OMN CUST-RHI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Beltone Achieve CUST WL (402158-402201)" EvaluatedDefinition="BT 402158 ACV CUST-RHI.pdf">BT 402158 ACV CUST-RHI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="ReSound Omnia CIC non (402155-402198)" EvaluatedDefinition="RS 402155 OMN CIC-non.pdf">RS 402155 OMN CIC-non.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Beltone Achieve CIC non (402159-402202)" EvaluatedDefinition="BT 402159 ACV CIC-non.pdf">BT 402159 ACV CIC-non.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Beltone Achieve PBTE (402157-402200)" EvaluatedDefinition="BT 402157 ACV PBTE-RHI.pdf">BT 402157 ACV PBTE-RHI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="XD for Hassium 2 or 3 BeMore - non-wireless CIC UGs" EvaluatedDefinition="KA BeMore GEN XD HA-nonWL.pdf">KA BeMore GEN XD HA-nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Hearing Australia UG" EvaluatedDefinition="KA BM Field HA UG.pdf">KA BM Field HA UG.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA AMP MRIE60 Schumann" EvaluatedDefinition="KA AMP 402266 M60RIE-RHA Schu.pdf">KA AMP 402266 M60RIE-RHA Schu.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA AMP PBTE RHI Schumann" EvaluatedDefinition="KA AMP 402267 PBTE 115 Schu.pdf">KA AMP 402267 PBTE 115 Schu.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA AMP BTE RHI Schumann" EvaluatedDefinition="KA AMP 402268 BTE_115 Schu.pdf">KA AMP 402268 BTE_115 Schu.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA AMP CUST RHI Schumann" EvaluatedDefinition="KA AMP 402269 CUS_R_115 Schu.pdf">KA AMP 402269 CUS_R_115 Schu.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA AMP CUST BAT CIC NonWL Schumann" EvaluatedDefinition="KA AMP 402270 CUS-nonWL Schu.pdf">KA AMP 402270 CUS-nonWL Schu.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA ReSound for China - no CE mark" EvaluatedDefinition="KA Wenjing Vox.pdf">KA Wenjing Vox.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Jabra for China - no CE mark" EvaluatedDefinition="KA Wenjing Jabra.pdf">KA Wenjing Jabra.pdf</Variable>
+  <Variable Name="Cover_image" EvaluatedDefinition="KA Danavox Soler-Cover-XC-nonWL.pdf" Comment="Blank Danavox cover nonWL">KA Danavox Soler-Cover-XC-nonWL.pdf</Variable>
+  <Variable Comment="BT HearMax All-round" EvaluatedDefinition="App BT_All-Around.pdf" Name="Cover_image">App BT_All-Around.pdf</Variable>
+  <Variable Comment="Gen App UG cover" EvaluatedDefinition="App GNH_All-Around.pdf" Name="Cover_image">App GNH_All-Around.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="KA Danavox Cover XD BTE.pdf">KA Danavox Cover XD BTE.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="KA Danavox Cover XD Custom.pdf">KA Danavox Cover XD Custom.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Used when non brand logos no apple-andorid logos" EvaluatedDefinition="GN Empty nonWL.pdf">GN Empty nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Used when no brand logos" EvaluatedDefinition="GN Empty.pdf">GN Empty.pdf</Variable>
+  <Variable Name="Cover_image" Comment="ReSound Linx Quattro web" EvaluatedDefinition="RS_400877.pdf">RS_400877.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Hearing Australia nonWL UG" EvaluatedDefinition="KA BM Field HA UG nonWL.pdf">KA BM Field HA UG nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="KA BM XC CELEB Salieri.pdf">KA BM XC CELEB Salieri.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="401247 ES_US cover.pdf">401247 ES_US cover.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Audigy AGX" EvaluatedDefinition="AGXR_UG_Cover.pdf">AGXR_UG_Cover.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Audigy AGX (nonWL)" EvaluatedDefinition="AGXR_UG_Cover nonWL.pdf">AGXR_UG_Cover nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA Beltone Celebrate XD" EvaluatedDefinition="KA BT Celeb XD.pdf">KA BT Celeb XD.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA Beltone Celebrate XD nonWL" EvaluatedDefinition="KA BT Celeb XD nonWL.pdf">KA BT Celeb XD nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="401943" EvaluatedDefinition="ENHANCE PRO 10.pdf">ENHANCE PRO 10.pdf</Variable>
+  <Variable Name="Cover_image" Comment="402106" EvaluatedDefinition="ENHANCE SELECT 50.pdf">ENHANCE SELECT 50.pdf</Variable>
+  <Variable Name="Cover_image" Comment="402105" EvaluatedDefinition="ENHANCE SELECT 100.pdf">ENHANCE SELECT 100.pdf</Variable>
+  <Variable Name="Cover_image" Comment="402104" EvaluatedDefinition="ENHANCE SELECT 200.pdf">ENHANCE SELECT 200.pdf</Variable>
+  <Variable Name="Cover_image" Comment="401641, 401820" EvaluatedDefinition="ENHANCE PRO PM.pdf">ENHANCE PRO PM.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="ENHANCE SELECT 50_nonWL.pdf">ENHANCE SELECT 50_nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="ENHANCE SELECT 200_nonWL.pdf">ENHANCE SELECT 200_nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="ENHANCE SELECT 100_nonWL.pdf">ENHANCE SELECT 100_nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="ENHANCE PRO PM_nonWL.pdf">ENHANCE PRO PM_nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="ENHANCE PRO 10_nonWL.pdf">ENHANCE PRO 10_nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="402301 - all Jabra Enhance 50R (Salieri-based rechargeable) UGs" EvaluatedDefinition="ENHANCE SELECT 50R.pdf">ENHANCE SELECT 50R.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="ENHANCE SELECT 50R Rx.pdf">ENHANCE SELECT 50R Rx.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="ENHANCE SELECT 200 Rx.pdf">ENHANCE SELECT 200 Rx.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="ENHANCE SELECT 100 Rx.pdf">ENHANCE SELECT 100 Rx.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="ENHANCE SELECT 50 Rx.pdf">ENHANCE SELECT 50 Rx.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Use when awaiting image" EvaluatedDefinition="BLANK">BLANK</Variable>
+  <Variable Name="Cover_image" Comment="ReSound NEXIA 402389 and 402390 RIE 312/13" EvaluatedDefinition="RS 402389-90 NEX RIE.pdf">RS 402389-90 NEX RIE.pdf</Variable>
+  <Variable Name="Cover_image" Comment="ReSound NEXIA 402391 and 402392 MICRIE 60S RHI" EvaluatedDefinition="RS 402391-92 NEX MICRIE RHI.pdf">RS 402391-92 NEX MICRIE RHI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Beltone Serene 402393 and 402394 RIE 312/13" EvaluatedDefinition="BT 402393-94 SER RIE.pdf">BT 402393-94 SER RIE.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Beltone 402395 and 402396 Serene MICroRIE 60S RHI" EvaluatedDefinition="BT 402395-96 SER MICRIE RHI.pdf">BT 402395-96 SER MICRIE RHI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA BeMore XF UGs for Palladium" EvaluatedDefinition="KA BeMore GEN XF HA UG.pdf">KA BeMore GEN XF HA UG.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="KA Danavox Cover XD RIE.pdf">KA Danavox Cover XD RIE.pdf</Variable>
+  <Variable Name="Cover_image" EvaluatedDefinition="KA Danavox Cover-XD Custom nonWL.pdf">KA Danavox Cover-XD Custom nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="KA Danavox Cover XD RIE RHI.pdf">KA Danavox Cover XD RIE RHI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Jabra MiniRie OTC 2 (402424)" EvaluatedDefinition="ENHANCE SELECT 200 OTC2.pdf">ENHANCE SELECT 200 OTC2.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="Amaze_UG_RIE_Cover DE.png">Amaze_UG_RIE_Cover DE.png</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="401176_Custom-Cover - DE.png">401176_Custom-Cover - DE.png</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="Amaze_UG_RIE_Cover - DE.png">Amaze_UG_RIE_Cover - DE.png</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="BT 401246 - German.pdf">BT 401246 - German.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="401247 DE cover.pdf">401247 DE cover.pdf</Variable>
+  <Variable Name="Cover_image" Comment="402446-402447" EvaluatedDefinition="ENHANCE PRO 20.pdf">ENHANCE PRO 20.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Danalogic" EvaluatedDefinition="Danalogic.pdf">Danalogic.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA Amplifon Grieg RIE RHI" EvaluatedDefinition="KA AMP 402437 NX RIE-RHI.pdf">KA AMP 402437 NX RIE-RHI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="KA Amplifon Grieg RIE" EvaluatedDefinition="KA AMP 402438 NX RIE.pdf">KA AMP 402438 NX RIE.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="KA CRAI.pdf">KA CRAI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="KA CRAI - non WL.pdf">KA CRAI - non WL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="402581000GB HAUS - A4 Health Australia" EvaluatedDefinition="App GNH_All-Around-HAUS.pdf">App GNH_All-Around-HAUS.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="BT Boost Ultra Cover DE.pdf">BT Boost Ultra Cover DE.pdf</Variable>
+  <Variable Name="Cover_image" Comment="HBM" EvaluatedDefinition="KA BT Celeb XF.pdf">KA BT Celeb XF.pdf</Variable>
+  <Variable Name="Cover_image" Comment="HBM" EvaluatedDefinition="KA BT Celeb XF nonWL.pdf">KA BT Celeb XF nonWL.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Danavox Palladium" EvaluatedDefinition="KA Danavox Cover XF RIE.pdf">KA Danavox Cover XF RIE.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Danavox Palladium" EvaluatedDefinition="KA Danavox Cover XF RIE RHI.pdf">KA Danavox Cover XF RIE RHI.pdf</Variable>
+  <Variable Name="Cover_image" Comment="" EvaluatedDefinition="KA PURETONE.pdf">KA PURETONE.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Blank Danavox cover WL" EvaluatedDefinition="KA Danavox Soler-Cover.pdf">KA Danavox Soler-Cover.pdf</Variable>
+  <Variable Name="Cover_image" Comment="Danavox Klar XC RIE" EvaluatedDefinition="KA Danavox Cover XC RIE.pdf">KA Danavox Cover XC RIE.pdf</Variable>
+  <Variable Name="Cover_image" Comment="TV Streamer 2" EvaluatedDefinition="TV-Streamer-2.png">TV-Streamer-2.png</Variable>
+</CatapultVariableSet>

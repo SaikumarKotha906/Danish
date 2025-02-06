@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="RIE rechargeable"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="ITC"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="BTE power"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="BTE thin tube"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="CIC"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Made for iPhone"
+    Comment="Badge"
+    OriginalName="Made for iPhone" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Works with Android"
+    Comment="Badge"
+    OriginalName="Works with Android" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Product name"
+    Comment="Brand name + Family name = Product name"
+    OriginalName="Product name" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Family name"
+    Comment="Nexia, Serene, XD etc."
+    OriginalName="Family name" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Brand name"
+    Comment="ReSound, Beltone, Interton etc.. Exclude in Amplifon targets"
+    OriginalName="Brand name" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="RIE battery"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="MultiMic"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="TV Streamer"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Chargers"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="FittingSoftware"
+    Comment="" />
+  <ConditionTag
+    Name="ModelNumbers"
+    Comment="Exclude if model numbers are not needed on the cover page. Only Amplifon displays model numbers."
+    OriginalName="ModelNumbers"
+    BackgroundColor="#c8c8c8" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="CoverPageLogos"
+    Comment=""
+    OriginalName="Cover brand logo" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="App"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="RemoteControl"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="_All-CoverIcon"
+    Comment=""
+    OriginalName="_All-CoverIcon" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Amplifon-OneCoverIcon"
+    Comment=""
+    OriginalName="Amplifon-OneCoverIcon" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Amplifon-TwoCoverIcons"
+    Comment=""
+    OriginalName="Amplifon-TwoCoverIcons" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Family name2"
+    Comment="Nexia, Serene, XD etc. for guides with two families on cover"
+    OriginalName="Family name2" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Jabra"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="COSTCO RS"
+    Comment="" />
+</CatapultConditionTagSet>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="TC_DONT_TRANSLATE._anything">
+    <body>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 9">ENV1764-DRW,</MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 7"> ENV964-DRW,</MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 5"> ENV664-DRW,</MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 4"> ENV464-DRW,</MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Flex demo model"> ENVX64-DRW</MadCap:conditionalText></body>
+</html>

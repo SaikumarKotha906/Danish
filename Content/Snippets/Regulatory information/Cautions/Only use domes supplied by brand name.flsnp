@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>Anvend kun kupler fra <MadCap:variable name="Basic_variables.BrandNameLong" MadCap:conditions="Product Type.OTC HAs"></MadCap:variable><MadCap:variable name="Basic_variables.BrandName" MadCap:conditions="Product Type.All except OTC HAs"></MadCap:variable>.</body>
+</html>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="CheckListOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="CheckListTestLink"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="UGOnly"
+    Comment=""
+    OriginalName="UGOnly" />
+  <ConditionTag
+    BackgroundColor="#ffff00"
+    Name="Hide"
+    Comment=""
+    OriginalName="DoNotDisplay" />
+  <ConditionTag
+    BackgroundColor="#c7c7c7"
+    Name="CH-CL"
+    Comment=""
+    OriginalName="CH-CL-Only" />
+  <ConditionTag
+    BackgroundColor="#c7c7c7"
+    Name="HA-CL"
+    Comment=""
+    OriginalName="HA-CL-Only" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="_All-CL"
+    Comment="" />
+</CatapultConditionTagSet>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    BackgroundColor="#ff69b4"
+    Name="Wax filter"
+    Comment="Used on texts for wax filters in generic topics."
+    OriginalName="Wax filter" />
+  <ConditionTag
+    BackgroundColor="#db7093"
+    Name="Microphone filter"
+    Comment="Used on texts for microphone filters n generic topics."
+    OriginalName="Microphone filter" />
+  <ConditionTag
+    Name="Custom earmould"
+    Comment="Used on texts for custom earmoulds for RIE HAs in generic topics."
+    OriginalName="Custom earmould"
+    BackgroundColor="#4169e1" />
+  <ConditionTag
+    BackgroundColor="#7fffd4"
+    Name="Open dome"
+    Comment="Used on texts for open domes in generic topics." />
+  <ConditionTag
+    BackgroundColor="#00ffff"
+    Name="Closed dome"
+    Comment="Used on texts for closed domes in generic topics." />
+  <ConditionTag
+    BackgroundColor="#00008b"
+    Name="Tulip dome"
+    Comment="Used on texts for tulip domes in generic topics." />
+  <ConditionTag
+    BackgroundColor="#6495ed"
+    Name="Power dome"
+    Comment="Used on texts for power domes in generic topics." />
+</CatapultConditionTagSet>

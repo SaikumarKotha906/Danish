@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment="To be specified in Checklist or UG Target"
+    Name="Check Filename"
+    EvaluatedDefinition="[File Name]">[File Name]</Variable>
+  <Variable
+    Name="ID"
+    Comment="To be specified in Checklist and User Guide Topics"
+    EvaluatedDefinition="[Req ID]">[Req ID]</Variable>
+  <Variable
+    Name="Document Title"
+    Comment="To be specified in Checklist Target"
+    EvaluatedDefinition="[Document Title]">[Document Title]</Variable>
+  <Variable
+    Name="Document Number"
+    Comment="To be specified in Checklist and User Guide Topics"
+    EvaluatedDefinition="[Doc. #]">[Doc. #]</Variable>
+  <Variable
+    Name="Document Revision Number"
+    Comment="To be specified in Checklist and User Guide Topics"
+    EvaluatedDefinition="[Rev. #]">[Rev. #]</Variable>
+  <Variable
+    Name="Form Number"
+    Comment="To be specified in Checklist Target"
+    EvaluatedDefinition="[Form #]">[Form #]</Variable>
+  <Variable
+    Name="Form Revision Number"
+    Comment="To be specified in Checklist Target"
+    EvaluatedDefinition="[Rev. #]">[Rev. #]</Variable>
+  <Variable
+    Name="Printed Date"
+    Comment="Set automatically on Build"
+    Type="DateTime"
+    LastUpdated="2023-12-15T10:12:45.3585599+00:00"
+    EvaluatedDefinition="yyyy-MM-dd">åååå-MM-dd</Variable>
+  <Variable
+    Name="Owner-Editor"
+    Comment="To be specified in Checklist and User Guide Topics"
+    EvaluatedDefinition="[Owner/Editor]">[Owner/Editor]</Variable>
+  <Variable
+    Name="Local Address"
+    Comment="To be specified in Checklist Target"
+    EvaluatedDefinition="[N/A]">[N/A]</Variable>
+  <Variable
+    Name="Requirements"
+    Comment="Fixed heading"
+    EvaluatedDefinition="Requirements">Krav</Variable>
+  <Variable
+    Name="Comments"
+    Comment="Fixed table heading"
+    EvaluatedDefinition="Comments">Kommentarer</Variable>
+  <Variable
+    Name="Mandatory text"
+    Comment="Fixed table cell label"
+    EvaluatedDefinition="Mandatory text">Obligatorisk tekst</Variable>
+  <Variable
+    Name="Required information"
+    Comment="Fixed table cell label"
+    EvaluatedDefinition="Required information">Nødvendige oplysninger</Variable>
+  <Variable
+    Name="Mandatory text / Required information"
+    Comment="Fixed table heading"
+    EvaluatedDefinition="Mandatory text / Required information">Obligatorisk tekst / Påkrævet information</Variable>
+  <Variable
+    Name="Device type"
+    Comment="To be specified in Checklist Target"
+    EvaluatedDefinition="[Device type]">[Device type]</Variable>
+  <Variable
+    Name="Device types"
+    Comment="To be specified in Checklist Target"
+    EvaluatedDefinition="[Device types]">[Device types]</Variable>
+  <Variable
+    Name="countries/markets"
+    Comment="To be specified in Checklist Target"
+    EvaluatedDefinition="countries/markets">lande/markeder</Variable>
+</CatapultVariableSet>

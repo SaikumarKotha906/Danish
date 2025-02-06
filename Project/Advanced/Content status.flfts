@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileTagSet
+  Type="Status"
+  Comment="My set of status tags">
+  <FileTag
+    Name="1-In progress"
+    Comment="Content is being developed"
+    OriginalName="1-In progress" />
+  <FileTag
+    Name="5-Approved"
+    Comment="Content is approved and moves to translation status"
+    OriginalName="5-Approved" />
+  <FileTag
+    Name="0-Not started"
+    Comment="No content available"
+    OriginalName="0-Not started" />
+  <FileTag
+    Name="2-Waiting for input"
+    Comment="Content cannot progress before input is received"
+    OriginalName="2-Waiting for input" />
+  <FileTag
+    Name="4-In review"
+    Comment="Content has been submitted to review"
+    OriginalName="4-In review" />
+  <FileTag
+    Name="3-Ready for review"
+    Comment="Content is ready to be reviewed - send relevant review packages" />
+</CatapultFileTagSet>

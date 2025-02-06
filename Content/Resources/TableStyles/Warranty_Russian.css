@@ -1,0 +1,1200 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+@media print
+{
+	mcTableStyle
+	{
+		border-left-style: none;
+		border-left-width: 1px;
+		border-left-color: #e16600;
+		border-right-style: none;
+		border-right-width: 1px;
+		border-right-color: #e16600;
+		border-top-style: none;
+		border-top-width: 1px;
+		border-top-color: #e16600;
+		border-bottom-style: none;
+		border-bottom-width: 1px;
+		border-bottom-color: #e16600;
+	}
+
+	mcTableColumnStyle
+	{
+		text-align: right;
+	}
+
+	mcTableColumnStyle
+	{
+		
+	}
+
+	mcTableHeadStyle
+	{
+		
+	}
+
+	mcTableBodyStyle
+	{
+		cell-content-style-tag: p;
+	}
+
+	mcTableFootStyle
+	{
+		
+	}
+}
+
+mcTableStyle
+{
+	name: Warranty_Russian;
+	border-collapse: collapse;
+	border-left-style: none;
+	border-left-width: 2px;
+	border-right-style: none;
+	border-right-width: 2px;
+	border-top-style: none;
+	border-top-width: 2px;
+	border-bottom-style: none;
+	border-bottom-width: 2px;
+	max-id: 7;
+	cell-padding-left: 0px;
+	cell-padding-right: 0px;
+	cell-padding-top: 0px;
+	cell-padding-bottom: 2px;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Column1;
+	id: 0;
+	vertical-align: bottom;
+	cell-content-style-tag: p;
+	text-align: left;
+	size: 90%;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 7;
+	name: Column2;
+	size: 10%;
+	vertical-align: bottom;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Header1;
+	id: 2;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Body1;
+	id: 1;
+	cell-content-style-tag: p;
+	cell-padding-left: 0px;
+	cell-padding-right: 4px;
+	cell-padding-top: 7px;
+	cell-padding-bottom: 0px;
+	text-align: left;
+	vertical-align: top;
+}
+
+mcTableFootStyle
+{
+	span: 1;
+	separator-style: none;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Footer1;
+	id: 3;
+}
+
+
+/* Cell Styles: */
+ 
+@media print
+{
+	.TableStyle-Warranty_Russian
+	{
+		border-left-style: none;
+		border-left-color: #e16600;
+		border-left-width: 1px;
+		border-right-style: none;
+		border-right-color: #e16600;
+		border-right-width: 1px;
+		border-top-style: none;
+		border-top-color: #e16600;
+		border-top-width: 1px;
+		border-bottom-style: none;
+		border-bottom-color: #e16600;
+		border-bottom-width: 1px;
+		border-spacing: 0px 0px;
+	}
+
+	.TableStyle-Warranty_Russian-HeadI-Column1-Header1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-HeadE-Column1-Header1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-HeadF-Column1-Header1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-HeadH-Column1-Header1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-HeadD-Column1-Header1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-HeadC-Column1-Header1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-HeadB-Column1-Header1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-HeadA-Column1-Header1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-HeadG-Column1-Header1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-FootI-Column1-Footer1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-FootE-Column1-Footer1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-FootF-Column1-Footer1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-FootH-Column1-Footer1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-FootD-Column1-Footer1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-FootC-Column1-Footer1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-FootB-Column1-Footer1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-FootA-Column1-Footer1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-FootG-Column1-Footer1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-BodyI-Column1-Body1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-BodyE-Column1-Body1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-BodyF-Column1-Body1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-BodyH-Column1-Body1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-BodyD-Column1-Body1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-BodyC-Column1-Body1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-BodyB-Column1-Body1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-BodyA-Column1-Body1
+	{
+		text-align: right;
+	}
+
+	.TableStyle-Warranty_Russian-BodyG-Column1-Body1
+	{
+		text-align: right;
+	}
+}
+
+
+
+.TableStyle-Warranty_Russian
+{
+	border-collapse: collapse;
+	border-left-style: none;
+	border-left-width: 2px;
+	border-right-style: none;
+	border-right-width: 2px;
+	border-top-style: none;
+	border-top-width: 2px;
+	border-bottom-style: none;
+	border-bottom-width: 2px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-Warranty_Russian-Column-Column1
+{
+	width: 90%;
+}
+
+.TableStyle-Warranty_Russian-Column-Column2
+{
+	width: 10%;
+}
+
+.TableStyle-Warranty_Russian-Head-Header1
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadI-Column1-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-HeadI-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadE-Column1-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+}
+
+.TableStyle-Warranty_Russian-HeadE-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadF-Column1-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+}
+
+.TableStyle-Warranty_Russian-HeadF-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadH-Column1-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-Warranty_Russian-HeadH-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadD-Column1-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+}
+
+.TableStyle-Warranty_Russian-HeadD-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadC-Column1-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-HeadC-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadB-Column1-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-Warranty_Russian-HeadB-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadA-Column1-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-HeadA-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadG-Column1-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-HeadG-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadI-Column2-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-HeadI-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadE-Column2-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+}
+
+.TableStyle-Warranty_Russian-HeadE-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadF-Column2-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+}
+
+.TableStyle-Warranty_Russian-HeadF-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadH-Column2-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-HeadH-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadD-Column2-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+}
+
+.TableStyle-Warranty_Russian-HeadD-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadC-Column2-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-HeadC-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadB-Column2-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-HeadB-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadA-Column2-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-HeadA-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-HeadG-Column2-Header1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-HeadG-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-Foot-Footer1
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootI-Column1-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-FootI-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootE-Column1-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: none;
+}
+
+.TableStyle-Warranty_Russian-FootE-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootF-Column1-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: none;
+}
+
+.TableStyle-Warranty_Russian-FootF-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootH-Column1-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-Warranty_Russian-FootH-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootD-Column1-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: none;
+}
+
+.TableStyle-Warranty_Russian-FootD-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootC-Column1-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-FootC-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootB-Column1-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-Warranty_Russian-FootB-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootA-Column1-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-FootA-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootG-Column1-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-FootG-Column1-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootI-Column2-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-FootI-Column2-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootE-Column2-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: none;
+}
+
+.TableStyle-Warranty_Russian-FootE-Column2-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootF-Column2-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: none;
+}
+
+.TableStyle-Warranty_Russian-FootF-Column2-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootH-Column2-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-FootH-Column2-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootD-Column2-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: none;
+}
+
+.TableStyle-Warranty_Russian-FootD-Column2-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootC-Column2-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-FootC-Column2-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootB-Column2-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-FootB-Column2-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootA-Column2-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-FootA-Column2-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-FootG-Column2-Footer1
+{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 2px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-FootG-Column2-Footer1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-Body-Body1
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyI-Column1-Body1
+{
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyI-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyE-Column1-Body1
+{
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	text-align: left;
+	vertical-align: bottom;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-Warranty_Russian-BodyE-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyF-Column1-Body1
+{
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyF-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyH-Column1-Body1
+{
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	text-align: left;
+	vertical-align: bottom;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-Warranty_Russian-BodyH-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyD-Column1-Body1
+{
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyD-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyC-Column1-Body1
+{
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyC-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyB-Column1-Body1
+{
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	text-align: left;
+	vertical-align: bottom;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: none;
+}
+
+.TableStyle-Warranty_Russian-BodyB-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyA-Column1-Body1
+{
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyA-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyG-Column1-Body1
+{
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	text-align: left;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyG-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyI-Column2-Body1
+{
+	text-align: left;
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyI-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyE-Column2-Body1
+{
+	text-align: left;
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyE-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyF-Column2-Body1
+{
+	text-align: left;
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyF-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyH-Column2-Body1
+{
+	text-align: left;
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyH-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyD-Column2-Body1
+{
+	text-align: left;
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: none;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyD-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyC-Column2-Body1
+{
+	text-align: left;
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyC-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyB-Column2-Body1
+{
+	text-align: left;
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyB-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyA-Column2-Body1
+{
+	text-align: left;
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyA-Column2-Body1 p
+{
+	
+}
+
+.TableStyle-Warranty_Russian-BodyG-Column2-Body1
+{
+	text-align: left;
+	padding-left: 0px;
+	padding-right: 4px;
+	padding-top: 7px;
+	padding-bottom: 0px;
+	vertical-align: bottom;
+}
+
+.TableStyle-Warranty_Russian-BodyG-Column2-Body1 p
+{
+	
+}
+
+

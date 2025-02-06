@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment=""
+    Name="TM"
+    BackgroundColor="#c8c8c8" />
+  <ConditionTag
+    Comment="Include in US - exclude in all other languages"
+    Name="Registered trademark"
+    BackgroundColor="#c8c8c8" />
+  <ConditionTag
+    Comment=""
+    Name="Medical dev class I (CE)"
+    BackgroundColor="#c8c8c8"
+    OriginalName="CE" />
+  <ConditionTag
+    Comment=""
+    Name="Medical dev class II (CE0297)"
+    BackgroundColor="#c8c8c8"
+    OriginalName="CE 297" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="_All-LegalMarks"
+    Comment="" />
+</CatapultConditionTagSet>

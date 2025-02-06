@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable Name="HearingAidTypeLong" EvaluatedDefinition="[Hearing aid type long]" Comment="TC_DONT_TRANSLATE._anything:">[Hearing aid type long]</Variable> <Variable Name="ManualType" EvaluatedDefinition="[Manual type]" Comment="TC_DONT_TRANSLATE._anything:">[Manual type]</Variable>
+  <Variable
+    Name="EU_directives"
+    Comment="Medical Device Directives"
+    EvaluatedDefinition="[Directive code]">[Directive code]</Variable>
+  <Variable Name="HATypeShort" EvaluatedDefinition="[Hearing aid type short]" Comment="TC_DONT_TRANSLATE._anything:">[Hearing aid type short]</Variable> <Variable Name="ProductType" EvaluatedDefinition="[Product type]" Comment="TC_DONT_TRANSLATE._anything:">[Product type]</Variable>
+  <Variable
+    Name="EU_directives"
+    EvaluatedDefinition="93/42/EEC"
+    Comment="Medical Device Directive (MDD); TC_TRANSLATE._partial EEC">93/42/EØF</Variable>
+  <Variable
+    Name="EU_directives"
+    EvaluatedDefinition="2017/745"
+    Comment="EU Medical Device Regulation (MDR)">2017/745</Variable>
+  <Variable
+    Name="EU_directives"
+    Comment="EU radio directive; TC_TRANSLATE._partial: EU"
+    EvaluatedDefinition="2014/53/EU">2014/53/EU</Variable>
+  <Variable
+    Name="HATypeShort"
+    Comment="Behind-the-Ear; TC_TRANSLATE._all: BTE"
+    EvaluatedDefinition="BTE">BTE</Variable>
+  <Variable
+    Name="HATypeShort"
+    Comment="Completely-In-the-Canal; TC_TRANSLATE._all: CIC"
+    EvaluatedDefinition="CIC">CIC</Variable>
+  <Variable
+    Name="HATypeShort"
+    Comment="Invisible-In-the-Canal; TC_TRANSLATE._all: IIC"
+    EvaluatedDefinition="IIC">IIC</Variable>
+  <Variable
+    Name="HATypeShort"
+    Comment="In-the-Canal; TC_TRANSLATE._all: ITC"
+    EvaluatedDefinition="ITC">ITC</Variable>
+  <Variable
+    Name="HATypeShort"
+    Comment="In-In-the-Ear; TC_TRANSLATE._all: ITE"
+    EvaluatedDefinition="ITE">ITE</Variable>
+  <Variable
+    Name="HATypeShort"
+    Comment="In-In-the-Ear, wireless; TC_TRANSLATE._all: ITE Wireless"
+    EvaluatedDefinition="ITE Wireless">ITE trådløs</Variable>
+  <Variable
+    Name="HATypeShort"
+    Comment="Receiver-in-Ear; TC_TRANSLATE._all: RIE"
+    EvaluatedDefinition="RIE">RIE</Variable>
+  <Variable
+    Name="HearingAidTypeLong"
+    Comment="TC_TRANSLATE._all: Behind-the-Ear"
+    EvaluatedDefinition="Behind-the-Ear">Behind-the-Ear</Variable>
+  <Variable
+    Name="HearingAidTypeLong"
+    Comment="As in Custom-made; TC_TRANSLATE._all: Custom"
+    EvaluatedDefinition="Custom">Custom</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Behind-the-Ear hearing aids"
+    EvaluatedDefinition="Behind-the-Ear hearing aids">Behind-The-Ear-høreapparater</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Receiver-in-Ear hearing aids"
+    EvaluatedDefinition="Receiver-in-Ear hearing aids">Receiver-In-Ear-høreapparater</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Receiver-in-Ear hearing aids, Rechargeable"
+    EvaluatedDefinition="Receiver-in-Ear hearing aids, Rechargeable">Receiver-In-Ear-høreapparater, genopladelige</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Remote Control"
+    EvaluatedDefinition="Remote Control">Fjernbetjening</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Custom hearing aids"
+    EvaluatedDefinition="Custom hearing aids">Custom høreapparater</Variable>
+  <Variable
+    Name="ManualType"
+    Comment="TC_TRANSLATE._all: User guide"
+    EvaluatedDefinition="User guide">Brugsanvisning</Variable>
+  <Variable
+    Name="HATypeShort"
+    Comment="As in Custom-made; TC_TRANSLATE._all: Custom"
+    EvaluatedDefinition="Custom">Custom</Variable>
+  <Variable
+    Name="HearingAidTypeLong"
+    Comment="TC_TRANSLATE._all: Receiver-in-ear"
+    EvaluatedDefinition="Receiver-in-Ear">Receiver-In-Ear</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Receiver-in-Ear hearing aids, Rechargeable"
+    EvaluatedDefinition="Receiver-in-Ear hearing aids, Rechargeable">Receiver-In-Ear-høreapparater, genopladelige</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Receiver-in-Ear hearing aids"
+    EvaluatedDefinition="Receiver-in-Ear hearing aids">Receiver-In-Ear-høreapparater</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Standard Charger"
+    EvaluatedDefinition="Standard Charger">Standardoplader</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Premium Charger"
+    EvaluatedDefinition="Premium Charger">Premium-oplader</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Desktop Charger (Meaning Tabletop Charger)"
+    EvaluatedDefinition="Desktop Charger">Desktop Charger</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="Trans only: Hearing Instruments!(= hearing aids)"
+    EvaluatedDefinition="Kirkland Signature 10.0 Premium Hearing Instruments">Kirkland Signature 10.0 Premium-høreapparater</Variable>
+  <Variable Name="EU_Directive_Regulation_Long" Comment="TC_DONT_TRANSLATE._anything:" EvaluatedDefinition="[EU Medical Device Directive_Regulation Long]">[EU Medical Device Directive_Regulation Long]</Variable>
+  <Variable
+    Name="EU_Directive_Regulation_Long"
+    Comment="(MDD) TC_TRANSLATE._all: EU Medical Device Directive"
+    EvaluatedDefinition="EU Medical Device Directive">EU’s direktiv om medicinsk udstyr</Variable>
+  <Variable
+    Name="EU_Directive_Regulation_Long"
+    Comment="(MDR) TC_TRANSLATE._all: EU Medical Device Regulation"
+    EvaluatedDefinition="EU Medical Device Regulation">EU’s forordning om medicinsk udstyr</Variable>
+  <Variable Name="ProductType" Comment="Amplifon Premium  TC_DONT_TRANSLATE._anything:" EvaluatedDefinition="Charger">Charger</Variable> <Variable Name="ProductType" Comment="Amplifon standard TC_DONT_TRANSLATE._anything:" EvaluatedDefinition="ampli-charge">ampli-charge</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Behind-the-Ear power hearing aids"
+    EvaluatedDefinition="Behind-the-Ear power hearing aids">Behind-The-Ear-powerhøreapparater</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Custom hearing aids, Rechargeable"
+    EvaluatedDefinition="Custom hearing aids, Rechargeable">Custom høreapparater, genopladelige</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Custom Charger"
+    EvaluatedDefinition="Custom Charger">Custom oplader</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Behind-the-Ear hearing aids, Rechargeable"
+    EvaluatedDefinition="Behind-the-Ear hearing aids, Rechargeable">Behind-The-Ear-høreapparater, genopladelige</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Behind-the-Ear power hearing aids, Rechargeable"
+    EvaluatedDefinition="Behind-the-Ear power hearing aids, Rechargeable">Behind-The-Ear-powerhøreapparater, genopladelige</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._partial: App (which is short for &quot;application&quot;)"
+    EvaluatedDefinition="Smart 3D™ App">Smart 3D™-app</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._partial: App (which is short for &quot;application&quot;)"
+    EvaluatedDefinition="Smart™ App">Smart™-app</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._partial: App (which is short for &quot;application&quot;)"
+    EvaluatedDefinition="HearMax™ App">HearMax™-app</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._partial: App (which is short for &quot;application&quot;)"
+    EvaluatedDefinition="HearPlus™ App">HearPlus™-app</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._partial: App (which is short for &quot;application&quot;)"
+    EvaluatedDefinition="Sound App">Sound-app</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._partial: App (which is short for &quot;application&quot;)"
+    EvaluatedDefinition="Enhance Pro App">Enhance Pro-app</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._partial: App (which is short for &quot;application&quot;)"
+    EvaluatedDefinition="Attune App">Attune-app</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._partial: App (which is short for &quot;application&quot;)"
+    EvaluatedDefinition="Choice App">Choice-app</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._partial: App (which is short for &quot;application&quot;)"
+    EvaluatedDefinition="My Lively™ App">My Lively™-app</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Multi-Mic"
+    EvaluatedDefinition="Multi-Mic">Multi-Mic</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._partial: App (which is short for &quot;application&quot;)"
+    EvaluatedDefinition="Tuner a GAN App">Tuner a GAN-app</Variable>
+  <Variable
+    Name="ManualType"
+    Comment="TC_TRANSLATE._all: Addendum"
+    EvaluatedDefinition="Addendum">Addendum</Variable>
+  <Variable Name="Listening program - in crowds" Comment="TC_DONT_TRANSLATE._anything:" EvaluatedDefinition="[Listening program - in crowds]">[Listening program - in crowds]</Variable>
+  <Variable
+    Name="Listening program - in crowds"
+    Comment="TC_TRANSLATE._all. Restarant. Up to SW platform 1.16"
+    EvaluatedDefinition="Restaurant">Restaurant</Variable>
+  <Variable
+    Name="Listening program - in crowds"
+    Comment="TC_TRANSLATE._all. Hear in Noise. SW platform 1.17 going forward"
+    EvaluatedDefinition="Hear in Noise">Høre i larm</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._all: Fitting software"
+    EvaluatedDefinition="Fitting software">Tilpasningssoftware</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._partial: App (which is short for &quot;application&quot;)"
+    EvaluatedDefinition="Hearing Australia App">Hearing Australia-app</Variable>
+  <Variable
+    Name="ProductType"
+    Comment="TC_TRANSLATE._partial: App (which is short for &quot;application&quot;)"
+    EvaluatedDefinition="BeMore App">BeMore-app</Variable>
+  <Variable
+    Name="Revision"
+    Comment="TC_TRANSLATE._all"
+    EvaluatedDefinition="Rev.">Rev.</Variable>
+  <Variable Name="ProductType" Comment="TC_DONT_TRANSLATE._anything: SAS3: ReSound, Interton, generic" EvaluatedDefinition="TV Streamer 2">TV Streamer 2</Variable> <Variable Name="ProductType" Comment="TC_DONT_TRANSLATE._anything: SAS3 - Beltone" EvaluatedDefinition="Direct TV Link 2">Direct TV Link 2</Variable> <Variable Name="ProductType" Comment="TC_DONT_TRANSLATE._anything: SAS3: Amplifon" EvaluatedDefinition="ampli-TV">ampli-TV</Variable> <Variable Name="ProductType" Comment="TC_DONT_TRANSLATE._anything: SAS4: generic" EvaluatedDefinition="TV-Streamer+">TV-Streamer+</Variable>
+</CatapultVariableSet>

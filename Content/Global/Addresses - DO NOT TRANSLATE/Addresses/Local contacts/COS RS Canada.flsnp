@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+		<p class="AddressTitle">ReSound Canada</p>
+        <p class="AddressLine">2 East Beaver Creek Road, Building 3</p>
+        <p class="AddressLine">Richmond Hill, ON L4B 2N3</p>
+        <p class="AddressLine">Canada</p>
+        <p class="AddressLine">1-833-583-2615</p>
+        <p class="AddressLine"><MadCap:variable name="Basic_variables.URL_main" />
+        </p>
+    </body>
+</html>

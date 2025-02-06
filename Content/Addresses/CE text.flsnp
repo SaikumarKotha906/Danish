@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../Resources/TableStyles/CE backpage.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="mc-table-style: url('../Resources/TableStyles/CE backpage.css');margin-left: 0;margin-right: auto;" class="TableStyle-CE_backpage" cellspacing="0">
+            <col class="TableStyle-CE_backpage-Column-Column1" />
+            <col class="TableStyle-CE_backpage-Column-Column2" />
+            <tbody>
+                <tr MadCap:conditions="Legal marks.Medical dev class II (CE0297),Legal marks._All-LegalMarks" class="TableStyle-CE_backpage-Body-Body1">
+                    <td class="TableStyle-CE_backpage-BodyE-Column1-Body1">
+                        <p>
+                            <img src="../Global/Images/Symbols_Marks/CE logo 0297.eps" class="icon_ce" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-CE_backpage-BodyD-Column2-Body1">
+                        <p class="CE_backpage_text">&#160;</p>
+                        <p class="CE_backpage_text">
+                            <MadCap:snippetText src="CE Any serious.flsnp" />
+                        </p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="Legal marks.Medical dev class I (CE),Legal marks._All-LegalMarks" class="TableStyle-CE_backpage-Body-Body1">
+                    <td class="TableStyle-CE_backpage-BodyE-Column1-Body1">
+                        <p>
+                            <img src="../Global/Images/Symbols_Marks/CE.eps" class="icon_ce" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-CE_backpage-BodyD-Column2-Body1">
+                        <p class="CE_backpage_text">&#160;</p>
+                        <p class="CE_backpage_text">
+                            <MadCap:snippetText src="CE Any serious.flsnp" />
+                        </p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="Brands.Neuroth" class="TableStyle-CE_backpage-Body-Body1">
+                    <td class="TableStyle-CE_backpage-BodyB-Column1-Body1">
+                        <p>
+                            <img src="../Global/Images/Symbols_Marks/CE logo 0297.eps" class="icon_ce" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-CE_backpage-BodyA-Column2-Body1">
+                        <p class="CE_backpage_text">&#160;</p>
+                        <p class="CE_backpage_text">
+                            <MadCap:snippetText src="../Snippets/Faceplate/Faceplate.flsnp" />
+                            <br />Enhver alvorlig hændelse, der opstår i forbindelse med frontpladen, skal rapporteres til
+den juridiske producent <MadCap:variable name="Basic_variables.CompanyNameLong for BackPages and CE mark"></MadCap:variable> og den kompetente myndighed i den EU-medlemsstat, hvor brugeren er etableret.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

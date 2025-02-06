@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+            <p class="AddressTitle"><MadCap:snippetText src="../../../Addresses/Distributed by.flsnp" /></p>
+            <p class="AddressLine">Costco Wholesale UK Ltd/</p>
+            <p class="AddressLine">Costco Online UK Ltd</p>
+            <p class="AddressLine">Hartspring Lane Watford, Herts</p>
+            <p class="AddressLine">WD25 8JS</p>
+            <p class="AddressLine">United Kingdom</p>
+            <p class="AddressLine">01923 213113</p>
+            <p class="AddressLine">www.costco.co.uk</p>
+    </body>
+</html>

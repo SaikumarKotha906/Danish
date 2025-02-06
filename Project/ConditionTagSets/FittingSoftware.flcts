@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="TSG"
+    Comment="Tinnitus sound generator is not in CS"
+    OriginalName="TSG" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Remote fine-tuning"
+    Comment="Remote fine-tuning is not in AMP"
+    OriginalName="Remote fine-tuning" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Live remote assistance"
+    Comment="Live remote assistance is not in INT"
+    OriginalName="Live remote assistance" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="CROS"
+    Comment="CROS is not in AU"
+    OriginalName="CROS" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Local contact"
+    Comment="Local contact information is not in CS, INT" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Partial - Live remote assistance"
+    Comment="Live remote assistance is only partly in AMP"
+    OriginalName="Partial - Live remote assistance" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="View ratings"
+    Comment="View ratings from patients is not in AMP" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="Flex demo device"
+    Comment="Flex demo devices not available in AU, CS, DANA, LTD" />
+</CatapultConditionTagSet>

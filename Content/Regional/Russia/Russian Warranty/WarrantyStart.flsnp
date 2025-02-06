@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../Resources/TableStyles/Table_InvisibleTight.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1>Гарантия и ремонт</h1>
+        <p>На свои слуховые аппараты компания <MadCap:variable name="Basic_variables.BrandName" /> предоставляет гарантию на случай дефектов изготов-ления или материалов, как описано в соответствующей гарантийной документации. В рамках своей политики сервисного обслуживания компания <MadCap:variable name="Basic_variables.BrandName" /> обязуется обеспечивать функциональность своих слуховых аппаратов, по меньшей мере, на ее исходном уровне. Будучи одной из сторон, подпи-савших Глобальный договор ООН, компания <MadCap:variable name="Basic_variables.BrandName" /> стремится к тому, чтобы достижение этой цели осуществлялось максимально экологичным способом. Поэтому, по усмотрению компании <MadCap:variable name="Basic_variables.BrandName" />, слуховые аппараты могут заменяться новыми устройствами или устройствами, изготовленными с ис-пользованием новых или исправных использованных деталей, или ремонтироваться с использовани-ем новых или модифицированных сменных деталей.  Гарантийный период слуховых аппаратов указан на вашем гарантийном талоне, который выдается специалистом-сурдологом.</p>
+        <p>Если слуховые аппараты нуждаются в сервисном обслуживании, пожалуйста, обратитесь за помощью к специалисту-сурдологу.</p>
+        <p>Неисправные слуховые аппараты <MadCap:variable name="Basic_variables.BrandName" /> должны быть отремонтированы квалифицированным тех-ническим специалистом. Не пытайтесь открыть корпус слуховых аппаратов, поскольку это приведет к аннулированию гарантии.</p>
+        <p>сплатное гарантийное обслуживание слухового аппарата <MadCap:variable name="Basic_variables.BrandName" /> осуществляется в течение одного года со дня продажи (с отметкой о ремонте в гарантийном талоне) при:</p>
+        <p class="bullet_list" MadCap:autonum="•">наличии даты продажи, печати (торгующей организации) в данном руководстве и гарантийном талоне;</p>
+        <p class="bullet_list" MadCap:autonum="•">предъявлении слухового аппарата в чистом виде.</p>
+        <p>В случае отсутствия даты продажи гарантийные обязательства вступают в силу с даты проверки.</p>
+        <p>Гарантийное обслуживание слуховых аппаратов <MadCap:variable name="Basic_variables.BrandName" /> осуществляет</p>
+        <p class="russian">&#160;</p>
+        <p class="russian">&#160;</p>
+        <p>Гарантийные обязательства не распространяются на слуховые аппараты:</p>
+        <p class="bullet_list" MadCap:autonum="•">с механическими повреждениями,</p>
+        <p class="bullet_list" MadCap:autonum="•">носящие следы химического воздействия,</p>
+        <p class="bullet_list" MadCap:autonum="•">подвергавшиеся самостоятельной разборке, а также при нарушении условий эксплуатации, изложенных в настоящем руководстве пользователя.</p>
+        <p>В этих случаях ремонт производится за счет покупателя.</p>
+        <p class="SubHeader">Информация о температурных тестах, транспортировке и хранении</p>
+        <p>Слуховые аппараты <MadCap:variable name="Basic_variables.BrandName" /> прошли различные температурные испытания и циклические испы-тания на воздействие влажного тепла в диапазоне температур от -25°C до +70°C в соответствии с внутрикорпоративными и отраслевыми стандартами. Во время транспортировки или хранения пре-дельные значения температуры должны оставаться в диапазоне от -20°C до +60°C, а относительная влажность не должна превышать 90%, без конденсата (в течение ограниченного периода времени). Допустимым является давление воздуха в диапазоне от 500 до 1100 гПа.</p>
+        <div class="forced_frame_break">
+            <p class="SubHeader">Свидетельство о приемке и продаже</p>
+        </div>
+        <p>Слуховые аппараты <MadCap:variable name="Basic_variables.BrandName" />   и <MadCap:variable name="Basic_variables.BrandName" />  сертифицированы.</p>
+        <table style="margin-left: 0;margin-right: auto;width: 542px;mc-table-style: url('../../../Resources/TableStyles/Table_InvisibleTight.css');" class="TableStyle-Table_InvisibleTight" cellspacing="0">
+            <col class="TableStyle-Table_InvisibleTight-Column-Column1" style="width: 265px;">
+            </col>
+            <col class="TableStyle-Table_InvisibleTight-Column-Column1" style="width: 163px;">
+            </col>
+            <col class="TableStyle-Table_InvisibleTight-Column-Column1" style="width: 163px;">
+            </col>
+            <tbody>
+                <tr class="TableStyle-Table_InvisibleTight-Body-Body1">
+                    <td class="TableStyle-Table_InvisibleTight-BodyE-Column1-Body1">
+                        <p class="russian">Слуховой аппарат</p>
+                    </td>
+                    <td class="TableStyle-Table_InvisibleTight-BodyE-Column1-Body1">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-Table_InvisibleTight-BodyD-Column1-Body1" rowspan="5">
+                        <p>Изготовитель:<br></br>Джи-Эн РиСаунд А/С<br></br>Лаутрупбьорг, 7<br></br>DK2750 Баллеруп<br></br>Дания</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_InvisibleTight-Body-Body1">
+                    <td class="TableStyle-Table_InvisibleTight-BodyE-Column1-Body1">
+                        <p class="russian">Серийный №</p>
+                    </td>
+                    <td class="TableStyle-Table_InvisibleTight-BodyE-Column1-Body1">
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_InvisibleTight-Body-Body1">
+                    <td class="TableStyle-Table_InvisibleTight-BodyE-Column1-Body1">
+                        <p>признан годным для эксплуатации.</p>
+                    </td>
+                    <td class="TableStyle-Table_InvisibleTight-BodyE-Column1-Body1">
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_InvisibleTight-Body-Body1">
+                    <td class="TableStyle-Table_InvisibleTight-BodyE-Column1-Body1">
+                        <p class="russian">Дата проверки</p>
+                    </td>
+                    <td class="TableStyle-Table_InvisibleTight-BodyE-Column1-Body1">
+                        <p>Штамп</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_InvisibleTight-Body-Body1">
+                    <td class="TableStyle-Table_InvisibleTight-BodyB-Column1-Body1">
+                        <p class="russian">Дата продажи</p>
+                    </td>
+                    <td class="TableStyle-Table_InvisibleTight-BodyB-Column1-Body1">
+                        <p>м.п.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+    </body>
+</html>

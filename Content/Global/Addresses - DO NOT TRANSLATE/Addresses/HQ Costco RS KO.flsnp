@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="forced_column_break">
+            <p class="AddressLine">GN Hearing Korea Co., Ltd</p>
+            <p class="AddressLine">14F, 15F, G-Tower, 549,</p>
+            <p class="AddressLine">Cheonho-daero, Gwangjin-gu</p>
+            <p class="AddressLine">Seoul</p>
+            <p class="AddressLine">KOREA</p>
+            <p class="AddressLine"><MadCap:variable name="Basic_variables.URL_main" />
+            </p>
+        </div>
+    </body>
+</html>

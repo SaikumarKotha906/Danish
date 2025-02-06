@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Name="BarCode_Image" EvaluatedDefinition="HE200034_401511000.png">HE200034_401511000.png</Variable>
+  <Variable Name="BarCode_Image" EvaluatedDefinition="HE200036_401515000.png">HE200036_401515000.png</Variable>
+  <Variable Name="BarCode_Image" EvaluatedDefinition="HE200035_401512000.png">HE200035_401512000.png</Variable>
+  <Variable Name="BarCode_Image" Comment="KA AMP PBTE" EvaluatedDefinition="KA AMP 401536_HE200045.png">KA AMP 401536_HE200045.png</Variable>
+  <Variable Name="BarCode_Image" Comment="KA AMP BTE" EvaluatedDefinition="KA AMP 401537_HE200046.png">KA AMP 401537_HE200046.png</Variable>
+  <Variable Name="BarCode_Image" Comment="KA AMP RIE RHA" EvaluatedDefinition="KA AMP 401538_HE200047.png">KA AMP 401538_HE200047.png</Variable>
+  <Variable Name="BarCode_Image" Comment="KA AMP RIE" EvaluatedDefinition="KA AMP 401539_HE200048.png">KA AMP 401539_HE200048.png</Variable>
+  <Variable Name="BarCode_Image" Comment="KA AMP Custom" EvaluatedDefinition="KA AMP 401540_HE200049.png">KA AMP 401540_HE200049.png</Variable>
+  <Variable Name="BarCode_Image" Comment="KA AMP Desk chrgr code 1" EvaluatedDefinition="KA AMP 401541_HE200056.png">KA AMP 401541_HE200056.png</Variable>
+  <Variable Name="BarCode_Image" Comment="KA AMP Desk chrgr code 2" EvaluatedDefinition="KA AMP 401541_HE200057.png">KA AMP 401541_HE200057.png</Variable>
+</CatapultVariableSet>

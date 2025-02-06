@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Powersource.Rechargeable">
+    <body>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 1">ADVCR64R-RIE</MadCap:conditionalText>
+    </body>
+</html>

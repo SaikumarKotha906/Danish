@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Comment="Operation" Name="SmartStart" EvaluatedDefinition="[SmartStart]">[SmartStart]</Variable>
+  <Variable Name="SmartStart" Comment="ReSound, Amplifon, Ltd, Hearing Australia" EvaluatedDefinition="Smart Start">Smart Start</Variable>
+  <Variable Name="SmartStart" Comment="Beltone" EvaluatedDefinition="Delayed Activation">Delayed Activation</Variable>
+  <Variable Name="SmartStart" Comment="Interton" EvaluatedDefinition="Power-on-delay">Power-on-delay</Variable>
+  <Variable Name="AutoPhone" Comment="Telephone use" EvaluatedDefinition="[AutoPhone]">[AutoPhone]</Variable>
+  <Variable Name="AutoPhone" Comment="ReSound &amp; Amplifon" EvaluatedDefinition="Phone Now">Phone Now</Variable>
+  <Variable Name="AutoPhone" Comment="Beltone" EvaluatedDefinition="Auto-Phone">Auto-Phone</Variable>
+  <Variable Name="AutoPhone" Comment="Interton" EvaluatedDefinition="AutoPhone">AutoPhone</Variable>
+  <Variable Name="TSG_short" Comment="TSG" EvaluatedDefinition="[TSG]">[TSG]</Variable>
+  <Variable Name="TSG_short" Comment="Beltone" EvaluatedDefinition="TBP">TBP</Variable>
+  <Variable Name="TSG_short" Comment="Resound &amp; Interton (all, except Beltone)" EvaluatedDefinition="TSG">TSG</Variable>
+  <Variable Name="TSG_long" Comment="TSG" EvaluatedDefinition="[Tinnitus Sound Generator]">[Tinnitus Sound Generator]</Variable>
+  <Variable Name="TSG_long" Comment="not Beltone" EvaluatedDefinition="Tinnitus Sound Generator">Tinnitus Sound Generator</Variable>
+  <Variable Name="TSG_long" Comment="Beltone" EvaluatedDefinition="Tinnitus Breaker Pro">Tinnitus Breaker Pro</Variable>
+  <Variable Name="Smart3DApp" Comment="Apps" EvaluatedDefinition="[App UG name]">[App UG name]</Variable>
+  <Variable Name="Smart3DApp" Comment="ReSound 3D" EvaluatedDefinition="ReSound Smart 3D™">ReSound Smart 3D™</Variable>
+  <Variable Name="Smart3DApp" Comment="Beltone 3D" EvaluatedDefinition="Beltone HearMax™">Beltone HearMax™</Variable>
+  <Variable Name="Smart3DApp" Comment="Interton 3D" EvaluatedDefinition="Interton Sound">Interton Sound</Variable>
+  <Variable Name="Smart3DApp" Comment="Audigy 3D" EvaluatedDefinition="AGXR Attune">AGXR Attune</Variable>
+  <Variable Name="AsymmetricPhoneHandling" Comment="Asymmetric Phone Handling" EvaluatedDefinition="[Asymmetric Phone Handling]">[Asymmetric Phone Handling]</Variable>
+  <Variable Name="AsymmetricPhoneHandling" Comment="Beltone" EvaluatedDefinition="Asymmetric Phone Handling">Asymmetric Phone Handling</Variable>
+  <Variable Name="AsymmetricPhoneHandling" Comment="Interton" EvaluatedDefinition="Comfort Phone">Comfort Phone</Variable>
+  <Variable Name="ReSound Assist" EvaluatedDefinition="[Assist]">[Assist]</Variable>
+  <Variable Name="ReSound Assist" Comment="Beltone" EvaluatedDefinition="Beltone Remote Care">Beltone Remote Care</Variable>
+  <Variable Name="AutoPhone" Comment="Danavox" EvaluatedDefinition="Magnet Pro">Magnet Pro</Variable>
+  <Variable Name="SmartStart" Comment="Danavox" EvaluatedDefinition="Easy-On">Easy-On</Variable>
+  <Variable Name="ReSound Assist" Comment="danalogic, SpecSavers, Jabra, Amplifon, Hearing Australia" EvaluatedDefinition="Online Services">Online Services</Variable>
+  <Variable Name="Smart3DApp" Comment="Specsavers and other KA 3D, danalogic" EvaluatedDefinition="BeMore">BeMore</Variable>
+  <Variable Name="TSG_short" Comment="KA" EvaluatedDefinition="TM">TM</Variable>
+  <Variable Name="ReSound Assist" Comment="Audigy" EvaluatedDefinition="Audigy Assist">Audigy Assist</Variable>
+  <Variable Name="Smart3DApp" Comment="COSTCO Kirkland Signature app 3D" EvaluatedDefinition="Kirkland Signature Discover">Kirkland Signature Discover</Variable>
+  <Variable Name="ReSound Assist" Comment="Lively" EvaluatedDefinition="Lively Assist">Lively Assist</Variable>
+  <Variable Name="Smart3DApp" Comment="Lively 3D" EvaluatedDefinition="My Lively">My Lively</Variable>
+  <Variable Name="Smart3DApp" Comment="Amplifon 3D" EvaluatedDefinition="Amplifon">Amplifon</Variable>
+  <Variable Name="ReSound Assist Live" Comment="" EvaluatedDefinition="[Assist Live]">[Assist Live]</Variable>
+  <Variable Name="ReSound Assist Live" Comment="ReSound" EvaluatedDefinition="ReSound Assist Live">ReSound Assist Live</Variable>
+  <Variable Name="ReSound Assist Live" Comment="Beltone" EvaluatedDefinition="Beltone Remote Care Live">Beltone Remote Care Live</Variable>
+  <Variable Name="ReSound Assist Live" Comment="Generic" EvaluatedDefinition="Live Assist">Live Assist</Variable>
+  <Variable Name="Smart3DApp" Comment="Jabra (GN Audio A/S) 3D, Costco RS" EvaluatedDefinition="Jabra Enhance Pro">Jabra Enhance Pro</Variable>
+  <Variable Name="All-Around" Comment="Omni-directionality function" EvaluatedDefinition="All-Around">All-Around</Variable>
+  <Variable Name="Ultra-Focus" Comment="Hassium - Focused directionality" EvaluatedDefinition="[Ultra Focus]">[Ultra Focus]</Variable>
+  <Variable Name="Ultra-Focus" Comment="Hassium 2-(&amp;3 RIE) - ReSound - Focused directionality - use in general. Ultra feature only available for M&amp;RIE PP7?" EvaluatedDefinition="Front Focus/Ultra Focus">Front Focus/Ultra Focus</Variable>
+  <Variable Name="ControlApp" Comment="Apps" EvaluatedDefinition="[Control App Name]">[Control App Name]</Variable>
+  <Variable Name="ControlApp" Comment="ReSound" EvaluatedDefinition="ReSound Control">ReSound Control</Variable>
+  <Variable Name="ControlApp" Comment="Beltone" EvaluatedDefinition="Beltone SmartRemote">Beltone SmartRemote</Variable>
+  <Variable Name="ControlApp" Comment="Interton" EvaluatedDefinition="Interton EasyHearing">Interton EasyHearing</Variable>
+  <Variable Name="ControlApp" Comment="Kirkland Signature" EvaluatedDefinition="Kirkland Signature Navigator">Kirkland Signature Navigator</Variable>
+  <Variable Name="Smart3DApp" Comment="ReSound smart" EvaluatedDefinition="ReSound Smart™">ReSound Smart™</Variable>
+  <Variable Name="Smart3DApp" Comment="Beltone smart" EvaluatedDefinition="Beltone HearPlus™">Beltone HearPlus™</Variable>
+  <Variable Name="Smart3DApp" Comment="Tuner smart" EvaluatedDefinition="Tuner">Tuner</Variable>
+  <Variable Name="Smart3DApp" Comment="KS smart" EvaluatedDefinition="Kirkland Signature Choice">Kirkland Signature Choice</Variable>
+  <Variable Name="Smart3DApp" Comment="For use when no specific name can be stated. Cannot be translated here, but will work for most." EvaluatedDefinition="Smartphone">Smartphone</Variable>
+  <Variable Name="Ultra-Focus" Comment="Hassium - Focused directionality - PP9. Use only for PP9-only (key acount) UGs!" EvaluatedDefinition="Front Focus">Front Focus</Variable>
+  <Variable Name="Ultra-Focus" Comment="Hassium 2-(&amp;3 RIE) - Beltone - Focused directionality - use in general. Ultra feature only available for M&amp;RIE PP7?" EvaluatedDefinition="Ultra Focus 2/Ultra Focus">Ultra Focus 2/Ultra Focus</Variable>
+  <Variable Name="ReSound Assist" Comment="ReSound" EvaluatedDefinition="ReSound Assist">ReSound Assist</Variable>
+  <Variable Name="ReSound Assist" Comment="Generic" EvaluatedDefinition="Assist">Assist</Variable>
+  <Variable Name="Tinnitus Manager_long" Comment="" EvaluatedDefinition="[Tinnitus management app]">[Tinnitus management app]</Variable>
+  <Variable Name="Tinnitus Manager_long" Comment="all brands" EvaluatedDefinition="Tinnitus Manager">Tinnitus Manager</Variable>
+  <Variable Name="Smart3DApp" Comment="App for Jabre Enhance Select OTC sold by Jabra Enhance (formerly Lively)" EvaluatedDefinition="Jabra Enhance Select">Jabra Enhance Select</Variable>
+  <Variable Name="Smart3DApp" Comment="based on BeMore 3D" EvaluatedDefinition="Hearing Australia">Hearing Australia</Variable>
+  <Variable Name="ReSound Smart Fit" Comment="fitting software" EvaluatedDefinition="[Smart Fit]">[Smart Fit]</Variable>
+  <Variable Name="ReSound Smart Fit" Comment="ReSound" EvaluatedDefinition="ReSound Smart Fit">ReSound Smart Fit</Variable>
+  <Variable Name="ReSound Smart Fit" Comment="Beltone" EvaluatedDefinition="Beltone Solus Max">Beltone Solus Max</Variable>
+  <Variable Name="ReSound Smart Fit" Comment="Interton" EvaluatedDefinition="Interton Fitting">Interton Fitting</Variable>
+  <Variable Name="ReSound Smart Fit" Comment="Danalogic" EvaluatedDefinition="Danalogic">Danalogic</Variable>
+  <Variable Name="ReSound Smart Fit" Comment="Amplifon" EvaluatedDefinition="Amplifon Smart Fit">Amplifon Smart Fit</Variable>
+  <Variable Name="ReSound Smart Fit" Comment="Audigy" EvaluatedDefinition="Audigy 3">Audigy 3</Variable>
+  <Variable Name="ReSound Smart Fit" Comment="BeMore" EvaluatedDefinition="XE BeMore">XE BeMore</Variable>
+  <Variable Name="ReSound Smart Fit" Comment="Costco" EvaluatedDefinition="CS Smart Fit">CS Smart Fit</Variable>
+  <Variable Name="ReSound Smart Fit" Comment="Ltd" EvaluatedDefinition="Smart Fit Ltd">Smart Fit Ltd</Variable>
+  <Variable Name="Nature Sound" Comment="" EvaluatedDefinition="[Nature Sound function]">[Nature Sound function]</Variable>
+  <Variable Name="Nature Sound" Comment="all brands" EvaluatedDefinition="Nature Sound">Nature Sound</Variable>
+  <Variable Name="GN Online Services" Comment="FSW feature for the HCP" EvaluatedDefinition="[Online Services]">[Online Services]</Variable>
+  <Variable Name="GN Online Services" Comment="ReSound, Beltone, BeMore, Danalogic, Ltd, Costco, Hearing Australia, Audigy" EvaluatedDefinition="GN Online Services">GN Online Services</Variable>
+  <Variable Name="GN Online Services" Comment="Amplifon" EvaluatedDefinition="Online Services">Online Services</Variable>
+  <Variable Name="GN ReSound representative" Comment="Reference to brand representative, FSW UG" EvaluatedDefinition="[ReSound representative]">[ReSound representative]</Variable>
+  <Variable Name="GN ReSound representative" Comment="ReSound, Ltd, Costco" EvaluatedDefinition="GN ReSound representative">GN ReSound representative</Variable>
+  <Variable Name="GN ReSound representative" Comment="Beltone" EvaluatedDefinition="Beltone representative">Beltone representative</Variable>
+  <Variable Name="GN ReSound representative" Comment="danalogic, Audigy, BeMore, Hearing Australia" EvaluatedDefinition="GN Hearing representative">GN Hearing representative</Variable>
+  <Variable Name="Smart3DApp" Comment="Ltd" EvaluatedDefinition="Smart 3D app">Smart 3D app</Variable>
+  <Variable Name="GN ReSound representative" Comment="Amplifon, Interton" EvaluatedDefinition="customer support">customer support</Variable>
+  <Variable Name="Digital feedback suppression" Comment="FSW feature" EvaluatedDefinition="[Digital Feedback Suppression]">[Digital Feedback Suppression]</Variable>
+  <Variable Name="Digital feedback suppression" Comment="ReSound, BeMore, Danalogic, Ltd, Costco, Amplifon, Hearing Australia, Audigy, Specsavers" EvaluatedDefinition="Digital Feedback Suppression">Digital Feedback Suppression</Variable>
+  <Variable Name="Digital feedback suppression" Comment="Beltone" EvaluatedDefinition="Feedback Eraser">Feedback Eraser</Variable>
+  <Variable Name="Digital feedback suppression" Comment="Interton" EvaluatedDefinition="Feedback Manager">Feedback Manager</Variable>
+  <Variable Name="ReSound Assist Live" Comment="Amplifon" EvaluatedDefinition="Amplifon One Programmer">Amplifon One Programmer</Variable>
+  <Variable Name="ReSound Smart Fit" Comment="Hearing Australia" EvaluatedDefinition="HA Fitware">HA Fitware</Variable>
+  <Variable Name="ReSound Assist Live" Comment="Audigy" EvaluatedDefinition="Audigy Assist Live">Audigy Assist Live</Variable>
+  <Variable Name="Smart3DApp" Comment="Audigy" EvaluatedDefinition="Audigy Attune">Audigy Attune</Variable>
+  <Variable Name="ReSound Smart Fit" Comment="Specsavers" EvaluatedDefinition="Advance Pro">Advance Pro</Variable>
+  <Variable Name="ReSound Assist Live" Comment="Interton" EvaluatedDefinition="Interton Remote Fitting Live">Interton Remote Fitting Live</Variable>
+</CatapultVariableSet>

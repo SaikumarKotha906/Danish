@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p class="AddressTitle"><MadCap:variable name="Basic_variables.CompanyNameLong for BackPages and CE mark" />
+        </p>
+        <p class="AddressTitle"><MadCap:variable name="Basic_variables.CompanyNameLong for BackPages and CE mark" />
+        </p>
+        <p class="AddressLine"><MadCap:variable name="Addresses.Road" />
+        </p>
+        <p class="AddressLine"><MadCap:variable name="Addresses.Town" />
+        </p>
+        <p class="AddressLine">
+            <MadCap:snippetText src="../../../Addresses/Denmark.flsnp" />
+        </p>
+        <p class="AddressLine">&#160;</p>
+        <p class="AddressLine">
+            <MadCap:snippetText src="../../../Addresses/CVR_No.flsnp" />
+        </p>
+    </body>
+</html>

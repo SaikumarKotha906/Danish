@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.Jabra" class="cover_icon_costco">
+            <img src="../../Global/Images/CoverIcons/Jabra Enhance yellow.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.COSTCO RS" class="cover_icon_costco">
+            <img src="../../Global/Images/CoverIcons/Jabra Costco mint.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.App" class="cover_icon">
+            <img src="../../Global/Images/CoverIcons/App.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.BTE power" class="cover_icon">
+            <img src="../../Global/Images/CoverIcons/BTE power.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.BTE thin tube" class="cover_icon">
+            <img src="../../Global/Images/CoverIcons/BTE thin tube.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.CIC" class="cover_icon">
+            <img src="../../Global/Images/CoverIcons/CIC.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.ITC" class="cover_icon">
+            <img src="../../Global/Images/CoverIcons/ITC.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.RIE battery" class="cover_icon">
+            <img src="../../Global/Images/CoverIcons/RIE battery.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.RIE rechargeable" class="cover_icon">
+            <img src="../../Global/Images/CoverIcons/RIE.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.Chargers" class="cover_icon">
+            <img src="../../Global/Images/CoverIcons/Chargers.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.FittingSoftware" class="cover_icon">
+            <img src="../../Global/Images/CoverIcons/FittingSoftware.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.MultiMic" class="cover_icon">
+            <img src="../../Global/Images/CoverIcons/MultiMic.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.TV Streamer" class="cover_icon">
+            <img src="../../Global/Images/CoverIcons/TV Streamer.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.RemoteControl" class="cover_icon">
+            <img src="../../Global/Images/CoverIcons/Remote Control.eps" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.Amplifon-OneCoverIcon" class="cover_icon">
+            <MadCap:snippetText src="CoverIconsAmplifon.flsnp" />
+        </p>
+        <p MadCap:conditions="CoverIcons._All-CoverIcon,CoverIcons.Amplifon-TwoCoverIcons" class="cover_icon_two_icon">
+            <MadCap:snippetText src="CoverIconsAmplifon.flsnp" />
+        </p>
+    </body>
+</html>

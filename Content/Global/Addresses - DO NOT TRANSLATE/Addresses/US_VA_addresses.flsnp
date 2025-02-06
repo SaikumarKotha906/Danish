@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+
+<head>
+</head>
+
+<body>
+  <p class="AddressTitle" MadCap:conditions="US_VA Backpage address.Title"><MadCap:variable name="US_VA Addresses.Title" /></p>
+  <p class="AddressLine" MadCap:conditions="US_VA Backpage address.Road"><MadCap:variable name="US_VA Addresses.Road" /></p>
+  <p class="AddressLine" MadCap:conditions="US_VA Backpage address.Town"><MadCap:variable name="US_VA Addresses.Town" /></p>
+  <p class="AddressLine" MadCap:conditions="US_VA Backpage address.Country"><MadCap:variable name="US_VA Addresses.Country" /></p>
+  <p class="AddressLine" MadCap:conditions="US_VA Backpage address.US Telephone"><MadCap:variable name="US_VA Addresses.Telephone" /></p>
+  <p class="AddressLine" MadCap:conditions="US_VA Backpage address.e-mail"><MadCap:variable name="US_VA Addresses.e-mail" /></p>
+  <p class="AddressLine" MadCap:conditions="US_VA Backpage address.URL"><MadCap:variable name="US_VA Addresses.URL" /></p>
+</body>
+
+</html>

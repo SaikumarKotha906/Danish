@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="App"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Remote control"
+    Comment=""
+    OriginalName="Remote control basic" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Remote control 2"
+    Comment=""
+    OriginalName="Remote control advanced" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Micro Mic"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Multi Mic"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Phone clip"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="TV Streamer"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="_All-WirelessAccessories"
+    Comment=""
+    OriginalName="_All-WirelessAccessories" />
+</CatapultConditionTagSet>

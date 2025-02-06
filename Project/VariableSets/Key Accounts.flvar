@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Comment="" Name="Key Account" EvaluatedDefinition="[Key Account]">[Key Account]</Variable>
+  <Variable Name="Key Account" Comment="" EvaluatedDefinition="Specsavers">Specsavers</Variable>
+  <Variable Name="Key Account" Comment="" EvaluatedDefinition="Amplifon">Amplifon</Variable>
+</CatapultVariableSet>

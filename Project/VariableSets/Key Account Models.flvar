@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Name="KAM861" Comment="" EvaluatedDefinition="861">861</Variable>
+  <Variable Name="KAM661" Comment="" EvaluatedDefinition="661">661</Variable>
+  <Variable Name="KAM561" Comment="" EvaluatedDefinition="561">561</Variable>
+</CatapultVariableSet>

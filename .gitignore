@@ -1,0 +1,8 @@
+# Ignore Flare temporary files and outputs
+*.flprj.cache
+*.flprj.suo
+*.log
+*.bak
+Output/
+Reports/
+Analysis/

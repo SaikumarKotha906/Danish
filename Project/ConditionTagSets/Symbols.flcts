@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment="ISO_DIS_15223-1_2020 - 5.4.4 hazardous situation which, if not avoided, could result in minor or moderate injury"
+    Name="Caution"
+    BackgroundColor="#C8C8C8"
+    OriginalName="Caution" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="RF transmitter"
+    Comment="Radio frequency transmitter"
+    OriginalName="RF transmitter" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="IFU"
+    Comment="Instructions for use (ISO 9001)"
+    OriginalName="IFU" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Warning"
+    Comment="Hazardous situation which, if not avoided, could result in death or serious injury"
+    OriginalName="Warning" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="RxOnly"
+    Comment="US prescription"
+    OriginalName="RxOnly" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Manufacturer"
+    Comment="ISO_DIS_15223-1_2020 - 5.1.1 medical device manufacturer"
+    OriginalName="Manufacturer" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="ACMA"
+    Comment="Australia and New Zealand"
+    OriginalName="ACMA" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="IMDA singapore"
+    Comment="Singapore"
+    OriginalName="IMDA singapore" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="UDI"
+    Comment="ISO_DIS_15223-1_2020 - 5.7.10 carrier that contains Unique Device Identifier information"
+    OriginalName="UDI" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="WEEE"
+    Comment="The product must be sent to separate collection facilities for recovery and recycling"
+    OriginalName="WEEE" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Medical device"
+    Comment="ISO_DIS_15223-1_2020 - 5.7.7 Indicates the item is a medical device"
+    OriginalName="Medical device" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Date of manufacture"
+    Comment="ISO_DIS_15223-1_2020 - 5.1.3 date the medical device was manufactured"
+    OriginalName="Date of manufacture" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Type B"
+    Comment="Type B applied part complying with IEC 60601"
+    OriginalName="Type B" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Temperature limits"
+    Comment="ISO_DIS_15223-1_2020 - 5.3.7 temperature limits to which the medical device can be safely exposed"
+    OriginalName="Temperature limits" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="eIFU"
+    Comment="ISO_DIS_15223-1_2020 - 5.4.3 need for the user to consult the [electronic] instructions for use"
+    OriginalName="eIFU" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="CE"
+    Comment="EU"
+    OriginalName="CE" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="TELEC Japan"
+    Comment="Japan"
+    OriginalName="TELEC Japan" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="NCC Taiwan"
+    Comment="Taiwan"
+    OriginalName="NCC Taiwan" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="MCMC Malaysia"
+    Comment="Malaysia"
+    OriginalName="MCMC Malaysia" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="IC Korea"
+    Comment="Korea"
+    OriginalName="IC Korea" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="CH-REP"
+    Comment="ISO_DIS_15223-1_2020 - 5.1.2 authorized representative in Switzerland"
+    OriginalName="CH-REP" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="_All-Symbols"
+    Comment=""
+    OriginalName="_All-Symbols" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="BIS India"
+    Comment="India"
+    OriginalName="BIS India" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Serial number"
+    Comment="ISO_DIS_15223-1_2020 - 5.1.7 Indicates the&#xD;&#xA;manufacturer’s&#xD;&#xA;serial number so&#xD;&#xA;that a specific&#xD;&#xA;medical device&#xD;&#xA;can be identified."
+    OriginalName="Serial number" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Catalog number"
+    Comment="ISO_DIS_15223-1_2020 - 5.1.6 Indicates the&#xD;&#xA;manufacturer’s&#xD;&#xA;catalogue&#xD;&#xA;number so that&#xD;&#xA;the medical&#xD;&#xA;device can be&#xD;&#xA;identified."
+    OriginalName="Catalog number" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Anatel"
+    Comment="Brazi. Product specific codes"
+    OriginalName="Anatel" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Country of manufacture"
+    Comment="EN ISO 15223-1:2020, symbol 5.1.11"
+    OriginalName="Country of manufacture" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="FCC ID"
+    Comment=""
+    OriginalName="FCC" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="FCC symbol"
+    Comment=""
+    OriginalName="FCC symbol" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="China CMIIT ID"
+    Comment="CMIIT: Product specific codes"
+    OriginalName="China CMIIT ID" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Mexico IFETEL certification"
+    Comment=""
+    OriginalName="Mexico IFETEL certification" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="Batch code"
+    Comment="ISO_DIS_15223-1_2020 - 5.1.5 Indicates the&#xD;&#xA;manufacturer’s&#xD;&#xA;batch code so&#xD;&#xA;that the batch or&#xD;&#xA;lot can be&#xD;&#xA;identified."
+    OriginalName="LOT" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="UKCA"
+    Comment="UK Certificate marking"
+    OriginalName="UKCA" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="CE0297"
+    Comment="For Legal manufacturer"
+    OriginalName="CE0297" />
+</CatapultConditionTagSet>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="GlobalImport.Import">
+  <Variable Name="Open Smart Fit" Comment="TC_DONT_TRANSLATE._anything, FSW UI text, open a patient's timeline" EvaluatedDefinition="[Open Smart Fit]">[Open Smart Fit]</Variable> <Variable Name="Open Smart Fit" Comment="ReSound, Costco, Ltd; TC_DONT_TRANSLATE: Smart Fit" EvaluatedDefinition="Open Smart Fit">Open Smart Fit</Variable> <Variable Name="Open Smart Fit" Comment="Beltone; TC_DONT_TRANSLATE: Solus Max" EvaluatedDefinition="Open Solus Max">Open Solus Max</Variable> <Variable Name="360 All Around" Comment="TC_DONT_TRANSLATE._anything:, FSW UI text, related to default programs in TSG" EvaluatedDefinition="[360 All Around]">[360 All Around]</Variable>
+  <Variable Name="360 All Around" Comment="ReSound, Amplifon, BeMore, Ltd, Hearing Australia" EvaluatedDefinition="360 All-Around">360 All-Around</Variable>
+  <Variable Name="360 All Around" Comment="Beltone" EvaluatedDefinition="CrossLink Directionality 4">CrossLink Directionality 4</Variable>
+  <Variable Name="," Comment="TC_DONT_TRANSLATE._anything:, FSW UI text, related to default programs in TSG" EvaluatedDefinition="[SoftSwitching]">[SoftSwitching]</Variable>
+  <Variable Name="," Comment="ReSound, Danalogic, Audigy, BeMore, Ltd, Hearing Australia" EvaluatedDefinition="Soft Switching">Soft Switching</Variable>
+  <Variable Name="," Comment="Beltone" EvaluatedDefinition="Speech Spotter Pro">Speech Spotter Pro</Variable>
+  <Variable Name="Open Smart Fit" Comment="Danalogic; TC_DONT_TRANSLATE: Danalogic" EvaluatedDefinition="Open Danalogic">Open Danalogic</Variable> <Variable Name="Open Smart Fit" Comment="Audigy; TC_DONT_TRANSLATE: Audigy" EvaluatedDefinition="Open Audigy">Open Audigy</Variable> <Variable Name="Open Smart Fit" Comment="BeMore; TC_DONT_TRANSLATE: XE BeMore" EvaluatedDefinition="Open XE BeMore">Open XE BeMore</Variable> <Variable Name="Open Smart Fit" Comment="Hearing Australia; TC_DONT_TRANSLATE: HA Fitware" EvaluatedDefinition="Open HA Fitware">Open HA Fitware</Variable>
+  <Variable Name="360 All Around" Comment="Interton" EvaluatedDefinition="All Access Directionality II">All Access Directionality II</Variable>
+  <Variable Name="360 All Around" Comment="Danalogic, Audigy" EvaluatedDefinition="All Access Directionality">All Access Directionality</Variable>
+  <Variable Name="," Comment="Interton" EvaluatedDefinition="Auto-steered Directionality">Auto-steered Directionality</Variable>
+  <Variable Name="REUG_UnaidedGain" Comment="TC_DONT_TRANSLATE._anything:, FSW, lower value for unaided gain" EvaluatedDefinition="[REUG_UnaidedGain]">[REUG_UnaidedGain]</Variable>
+  <Variable Name="REUG_UnaidedGain" Comment="ALL brands, except Beltone" EvaluatedDefinition="65">65</Variable>
+  <Variable Name="REUG_UnaidedGain" Comment="Beltone" EvaluatedDefinition="70">70</Variable>
+  <Variable Name="REUG_InsertionGain" Comment="TC_DONT_TRANSLATE._anything:, FSW, loud input level for insertion gain" EvaluatedDefinition="[REUG_InsertionGain]">[REUG_InsertionGain]</Variable>
+  <Variable Name="REUG_InsertionGain" Comment="ALL brands, except Beltone" EvaluatedDefinition="80">80</Variable>
+  <Variable Name="REUG_InsertionGain" Comment="Beltone" EvaluatedDefinition="90">90</Variable>
+  <Variable Name="Live remote assistance" Comment="TC_DONT_TRANSLATE._anything, FSW UG, needs to be mention feature name for some brands." EvaluatedDefinition="[Live remote assistance]">[Live remote assistance]</Variable>
+  <Variable Name="Live remote assistance" Comment="All brands, except Amplifon" EvaluatedDefinition="Live remote assistance">Live remote assistance</Variable>
+  <Variable Name="Live remote assistance" Comment="Amplifon; TC_DONT_TRANSLATE: Amplifon One Programmer" EvaluatedDefinition="Live remote assistance (Amplifon One Programmer)">Live remote assistance (Amplifon One Programmer)</Variable> <Variable Name="Open Smart Fit" Comment="Specsavers;  TC_DONT_TRANSLATE: Advance Pro" EvaluatedDefinition="Open Advance Pro">Open Advance Pro</Variable>
+  <Variable Name="Comfort" Comment="" EvaluatedDefinition="Comfort">Komfort</Variable>
+  <Variable Name="Open Smart Fit" Comment="Interton; TC_DONT_TRANSLATE: Interton Fitting" EvaluatedDefinition="Open Interton Fitting">Open Interton Fitting</Variable>
+  <Variable Name="SoftSwitching" Comment="FSW UI text, related to default programs in TSG" EvaluatedDefinition="[SoftSwitching]">[SoftSwitching]</Variable>
+  <Variable Name="SoftSwitching" Comment="ReSound, Danalogic, Audigy, BeMore, Ltd, Hearing Australia" EvaluatedDefinition="SoftSwitching">SoftSwitching</Variable>
+  <Variable Name="SoftSwitching" Comment="Beltone" EvaluatedDefinition="Speech Spotter Pro">Speech Spotter Pro</Variable>
+  <Variable Name="SoftSwitching" Comment="Interton" EvaluatedDefinition="Auto-steered Directionality">Auto-steered Directionality</Variable>
+  <Variable Name="VentAccOFF_AidedGain" Comment="TC_DONT_TRANSLATE._anything:, FSW, vent accomodation OFF" EvaluatedDefinition="[Vent Accomodation OFF]">[Vent Accomodation OFF]</Variable>
+  <Variable Name="VentAccOFF_AidedGain" Comment="All except Specsavers" EvaluatedDefinition="OFF=will match the entire frequency spectrum within 5 dB of target">OFF = vil matche hele frekvensspektret inden for 5 dB fra målet</Variable>
+  <Variable Name="VentAccON_AidedGain" Comment="TC_DONT_TRANSLATE._anything:, FSW, vent accomodation ON" EvaluatedDefinition="[Vent Accomodation ON]">[Vent Accomodation ON]</Variable>
+  <Variable Name="VentAccON_AidedGain" Comment="ReSound,Beltone,Audigy,Interton,Costco,Amplifon,Ltd,BeMore,Hearing Australia" EvaluatedDefinition="ON=750 Hz allows –15 dB roll off; 1 kHz allows –10 dB roll off">ON = 750 Hz tillader -15 dB gradvist reduceret; 1 kHz tillader -10 dB gradvist reduceret</Variable>
+  <Variable Name="VentAccON_AidedGain" Comment="danalogic GN, Specsavers" EvaluatedDefinition="ON=will allow for vent leakage and will not seek to match frequencies below 1.5 kHz to target">ON = tillader en udluftningslækage og vil ikke prøve at matche frekvenser under 1,5 kHz i forhold til målet</Variable>
+</CatapultVariableSet>

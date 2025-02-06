@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+    <head>
+    </head>
+    <body>
+        <p class="AddressLine" MadCap:conditions="Backpage address setup.WorldWideHQ" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <MadCap:snippetText src="../../../Addresses/Worldwide Headquarters.flsnp" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="Generic.MDR" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"><span class="bold"><MadCap:variable name="Basic_variables.CompanyNameLong for BackPages and CE mark" /></span>
+        </p>
+        <p class="AddressLine" MadCap:conditions="Generic.MDD" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"><span class="bold"><MadCap:variable name="Basic_variables.CompanyNameLong for BackPages and CE mark" /></span>
+        </p>
+        <p class="AddressLine"><MadCap:variable name="Addresses.Road" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </p>
+        <p class="AddressLine">
+            <MadCap:snippetText src="../../../Addresses/Town.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </p>
+        <p class="AddressLine">
+            <MadCap:snippetText src="../../../Addresses/Denmark.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="Backpage address setup.DK Telephone" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <MadCap:snippetText src="../../../Addresses/Telephone.flsnp" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="Backpage address setup.URL" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"><MadCap:variable name="Basic_variables.URL_main" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="Backpage address setup.DK&#160;CVR" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <MadCap:snippetText src="../../../Addresses/CVR_No.flsnp" />
+        </p>
+    </body>
+</html>

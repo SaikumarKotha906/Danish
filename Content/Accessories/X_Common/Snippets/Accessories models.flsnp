@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:conditionalText MadCap:conditions="Product Type.TV Streamer 2">SAS-3</MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="Product Type.TV Streamer">SAS-4</MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="Product Type.Multi-Mic">SM-3P</MadCap:conditionalText>
+    </body>
+</html>

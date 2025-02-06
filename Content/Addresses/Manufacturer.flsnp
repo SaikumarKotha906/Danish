@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="AddressLanguages._All-AddressLanguages,AddressLanguages.NotInUSCustom">
+    <head>
+    </head>
+    <body>
+        <p class="AddressLineManufacturer"><MadCap:conditionalText MadCap:conditions="Generic.MDD">Fabrikant i overensstemmelse med EU’s direktiv om medicinsk udstyr 93/42/EØF:</MadCap:conditionalText>
+        </p>
+        <p class="AddressLineManufacturer"><MadCap:conditionalText MadCap:conditions="Generic.MDR">Fabrikant i overensstemmelse med EU’s forordning om medicinsk udstyr 2017/745:</MadCap:conditionalText>&#160;</p>
+    </body>
+</html>

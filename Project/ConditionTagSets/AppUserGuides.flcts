@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment=""
+    Name="Smart"
+    BackgroundColor="Blue" />
+  <ConditionTag
+    Comment=""
+    Name="Smart 3D"
+    BackgroundColor="Red"
+    OriginalName="Smart 3D" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Connectivity"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Control"
+    Comment="" />
+</CatapultConditionTagSet>

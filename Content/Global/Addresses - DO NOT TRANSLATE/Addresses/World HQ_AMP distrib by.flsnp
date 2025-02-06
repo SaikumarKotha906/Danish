@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p class="AddressTitle">Amplifon S.p.A.</p>
+        <p class="AddressLine">Via Ripamonti 133</p>
+        <p class="AddressLine">IT-20141 Milan</p>
+        <p class="AddressLine">
+            <MadCap:snippetText src="../../../Addresses/Italy.flsnp" />
+        </p>
+    </body>
+</html>

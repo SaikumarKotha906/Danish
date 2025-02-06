@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Comment="" Name="ReferenceNumbers" EvaluatedDefinition="[ReferenceNumber]">[ReferenceNumber]</Variable>
+  <Variable Name="ReferenceNumbers" Comment="" EvaluatedDefinition="SSGNRUGRR64V11123">SSGNRUGRR64V11123</Variable>
+  <Variable Name="ReferenceNumbers" Comment="" EvaluatedDefinition="SSGNRUGRB64V11123">SSGNRUGRB64V11123</Variable>
+  <Variable Name="ReferenceNumbers" Comment="" EvaluatedDefinition="SSGNRUGPBR64V11123">SSGNRUGPBR64V11123</Variable>
+  <Variable Name="ReferenceNumbers" Comment="" EvaluatedDefinition="SSGNRUGCIC64V11123">SSGNRUGCIC64V11123</Variable>
+  <Variable Name="ReferenceNumbers" Comment="" EvaluatedDefinition="SSGNRUGITR64V11123">SSGNRUGITR64V11123</Variable>
+  <Variable Name="ReferenceNumbers" Comment="" EvaluatedDefinition="SSGNRUGITB64V11123">SSGNRUGITB64V11123</Variable>
+  <Variable Name="ReferenceNumbers" Comment="" EvaluatedDefinition="SSGNRUGBB32V11123">SSGNRUGBB32V11123</Variable>
+  <Variable Name="ReferenceNumbers" Comment="" EvaluatedDefinition="SSGNRUGPBR32V11123">SSGNRUGPBR32V11123</Variable>
+  <Variable Name="ReferenceNumbers" Comment="" EvaluatedDefinition="SSGNRUGRB32V11123">SSGNRUGRB32V11123</Variable>
+  <Variable Name="ReferenceNumbers" Comment="" EvaluatedDefinition="SSGNRUGRR32V11123">SSGNRUGRR32V11123</Variable>
+  <Variable Name="ReferenceNumbers" Comment="" EvaluatedDefinition="SSGNRUGITB32V11123">SSGNRUGITB32V11123</Variable>
+  <Variable Name="ReferenceNumbers" Comment="" EvaluatedDefinition="SSGNRUGCIB32V11123">SSGNRUGCIB32V11123</Variable>
+  <Variable Name="ReferenceNumbers" Comment="" EvaluatedDefinition="SSGNRUGBB64V11123">SSGNRUGBB64V11123</Variable>
+  <Variable Name="ReferenceNumbers" Comment="Walton" EvaluatedDefinition="SSGNRUGCITC64V10224">SSGNRUGCITC64V10224</Variable>
+  <Variable Name="ReferenceNumbers" Comment="Walton" EvaluatedDefinition="SSGNRUGRRM64V104">SSGNRUGRRM64V104</Variable>
+  <Variable Name="ReferenceNumbers" Comment="Walton" EvaluatedDefinition="SSGNRUGBRCV10424">SSGNRUGBRCV10424</Variable>
+  <Variable Name="ReferenceNumbers" Comment="Walton" EvaluatedDefinition="SSGNRUGBPRCV10424">SSGNRUGBPRCV10424</Variable>
+</CatapultVariableSet>

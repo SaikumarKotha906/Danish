@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Comment="When GH Hearing A/S is used in a branded manual" Name="GN Hearing A/S" EvaluatedDefinition="GN Hearing A/S">GN Hearing A/S</Variable>
+</CatapultVariableSet>

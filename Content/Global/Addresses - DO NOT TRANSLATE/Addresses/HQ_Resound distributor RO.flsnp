@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p class="AddressTitle"><MadCap:snippetText src="../../../Addresses/Distributed by.flsnp" /></p>
+        <p class="AddressLine">Audionova</p>
+        <p class="AddressLine">Str. Ardeleni nr. 7, sector 2, CP</p>
+        <p class="AddressLine">020671</p>
+        <p class="AddressLine">Bucuresti. Romania</p>
+        <p class="AddressLine">Tel: 021 211 11 10</p>
+        <p class="AddressLine">audionova.ro</p>
+        <p class="AddressLine">office@audionova.ro</p>
+    </body>
+</html>

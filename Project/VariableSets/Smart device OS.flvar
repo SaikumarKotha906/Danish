@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="TC_DONT_TRANSLATE._anything">
+  <Variable
+    Comment="Android version"
+    Name="Android"
+    EvaluatedDefinition="[A-OS]">[A-OS]</Variable>
+  <Variable
+    Comment="iOS version"
+    Name="iOS"
+    EvaluatedDefinition="[iOS]">[iOS]</Variable>
+</CatapultVariableSet>

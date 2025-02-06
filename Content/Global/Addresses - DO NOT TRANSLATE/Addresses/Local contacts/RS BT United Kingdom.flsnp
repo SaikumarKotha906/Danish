@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p class="AddressTitle">United Kingdom</p>
+        <p class="AddressLine">GN Hearing UK Ltd</p>
+        <p class="AddressLine">Unit 13 Talisman Business Centre</p>
+        <p class="AddressLine">Bicester&#160;&#160;&#160;OX26 6HR</p>
+        <p class="AddressLine">United Kingdom</p>
+        <p class="AddressLine">Tel.: +44 1869 352 800</p>
+        <p class="AddressLine"><MadCap:variable name="Basic_variables.URL_main" />
+            <br />
+        </p>
+    </body>
+</html>

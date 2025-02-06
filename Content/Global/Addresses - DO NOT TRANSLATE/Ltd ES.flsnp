@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Brands.Ltd">
+    <head>
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../../Addresses/Manufacturer.flsnp" />
+        <div class="forced_column_break">
+            <p class="AddressLine">
+                <MadCap:snippetText src="../../Addresses/Distributed by.flsnp" />
+            </p>
+        </div>
+        <MadCap:snippetBlock src="../../Addresses/ManufacturerIcon.flsnp" />
+        <div class="forced_column_break">
+            <MadCap:snippetBlock src="Addresses/WorldwideHeadquarters.flsnp" />
+        </div>
+        <MadCap:snippetBlock src="Addresses/Local contacts/RS Spain.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+    </body>
+</html>

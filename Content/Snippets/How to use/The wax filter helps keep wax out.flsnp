@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Voksfilteret er medvirkende til at forhindre, at der kommer ørevoks i dit høreapparats <MadCap:conditionalText MadCap:conditions="FormFactors.BTE">komponenter</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="FormFactors.Power BTE">komponenter</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="FormFactors.RIE">komponenter</MadCap:conditionalText>. Du skal udskifte det jævnligt. <MadCap:conditionalText MadCap:conditions="Product Type.All except OTC HAs">Spørg din høreapparatspecialist til råds om, hvor ofte det er nødvendigt at udskifte det. </MadCap:conditionalText>Det afhænger af, hvor meget ørevoks dit øre producerer.</p>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Før du kan begynde at bruge enheden til at streame lyd til dine høreapparater, skal den være sluttet til et strømudtag, sluttet til tv'et og parret med dine høreapparater.</p>
+        
+        <p><MadCap:snippetText src="../../X_Common/Snippets/Only connect the device.flsnp" /></p>
+        <p class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;">Det anbefales at sætte enheden på tv'ets bagside, efter at alle kabler er blevet tilsluttet, og enheden er blevet parret med dine høreapparater</p>
+    </body>
+</html>

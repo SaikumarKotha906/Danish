@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../Resources/TableStyles/Table_InvisibleTightSymbols.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="mc-table-style: url('../../../Resources/TableStyles/Table_InvisibleTightSymbols.css');margin-left: 0;margin-right: auto;" class="TableStyle-Table_InvisibleTightSymbols" cellspacing="0" MadCap:conditions="Product Type.TV Streamer">
+            <col class="TableStyle-Table_InvisibleTightSymbols-Column-Column1" />
+            <col class="TableStyle-Table_InvisibleTightSymbols-Column-Column2" style="width: 266px;" />
+            <col class="TableStyle-Table_InvisibleTightSymbols-Column-Column1" style="width: 335px;" />
+            <thead>
+                <tr class="TableStyle-Table_InvisibleTightSymbols-Head-Header1">
+                    <th style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-HeadE-Column1-Header1">
+                        <p>LED-mønstre</p>
+                    </th>
+                    <th style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-HeadE-Column2-Header1">
+                        <MadCap:snippetBlock src="../../X_Common/Snippets/Process.flsnp" />
+                    </th>
+                    <th style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-HeadD-Column1-Header1">
+                        <MadCap:snippetBlock src="../../X_Common/Snippets/Description.flsnp" />
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Table_InvisibleTightSymbols-Body-Body1">
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column1-Body1">
+                        <img src="../../../Global/Images/Accessories/Ap9 TV Streamer/TVS LED row 01 - constant ON - GS.eps" />
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column2-Body1">
+                        <p>Streaming</p>
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyD-Column1-Body1">
+                        <p>Lyser konstant</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_InvisibleTightSymbols-Body-Body1">
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column1-Body1">
+                        <img src="../../../Global/Images/Accessories/Ap9 TV Streamer/TVS LED row 02 - empty.eps" />
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column2-Body1">
+                        <p>Standby</p>
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyD-Column1-Body1">
+                        <p>Slukket konstant</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_InvisibleTightSymbols-Body-Body1">
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column1-Body1">
+                        <img src="../../../Global/Images/Accessories/Ap9 TV Streamer/TVS LED row 03 - pairing mode - GS.eps" />
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column2-Body1">
+                        <p>Parringsindstilling</p>
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyD-Column1-Body1">
+                        <p>Blinker</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_InvisibleTightSymbols-Body-Body1">
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column1-Body1">
+                        <img src="../../../Global/Images/Accessories/Ap9 TV Streamer/TVS LED row 04 - 3 seconds - GS.eps" />
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column2-Body1">
+                        <p>Parring udført</p>
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyD-Column1-Body1">
+                        <p>Lyser konstant i 3 sek.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_InvisibleTightSymbols-Body-Body1">
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column1-Body1">
+                        <img src="../../../Global/Images/Accessories/Ap9 TV Streamer/TVS LED row 05 - firmware update - GS.eps" />
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column2-Body1">
+                        <p>Firmwareopdatering</p>
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyD-Column1-Body1">
+                        <p>Blinker hurtigt</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_InvisibleTightSymbols-Body-Body1">
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column1-Body1">
+                        <img src="../../../Global/Images/Accessories/Ap9 TV Streamer/TVS LED row 06 - delay mode - GS.eps" />
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column2-Body1">
+                        <p>Justerbar forsinkelsestilstand</p>
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyD-Column1-Body1">
+                        <p>Blinker langsomt</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_InvisibleTightSymbols-Body-Body1">
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column1-Body1">
+                        <img src="../../../Global/Images/Accessories/Ap9 TV Streamer/TVS LED row 07 - loading error - GS.eps" />
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyE-Column2-Body1">
+                        <p>Softwareproblem (genstart/nulstilling påkrævet)</p>
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyD-Column1-Body1">
+                        <p>3 mellemlange blink gentaget</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_InvisibleTightSymbols-Body-Body1">
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyB-Column1-Body1">
+                        <img src="../../../Global/Images/Accessories/Ap9 TV Streamer/TVS LED row 04 - 3 seconds - GS.eps" />
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyB-Column2-Body1">
+                        <p>Firmwareopdatering afsluttet</p>
+                    </td>
+                    <td style="text-align: left;vertical-align: middle;padding-left: 0px;padding-bottom: 0px;" class="TableStyle-Table_InvisibleTightSymbols-BodyA-Column1-Body1">
+                        <p>Lyser konstant i 3 sek.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Width="115mm" Height="115mm" Padding="20px" PageSize="custom" PageType="left" PaddingLeft="3mm" PaddingRight="3mm" PaddingTop="5mm" PaddingBottom="5mm" Orientation="portrait" BleedLeft="3mm" BleedRight="3mm" BleedTop="3mm" BleedBottom="3mm" Name="Amplifon Back page">
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0.78125in" Y="0px" Right="53px" Bottom="322px" Width="7.540625cm" Height="1.984375cm" FlowIndex="0">
+        </Frame>
+        <Frame X="31px" Y="63px" Width="360px" Height="58px" FlowIndex="1" Flow="body" Right="22px" Bottom="276px" ColumnCount="3" Anchors="" />
+        <Frame X="-4px" Y="105px" Width="31px" Height="94px" FlowIndex="2" Flow="body" Right="386px" Bottom="198px" Anchors="" />
+        <Frame X="31px" Y="105px" Width="360px" Height="86px" FlowIndex="3" Flow="body" Right="22px" Bottom="206px" ColumnCount="3" Anchors="" />
+        <Frame X="31px" Y="182px" Width="286px" Height="15px" FlowIndex="4" Flow="body" Right="96px" Bottom="200px" Anchors="" />
+        <Frame X="31px" Y="197px" Width="360px" Height="99px" FlowIndex="5" Flow="body" Right="22px" Bottom="101px" Anchors="" ColumnCount="3" />
+        <Frame X="31px" Y="254px" Width="360px" Height="93px" FlowIndex="6" Flow="body" Right="22px" Bottom="50px" ColumnCount="3" Anchors="" />
+        <Frame X="8px" Y="348px" Width="361px" Height="84px" FlowIndex="7" Flow="body" Right="44px" Bottom="-35px" Anchors="" />
+        <Frame X="264px" Y="130px" Width="340px" Height="77px" FlowIndex="8" Flow="body" Right="-191px" Bottom="190px" Rotate="-90" Anchors="" />
+        <Frame X="343px" Y="26px" Width="134px" Height="51px" Flow="decoration0" Right="-64px" Bottom="320px" Anchors="" Rotate="-90">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <MadCap:snippetBlock xhtml:src="../../../Global/Addresses - DO NOT TRANSLATE/Misc/BarCodes.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

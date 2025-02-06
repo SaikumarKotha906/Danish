@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileTagSet
+  Type="Status"
+  Comment="My set of author tags">
+  <FileTag
+    Name="0-Ready for translation"
+    Comment="When the Flare project has been prepared for translation, the topics in the content to be translated must be tagged with this status. If not, the files are not translated."
+    OriginalName="0-Prepared for translation" />
+  <FileTag
+    Name="2-In validation"
+    Comment="If the files need to be validated, the Localization Manager must apply this status." />
+  <FileTag
+    Name="1-Translated"
+    Comment="When the files have been translated, this status must be applied." />
+  <FileTag
+    Name="3-Approved"
+    Comment="When the translation has been approved by all stakeholders, apply this status." />
+</CatapultFileTagSet>

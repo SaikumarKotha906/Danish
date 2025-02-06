@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment=""
+    Name="2"
+    BackgroundColor="Blue" />
+  <ConditionTag
+    Comment=""
+    Name="1"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="3"
+    Comment="" />
+</CatapultConditionTagSet>

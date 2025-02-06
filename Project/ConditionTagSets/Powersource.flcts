@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment=""
+    Name="Rechargeable"
+    BackgroundColor="Red"
+    OriginalName="Rechargeable" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Battery"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Mains required"
+    Comment="C2 Standard charger" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Rechargeable charger"
+    Comment="C1 Premium charger" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Desktop charger"
+    Comment="C3 Desktop charger" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="C-4 f_Custom Mains required"
+    Comment="C4 Custom charger"
+    OriginalName="C-4 f_Custom Mains required" />
+</CatapultConditionTagSet>

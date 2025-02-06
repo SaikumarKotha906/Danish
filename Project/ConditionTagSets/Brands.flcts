@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment="Base program."
+    Name="ReSound"
+    BackgroundColor="Red" />
+  <ConditionTag
+    Comment="Base program."
+    Name="Beltone"
+    BackgroundColor="Blue" />
+  <ConditionTag
+    BackgroundColor="#800080"
+    Name="Audigy"
+    Comment="Type 2 KA for HA. BeMore model numbers. Brand for apps." />
+  <ConditionTag
+    BackgroundColor="#ffe103"
+    Name="Interton"
+    Comment="Type 1 KA. Own address and model numbers."
+    OriginalName="Interton" />
+  <ConditionTag
+    BackgroundColor="#b80541"
+    Name="Amplifon"
+    Comment="Type 1 KA. Own address and model numbers."
+    OriginalName="Amplifon" />
+  <ConditionTag
+    BackgroundColor="#ff1493"
+    Name="Non-brand"
+    Comment="Used when the words like &quot;our&quot; or &quot;the manuafacturer&quot; should be displayed in the UG texts." />
+  <ConditionTag
+    BackgroundColor="#7fffd4"
+    Name="Danavox"
+    Comment="Type 2 KA. BeMore model numbers."
+    OriginalName="Danavox" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="SpecSavers"
+    Comment="Type 1 KA. Own address and model numbers." />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Not Key Accounts"
+    Comment="Used as a supplement"
+    OriginalName="Key Accounts" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Brand name"
+    Comment="Used when the brand name should be displayed in the UG texts." />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="COSTCO RS"
+    Comment="ReSound special for COSTCO (RS)"
+    OriginalName="COSTCO RS" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="COSTCO Kirkland"
+    Comment="COSTCO Kirkland edition. Type 1 KA. Own address and model numbers."
+    OriginalName="COSTCO Kirkland" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="BeMore"
+    Comment="Donor for type 2 HA KAs (white label). App brand." />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="Key Account"
+    Comment="Include in KA UGs." />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="Lively"
+    Comment="Jabra KA using BeMore model numbers." />
+  <ConditionTag
+    BackgroundColor="#9acd32"
+    Name="Non-brand addresses"
+    Comment="Used in address snippets when there is no local contact." />
+  <ConditionTag
+    BackgroundColor="#fa8072"
+    Name="Jabra"
+    Comment="Jabra (GN Audio)"
+    OriginalName="Jabra" />
+  <ConditionTag
+    BackgroundColor="#7f7200"
+    Name="Tuner"
+    Comment="App brand." />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="ExcludeBrandName"
+    Comment="Used when Brandname should be excluded"
+    OriginalName="ExcludeBrandName" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="HearingAustralia"
+    Comment="Type 2 KA. BeMore model numbers. Own address" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Jabra Enhance OTC"
+    Comment="OTC UGs."
+    OriginalName="JEH OTC US" />
+  <ConditionTag
+    BackgroundColor="#d8bfd8"
+    Name="Neuroth"
+    Comment="ReSound KA."
+    OriginalName="Neuroth" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Jabra Enhance Pro"
+    Comment="For RS Costco (PHA version in USA)" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="CRAI"
+    Comment="Type 2 KA. BeMore model numbers." />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Danalogic"
+    Comment="Type 1 KA. Own address and model numbers." />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Puretone"
+    Comment="Type 2 KA. BeMore model numbers." />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="Ltd"
+    Comment="FSW KA." />
+  <ConditionTag
+    BackgroundColor="#40e0d0"
+    Name="Multisound"
+    Comment="Type 2 KA. BeMore model numbers." />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="HBM"
+    Comment="Type 2 KA under Beltone. BeMore model numbers." />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="Zenaud"
+    Comment="Type 2 KA. BeMore model numbers. Own address." />
+  <ConditionTag
+    BackgroundColor="#9acd32"
+    Name="Cochlear"
+    Comment="Contractual req - used primarily for Multi-Mic+ / TV Streamer+"
+    OriginalName="Cochlear" />
+</CatapultConditionTagSet>

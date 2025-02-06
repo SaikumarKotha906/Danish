@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p class="AddressTitle">New Zealand</p>
+        <p class="AddressLine">GN Hearing New Zealand Limited</p>
+        <p class="AddressLine">Ground Floor, North Entrance</p>
+        <p class="AddressLine">4 Fred Thomas Drive</p>
+        <p class="AddressLine">Takapuna, Auckland, 0622</p>
+        <p class="AddressLine">Tel.: (free) 0800 900 126</p>
+        <p class="AddressLine"><MadCap:variable name="Basic_variables.URL_main" />
+        </p>
+    </body>
+</html>

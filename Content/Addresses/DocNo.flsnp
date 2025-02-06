@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="GlobalImport.Import">
+    <head>
+    </head>
+    <body>
+        <p class="backpage_text_new_frame"><MadCap:variable name="Basic_variables.DocumentNumber"></MadCap:variable><MadCap:variable name="Basic_variables.Language_ID"></MadCap:variable>- <MadCap:variable name="GNSystem.Releasedate"></MadCap:variable> - <MadCap:variable name="Z_Translated variables.Revision"></MadCap:variable>&#160;<MadCap:variable name="Basic_variables.Revision"></MadCap:variable><MadCap:conditionalText MadCap:conditions="Generic.DateOfIssuance">&#160;&#160;&#160;&#160;(<MadCap:snippetText src="Date of issuance.flsnp" />:&#160;<MadCap:variable name="GNSystem.DateOfIssuance"></MadCap:variable>.01)</MadCap:conditionalText>&#160;&#160;&#160;<MadCap:conditionalText MadCap:conditions="Brands.SpecSavers">•&#160;Ref.: <MadCap:variable name="Specsavers.ReferenceNumbers"></MadCap:variable></MadCap:conditionalText></p>
+    </body>
+</html>

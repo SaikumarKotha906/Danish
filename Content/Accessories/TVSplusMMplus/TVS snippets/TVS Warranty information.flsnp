@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="SubHeader">
+            <MadCap:snippetText src="../../../Snippets/Header snippets/Warranties and repairs.flsnp">
+            </MadCap:snippetText>
+        </p>
+        <p><MadCap:conditionalText MadCap:conditions="Product Type.Multi-Mic">Multi-Mic+</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Product Type.TV Streamer">TV-Streamer+</MadCap:conditionalText> er dækket af en begrænset garanti ydet af producenten i 12 måneder fra købstidspunktet. Bemærk, at der kan gælde udvidede garantier i dit land. Kontakt din høreapparatspecialist for flere oplysninger.</p>
+        <p class="SubHeader">Hvad dækker garantien?</p>
+        <p>Alle elektriske komponenter, der på grund af materiale-, fabrikations- eller designmæssige fejl ikke fungerer ved normal brug i løbet af garantiperioden, vil blive udskiftet eller repareret uden beregning for dele eller arbejdskraft, når produktet returneres til købsstedet.</p>
+        <p>Hvis det konstateres, at produktet ikke kan repareres, kan hele enheden blive udskiftet med en tilsvarende enhed efter gensidig aftale med høreapparatspecialisten og kunden.</p>
+        <p class="SubHeader">Hvad dækker garantien ikke</p>
+        <p>Fejl eller skade, som opstår på grund af uhensigtsmæssig brug eller vedligeholdelse, forkert brug, uheld, reparationer udført af uautoriseret person, uegnet korroderende miljø eller skade på grund af indtrængen af fremmedlegemer, er IKKE dækket af den begrænsede garanti og kan eventuel gøre den ugyldig. Ovennævnte garanti påvirker ikke dine eventuelle juridiske rettigheder i henhold til gældende national lovgivning vedrørende salg af forbrugsvarer. Din høreapparatspecialist yder muligvis en garanti med mere omfattende dækning end denne begrænsede garanti. Kontakt din høreapparatspecialist for yderligere oplysninger.</p>
+        <p class="SubHeader">
+            <MadCap:snippetText src="../../../Snippets/Header snippets/Expected service life time.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="../../X_Common/Snippets/Service life minimum 5 years.flsnp" />
+    </body>
+</html>

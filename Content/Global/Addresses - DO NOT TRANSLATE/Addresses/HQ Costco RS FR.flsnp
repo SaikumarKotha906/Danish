@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="forced_column_break">
+            <p class="AddressLine">GN Hearing France</p>
+            <p class="AddressLine">Zone Silic, bâtiment Québec</p>
+            <p class="AddressLine">19 rue d'Arcueil</p>
+            <p class="AddressLine">94150 Rungis</p>
+            <p class="AddressLine">Tél.: 01 75 37 70 00</p>
+            <p class="AddressLine">info@gnhearing.fr</p>
+            <p class="AddressLine"><MadCap:variable name="Basic_variables.URL_main" /></p>
+        </div>
+    </body>
+</html>

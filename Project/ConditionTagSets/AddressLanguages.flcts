@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment="German"
+    Name="DE"
+    BackgroundColor="#c8c8c8"
+    OriginalName="DE" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="CZ"
+    Comment="Czech"
+    OriginalName="CZ" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="FI"
+    Comment="Finnish"
+    OriginalName="FI" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="FR"
+    Comment="French"
+    OriginalName="FR" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="PT"
+    Comment="Portuguese"
+    OriginalName="PT" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="ES"
+    Comment="Spanish" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="IT"
+    Comment="Italian" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="GB"
+    Comment="British English" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="AR"
+    Comment="Arabic"
+    OriginalName="AR" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="US"
+    Comment="American English"
+    OriginalName="US" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="SV"
+    Comment="Swedish"
+    OriginalName="SV" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="NL"
+    Comment="Dutch"
+    OriginalName="NL" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="DA"
+    Comment="Danish" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="NO"
+    Comment="Norwegian"
+    OriginalName="NO" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="BR"
+    Comment="Brazilian" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="RO"
+    Comment="Romanian"
+    OriginalName="RO" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="BG"
+    Comment="Bulgarian"
+    OriginalName="BG" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="EL"
+    Comment="Greek"
+    OriginalName="EL" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="ET"
+    Comment="Estonian"
+    OriginalName="ET" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="HU"
+    Comment="Hungarian"
+    OriginalName="HU" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="HE"
+    Comment="Hebrew"
+    OriginalName="HE" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="LT"
+    Comment="Lithuanian"
+    OriginalName="LT" />
+  <ConditionTag
+    Name="PL"
+    Comment="Polish"
+    OriginalName="PL"
+    BackgroundColor="#c8c8c8" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="RU"
+    Comment="Russian"
+    OriginalName="RU" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="SL"
+    Comment="Slovenian"
+    OriginalName="SL" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="HR"
+    Comment="Croatian"
+    OriginalName="HR" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="MK"
+    Comment="Macedonian"
+    OriginalName="MK" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="SR"
+    Comment="Serbian"
+    OriginalName="SR" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="TR"
+    Comment="Turkish"
+    OriginalName="TR" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="UK"
+    Comment="Ukrainian"
+    OriginalName="UK" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="SQ"
+    Comment="Albanian"
+    OriginalName="SQ" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="FR_CA"
+    Comment="French in Canada"
+    OriginalName="FR_CA" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="US_CA"
+    Comment="American in Canada"
+    OriginalName="US_CA" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="ES_US_VA"
+    Comment="Spanish American Veteran"
+    OriginalName="ES_US_VA" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="US_CA_VA"
+    Comment="American in Canada for veterans" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="US_VA"
+    Comment="American Veterans" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="US_CA_HQ"
+    Comment="American CAnada plus HQ" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="NotInUSCustom"
+    Comment="Shows (Not set=(include)) or hides (Exclude) MDD/MDR info on backpage and in regulatory requirements" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="LV"
+    Comment="Latvian" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="HI"
+    Comment="Hindi" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="IS"
+    Comment="Icelandic" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="US_CA_HQ_as"
+    Comment="American CAnada plus HQ Beltone AS"
+    OriginalName="US_CA_HQ_as" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="US_CA_HQ_Gvnmnt"
+    Comment="American CAnada plus HQ Gvnmnt"
+    OriginalName="US_CA_HQ_Gvnmnt" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="US_CA_HQ - distrib"
+    Comment="US_CA_HQ - distrib"
+    OriginalName="US_CA_HQ - distrib" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="SK"
+    Comment="Slovakian" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="CN"
+    Comment="Chinese"
+    OriginalName="CN" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="KO"
+    Comment="Korean"
+    OriginalName="KO" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="JA"
+    Comment="Japanese"
+    OriginalName="JA" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="MX"
+    Comment="Mexican" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="TW"
+    Comment="Taiwanese"
+    OriginalName="TW" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="ES_US"
+    Comment="Spanish American"
+    OriginalName="ES_US" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="GB_IND"
+    Comment="Hindi in the GB version" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="CA"
+    Comment="Canada" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="BS"
+    Comment="Bosnian"
+    OriginalName="BS" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="ID"
+    Comment="Indonesian" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="TH"
+    Comment="Thai" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="VI"
+    Comment="Vietnamese" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="MS"
+    Comment="Malay" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="MO"
+    Comment="Moldova (Romanian)"
+    OriginalName="MO" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="AU"
+    Comment="Australia" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="_All-AddressLanguages"
+    Comment="only use in GB project for now"
+    OriginalName="_All-AddressLanguages" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="DV"
+    Comment="Divehi"
+    OriginalName="DV" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="LO"
+    Comment="Lao" />
+  <ConditionTag
+    BackgroundColor="#c8c8c8"
+    Name="BN"
+    Comment="Bengali" />
+</CatapultConditionTagSet>

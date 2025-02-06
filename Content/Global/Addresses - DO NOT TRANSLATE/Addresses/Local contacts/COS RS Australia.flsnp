@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p class="AddressTitle">Australia</p>
+        <p class="AddressLine">GN Hearing Australia Pty Ltd</p>
+        <p class="AddressLine">Suite 1001, Level 1</p>
+        <p class="AddressLine">1 Julius Avenue</p>
+        <p class="AddressLine">North Ryde, NSW 2113</p>
+        <p class="AddressLine">Australia</p>
+        <p class="AddressLine">Tel.: (free) 1800 658 955</p>
+        <p class="AddressLine"><MadCap:variable name="Basic_variables.URL_main" />
+        </p>
+    </body>
+</html>

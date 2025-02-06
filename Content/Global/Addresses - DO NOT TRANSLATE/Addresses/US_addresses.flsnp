@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p class="AddressTitle" MadCap:conditions="US Backpage address.Title"><MadCap:variable name="US Addresses.Title" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="US Backpage address.Road"><MadCap:variable name="US Addresses.Road" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="US Backpage address.Town"><MadCap:variable name="US Addresses.Town" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="US Backpage address.Country"><MadCap:variable name="US Addresses.Country" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="US Backpage address.US Telephone"><MadCap:variable name="US Addresses.Telephone" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="US Backpage address.e-mail"><MadCap:variable name="US Addresses.e-mail" />
+        </p>
+        <p class="AddressLine" MadCap:conditions="US Backpage address.URL"><MadCap:variable name="US Addresses.URL" />
+        </p>
+    </body>
+</html>

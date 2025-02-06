@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Comment="Medical Device Directive (MDD); Trans (EEC)" Name="EU_medical_directive" EvaluatedDefinition="93/42/EEC">93/42/EEC</Variable>
+  <Variable Comment="Trans (EU)" Name="EU_radio_directive" EvaluatedDefinition="2014/53/EU">2014/53/EU</Variable>
+  <Variable Name="EU_declarations_URL" Comment="" EvaluatedDefinition="[EU declarations URL]">[EU declarations URL]</Variable>
+  <Variable Name="EU_declarations_URL" Comment="" EvaluatedDefinition="www.declarations.resound.com/en">www.declarations.resound.com/en</Variable>
+  <Variable Name="EU_declarations_URL" Comment="" EvaluatedDefinition="www.beltone.com/en/declarations">www.beltone.com/en/declarations</Variable>
+  <Variable Name="EU_declarations_URL" Comment="" EvaluatedDefinition="www.interton.com/en/legal">www.interton.com/en/legal</Variable>
+  <Variable Name="EU_medical_directive" Comment="Medical Device Regulation (MDR)" EvaluatedDefinition="2017/745">2017/745</Variable>
+  <Variable Name="FCC approval ID no. (USA) with &quot;:&quot;" Comment="Approval no. to go before HA type - wireless products" EvaluatedDefinition="FCC ID: X26">FCC ID: X26</Variable>
+  <Variable Name="Canada ISED approval ID suffix 6941C-" Comment="Suffix for approval no. in Canada - wireless products" EvaluatedDefinition="6941C-">6941C-</Variable>
+  <Variable Name="FCC approval ID no. (USA) no &quot;:&quot;" Comment="Approval no. to go before HA variant - wireless products" EvaluatedDefinition="FCC ID X26">FCC ID X26</Variable>
+  <Variable Name="Canada ISED approval ID prefix IC" Comment="Prefix for approval no. in Canada - wireless products" EvaluatedDefinition="IC">IC</Variable>
+</CatapultVariableSet>

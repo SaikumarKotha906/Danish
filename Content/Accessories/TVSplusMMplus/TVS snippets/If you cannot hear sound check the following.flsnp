@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Hvis du ikke kan høre tv'ets eller lydkildens lyd, skal du undersøge følgende:</p>
+        <p class="bullet_list" MadCap:autonum="•">Test forbindelsen mellem <MadCap:variable name="CrossBrand_WirelessAccessories.TV_Streamer"></MadCap:variable> og høreapparaterne – se “Parring af enhed”.</p>
+        <p class="bullet_list" MadCap:autonum="•">Test forbindelsen mellem <MadCap:variable name="CrossBrand_WirelessAccessories.TV_Streamer"></MadCap:variable> og tv'et eller lydenheden – se “Installation af TV Streamer”.</p>
+        <p class="bullet_list" MadCap:autonum="•">Sørg for, at alle kabler er tilsluttet korrekt til <MadCap:variable name="CrossBrand_WirelessAccessories.TV_Streamer"></MadCap:variable> og tv'et eller den pågældende lydenhed</p>
+        <p class="bullet_list" MadCap:autonum="•">Bekræft, at <MadCap:variable name="CrossBrand_WirelessAccessories.TV_Streamer"></MadCap:variable> har strøm – se efter indikatorlyset på <MadCap:variable name="CrossBrand_WirelessAccessories.TV_Streamer"></MadCap:variable> – Se “Installation af TV Streamer”.</p>
+    </body>
+</html>

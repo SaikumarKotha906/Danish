@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.cNX/Schemas/MadCap.xsd" MadCap:conditions="Powersource.Battery,FormFactors.MiniRIE">
+    <body>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 9">R 5 NX 312, </MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 7">R 4 NX 312, </MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 5">R 3 NX 312, </MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 4">R 3S NX 312&#160;&#160;</MadCap:conditionalText>
+    </body>
+</html>

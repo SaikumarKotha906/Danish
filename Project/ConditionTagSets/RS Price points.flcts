@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment="RS &amp; BM PP7 BT PP 9. AMP PP4"
+    Name="Price point 7"
+    BackgroundColor="#d4e0e0" />
+  <ConditionTag
+    Comment="RS &amp; BM PP9. BT PP 17. AMP PP 5."
+    Name="Price point 9"
+    BackgroundColor="#d3ad2e" />
+  <ConditionTag
+    BackgroundColor="#e4a254"
+    Name="Price point 3"
+    Comment="RS &amp; BM PP3. BT PP 3. AMP PP1." />
+  <ConditionTag
+    BackgroundColor="#a67e36"
+    Name="Price point 5"
+    Comment="RS &amp; BM PP5. BT PP 6. AMP PP3." />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Price point 4"
+    Comment="RS &amp; BM PP4. BT PP 4. AMP PP3S &amp; PP2." />
+  <ConditionTag
+    BackgroundColor="#ffe4c4"
+    Name="Price point 2"
+    Comment="RS &amp; BM PP2. BT PP 2. AMP PP1S." />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Price point 1"
+    Comment="RS &amp; BM PP1. BT PP 1. AMP PP1S"
+    OriginalName="Price point 1" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Flex demo model"
+    Comment="Flex model. The price point can be changed by the HCP."
+    OriginalName="Flex model" />
+</CatapultConditionTagSet>

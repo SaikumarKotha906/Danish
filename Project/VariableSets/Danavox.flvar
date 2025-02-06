@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Comment="" Name="Model" EvaluatedDefinition="[DanavoxModel]">[DanavoxModel]</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XA POWER BTE">XA POWER BTE</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XA RIE RHI">XA RIE RHI</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XA RIE">XA RIE</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XA CUSTOM">XA CUSTOM</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XA BTE">XA BTE</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XB RIE">XB RIE</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XC CUSTOM">XC CUSTOM</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XC POWER BTE">XC POWER BTE</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XC BTE">XC BTE</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XC RIE RHI">XC RIE RHI</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XC RIE">XC RIE</Variable>
+  <Variable Name="Name" Comment="" EvaluatedDefinition="[DanavoxName]">[DanavoxName]</Variable>
+  <Variable Name="Name" Comment="" EvaluatedDefinition="Danavox Anthe">Danavox Anthe</Variable>
+  <Variable Name="Name" Comment="" EvaluatedDefinition="Danavox Barani">Danavox Barani</Variable>
+  <Variable Name="Name" Comment="" EvaluatedDefinition="Danavox Alya">Danavox Alya</Variable>
+  <Variable Name="Name" Comment="" EvaluatedDefinition="Danavox Klar">Danavox Klar</Variable>
+  <Variable Name="Name" Comment="" EvaluatedDefinition="Danavox Boreal">Danavox Boreal</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XD RIE">XD RIE</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XD BTE">XD BTE</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XD POWER BTE">XD POWER BTE</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XD CUSTOM">XD CUSTOM</Variable>
+  <Variable Name="Model" Comment="" EvaluatedDefinition="XD RIE RHI">XD RIE RHI</Variable>
+</CatapultVariableSet>

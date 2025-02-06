@@ -1,0 +1,4991 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+@media amplifon_opensans
+{
+	mcTableStyle
+	{
+		cell-padding-left: 0px;
+		cell-padding-right: 0px;
+		cell-padding-top: 2px;
+		cell-padding-bottom: 1px;
+	}
+
+	mcTableColumnStyle
+	{
+		
+	}
+
+	mcTableColumnStyle
+	{
+		
+	}
+
+	mcTableColumnStyle
+	{
+		
+	}
+
+	mcTableColumnStyle
+	{
+		
+	}
+
+	mcTableColumnStyle
+	{
+		
+	}
+
+	mcTableHeadStyle
+	{
+		
+	}
+
+	mcTableBodyStyle
+	{
+		
+	}
+
+	mcTableBodyStyle
+	{
+		
+	}
+
+	mcTableFootStyle
+	{
+		
+	}
+}
+
+mcTableStyle
+{
+	name: HassiumTechSpecs;
+	border-collapse: collapse;
+	cell-padding-left: 2px;
+	cell-padding-right: 1px;
+	cell-padding-top: 0pt;
+	cell-padding-bottom: 0pt;
+	border-spacing-y: 0;
+	max-id: 11;
+	border-left-style: none;
+	border-left-width: 0.5px;
+	border-right-style: none;
+	border-right-width: 0.5px;
+	border-top-style: none;
+	border-top-width: 0.5px;
+	border-bottom-style: none;
+	border-bottom-width: 0.5px;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	name: First;
+	id: 0;
+	text-align: left;
+	vertical-align: middle;
+	size: 80%;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 6;
+	name: Second;
+	text-align: right;
+	separator-style: solid;
+	separator-width: 0.5px;
+	separator-color: #000000;
+	separator-color: device-cmyk(0,0,0,1);
+	size: 12%;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 7;
+	name: Data;
+	text-align: center;
+	separator-style: solid;
+	separator-width: 0.5px;
+	separator-color: #000000;
+	separator-color: device-cmyk(0,0,0,1);
+	size: 8%;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 9;
+	name: Unit;
+	text-align: left;
+	size: 8%;
+	separator-style: solid;
+	separator-width: 0.5px;
+	separator-color: #000000;
+	separator-color: device-cmyk(0,0,0,1);
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	id: 11;
+	name: Image;
+	size: 25%;
+	text-align: center;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 0.5px;
+	separator-color: #000000;
+	separator-color: device-cmyk(0,0,0,1);
+	font-size: 6pt;
+	font-weight: bold;
+	name: Grey_header;
+	id: 2;
+	color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 0.5px;
+	separator-color: #000000;
+	separator-color: device-cmyk(0,0,0,1);
+	name: Body1;
+	id: 1;
+	background-color: device-cmyk(0,0,0,0.14);
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	id: 5;
+	name: Body2;
+	separator-style: solid;
+	separator-width: 0.5px;
+	separator-color: #000000;
+	separator-color: device-cmyk(0,0,0,1);
+}
+
+mcTableFootStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	separator-color: device-cmyk(0,0,0,1);
+	name: Footer1;
+	id: 3;
+}
+
+
+/* Cell Styles: */
+ 
+@media amplifon_opensans
+{
+	.TableStyle-HassiumTechSpecs
+	{
+		border-spacing: 0px 0px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadI-First-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadE-First-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadF-First-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadH-First-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadD-First-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadC-First-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadB-First-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadA-First-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadG-First-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadI-Second-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadE-Second-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadF-Second-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadH-Second-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadD-Second-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadC-Second-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadB-Second-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadA-Second-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadG-Second-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadI-Data-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadE-Data-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadF-Data-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadH-Data-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadD-Data-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadC-Data-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadB-Data-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadA-Data-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadG-Data-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadI-Unit-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadE-Unit-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadF-Unit-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadH-Unit-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadD-Unit-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadC-Unit-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadB-Unit-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadA-Unit-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadG-Unit-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadI-Image-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadE-Image-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadF-Image-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadH-Image-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadD-Image-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadC-Image-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadB-Image-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadA-Image-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-HeadG-Image-Grey_header
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootI-First-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootE-First-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootF-First-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootH-First-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootD-First-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootC-First-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootB-First-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootA-First-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootG-First-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootI-Second-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootE-Second-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootF-Second-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootH-Second-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootD-Second-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootC-Second-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootB-Second-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootA-Second-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootG-Second-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootI-Data-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootE-Data-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootF-Data-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootH-Data-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootD-Data-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootC-Data-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootB-Data-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootA-Data-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootG-Data-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootI-Unit-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootE-Unit-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootF-Unit-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootH-Unit-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootD-Unit-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootC-Unit-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootB-Unit-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootA-Unit-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootG-Unit-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootI-Image-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootE-Image-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootF-Image-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootH-Image-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootD-Image-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootC-Image-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootB-Image-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootA-Image-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-FootG-Image-Footer1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyI-First-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyE-First-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyF-First-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyH-First-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyD-First-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyC-First-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyB-First-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyA-First-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyG-First-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyI-Second-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyE-Second-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyF-Second-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyH-Second-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyD-Second-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyC-Second-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyB-Second-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyA-Second-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyG-Second-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyI-Data-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyE-Data-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyF-Data-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyH-Data-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyD-Data-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyC-Data-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyB-Data-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyA-Data-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyG-Data-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyI-Unit-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyE-Unit-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyF-Unit-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyH-Unit-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyD-Unit-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyC-Unit-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyB-Unit-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyA-Unit-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyG-Unit-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyI-Image-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyE-Image-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyF-Image-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyH-Image-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyD-Image-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyC-Image-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyB-Image-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyA-Image-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyG-Image-Body1
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyI-First-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyE-First-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyF-First-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyH-First-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyD-First-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyC-First-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyB-First-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyA-First-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyG-First-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyI-Second-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyE-Second-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyF-Second-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyH-Second-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyD-Second-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyC-Second-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyB-Second-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyA-Second-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyG-Second-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyI-Data-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyE-Data-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyF-Data-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyH-Data-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyD-Data-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyC-Data-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyB-Data-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyA-Data-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyG-Data-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyI-Unit-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyE-Unit-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyF-Unit-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyH-Unit-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyD-Unit-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyC-Unit-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyB-Unit-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyA-Unit-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyG-Unit-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyI-Image-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyE-Image-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyF-Image-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyH-Image-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyD-Image-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyC-Image-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyB-Image-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyA-Image-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+
+	.TableStyle-HassiumTechSpecs-BodyG-Image-Body2
+	{
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-top: 2px;
+		padding-bottom: 1px;
+	}
+}
+
+.TableStyle-HassiumTechSpecs
+{
+	border-collapse: collapse;
+	border-left-style: none;
+	border-left-width: 0.5px;
+	border-right-style: none;
+	border-right-width: 0.5px;
+	border-top-style: none;
+	border-top-width: 0.5px;
+	border-bottom-style: none;
+	border-bottom-width: 0.5px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-HassiumTechSpecs-Column-First
+{
+	width: 80%;
+}
+
+.TableStyle-HassiumTechSpecs-Column-Second
+{
+	width: 12%;
+}
+
+.TableStyle-HassiumTechSpecs-Column-Data
+{
+	width: 8%;
+}
+
+.TableStyle-HassiumTechSpecs-Column-Unit
+{
+	width: 8%;
+}
+
+.TableStyle-HassiumTechSpecs-Column-Image
+{
+	width: 25%;
+}
+
+.TableStyle-HassiumTechSpecs-Head-Grey_header
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-HeadI-First-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadI-First-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadE-First-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadE-First-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadF-First-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadF-First-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadH-First-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadH-First-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadD-First-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadD-First-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadC-First-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadC-First-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadB-First-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadB-First-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadA-First-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadA-First-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadG-First-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadG-First-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadI-Second-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadI-Second-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadE-Second-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadE-Second-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadF-Second-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadF-Second-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadH-Second-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadH-Second-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadD-Second-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadD-Second-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadC-Second-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadC-Second-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadB-Second-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadB-Second-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadA-Second-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadA-Second-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadG-Second-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadG-Second-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadI-Data-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadI-Data-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadE-Data-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadE-Data-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadF-Data-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadF-Data-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadH-Data-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadH-Data-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadD-Data-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadD-Data-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadC-Data-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadC-Data-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadB-Data-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadB-Data-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadA-Data-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadA-Data-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadG-Data-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadG-Data-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadI-Unit-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadI-Unit-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadE-Unit-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadE-Unit-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadF-Unit-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadF-Unit-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadH-Unit-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadH-Unit-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadD-Unit-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadD-Unit-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadC-Unit-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadC-Unit-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadB-Unit-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadB-Unit-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadA-Unit-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadA-Unit-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadG-Unit-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadG-Unit-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadI-Image-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadI-Image-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadE-Image-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadE-Image-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadF-Image-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadF-Image-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadH-Image-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadH-Image-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadD-Image-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-HeadD-Image-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadC-Image-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadC-Image-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadB-Image-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadB-Image-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadA-Image-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadA-Image-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-HeadG-Image-Grey_header
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	background-color: device-cmyk(0,0,0,0.1);
+}
+
+.TableStyle-HassiumTechSpecs-HeadG-Image-Grey_header p
+{
+	color: #ffffff;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.TableStyle-HassiumTechSpecs-Foot-Footer1
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootI-First-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-FootI-First-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootE-First-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootE-First-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootF-First-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootF-First-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootH-First-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-FootH-First-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootD-First-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootD-First-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootC-First-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-FootC-First-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootB-First-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-FootB-First-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootA-First-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-FootA-First-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootG-First-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-FootG-First-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootI-Second-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-FootI-Second-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootE-Second-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootE-Second-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootF-Second-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootF-Second-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootH-Second-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootH-Second-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootD-Second-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootD-Second-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootC-Second-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-FootC-Second-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootB-Second-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootB-Second-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootA-Second-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-FootA-Second-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootG-Second-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-FootG-Second-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootI-Data-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-FootI-Data-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootE-Data-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootE-Data-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootF-Data-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootF-Data-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootH-Data-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootH-Data-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootD-Data-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootD-Data-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootC-Data-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-FootC-Data-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootB-Data-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootB-Data-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootA-Data-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-FootA-Data-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootG-Data-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-FootG-Data-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootI-Unit-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-FootI-Unit-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootE-Unit-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootE-Unit-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootF-Unit-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootF-Unit-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootH-Unit-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootH-Unit-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootD-Unit-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootD-Unit-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootC-Unit-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-FootC-Unit-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootB-Unit-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootB-Unit-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootA-Unit-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-FootA-Unit-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootG-Unit-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-FootG-Unit-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootI-Image-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-FootI-Image-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootE-Image-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootE-Image-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootF-Image-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootF-Image-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootH-Image-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-FootH-Image-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootD-Image-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-color: device-cmyk(0,0,0,1);
+	border-top-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-FootD-Image-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootC-Image-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-FootC-Image-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootB-Image-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-FootB-Image-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootA-Image-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-FootA-Image-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-FootG-Image-Footer1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-FootG-Image-Footer1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-Body-Body1
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-First-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-First-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-First-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-First-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-First-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-First-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-First-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-First-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-First-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-First-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-First-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-First-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-First-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-First-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-First-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-First-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-First-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-First-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Second-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Second-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Second-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: right;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Second-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Second-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Second-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Second-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: right;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Second-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Second-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Second-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Second-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Second-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Second-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: right;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Second-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Second-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Second-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Second-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Second-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Data-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Data-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Data-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: center;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Data-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Data-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Data-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Data-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: center;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Data-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Data-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Data-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Data-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Data-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Data-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: center;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Data-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Data-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Data-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Data-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Data-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Unit-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Unit-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Unit-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: left;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Unit-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Unit-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Unit-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Unit-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: left;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Unit-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Unit-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Unit-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Unit-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Unit-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Unit-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: left;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Unit-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Unit-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Unit-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Unit-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Unit-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Image-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Image-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Image-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Image-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Image-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Image-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Image-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Image-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Image-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Image-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Image-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Image-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Image-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Image-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Image-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Image-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Image-Body1
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	background-color: device-cmyk(0,0,0,0.14);
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Image-Body1 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-Body-Body2
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-First-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-First-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-First-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-First-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-First-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-First-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-First-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-First-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-First-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-First-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-First-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-First-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-First-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-First-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-First-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-First-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-First-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-First-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Second-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Second-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Second-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: right;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Second-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Second-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Second-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Second-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Second-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Second-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Second-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Second-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Second-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Second-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Second-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Second-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Second-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Second-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: right;
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Second-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Data-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Data-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Data-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: center;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Data-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Data-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Data-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Data-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Data-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Data-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Data-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Data-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Data-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Data-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Data-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Data-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Data-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Data-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Data-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Unit-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Unit-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Unit-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: left;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Unit-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Unit-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Unit-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Unit-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Unit-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Unit-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Unit-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Unit-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Unit-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Unit-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+	border-right-width: 0.5px;
+	border-right-color: #000000;
+	border-right-color: device-cmyk(0,0,0,1);
+	border-right-style: solid;
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Unit-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Unit-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Unit-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Unit-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: left;
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Unit-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Image-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyI-Image-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Image-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyE-Image-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Image-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyF-Image-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Image-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyH-Image-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Image-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	border-bottom-width: 0.5px;
+	border-bottom-color: #000000;
+	border-bottom-color: device-cmyk(0,0,0,1);
+	border-bottom-style: solid;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyD-Image-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Image-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyC-Image-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Image-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyB-Image-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Image-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyA-Image-Body2 p
+{
+	
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Image-Body2
+{
+	padding-left: 2px;
+	padding-right: 1px;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	text-align: center;
+}
+
+.TableStyle-HassiumTechSpecs-BodyG-Image-Body2 p
+{
+	
+}
+
+

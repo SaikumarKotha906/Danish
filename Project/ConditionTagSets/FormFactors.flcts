@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment="&quot;Umbrella&quot; for all RIEs"
+    Name="RIE"
+    OriginalName="RIE"
+    BackgroundColor="#dda0dd" />
+  <ConditionTag
+    Comment="&quot;Umbrella&quot; for all BTEs excl. Power"
+    Name="BTE"
+    OriginalName="BTE"
+    BackgroundColor="#8b008b" />
+  <ConditionTag
+    Name="CUSTOM"
+    Comment="&quot;Umbrella&quot; for all CIC, ITE, ITC"
+    OriginalName="CUSTOM"
+    BackgroundColor="#00ced1" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Power BTE"
+    Comment="&quot;Umbrella&quot; for all Power BTEs" />
+  <ConditionTag
+    BackgroundColor="#87878f"
+    Name="MiniRIE"
+    Comment="Mini RIE 61" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Skin1"
+    Comment="Device shape for illustrations ver. 2" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Skin2"
+    Comment="Device shape for illustrations ver. 2" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Skin3"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Skin4"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="CIC"
+    Comment="CIC  (subdivision in Custom)"
+    OriginalName="CIC" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="ITC"
+    Comment="ITC (subdivision in Custom)"
+    OriginalName="ITC" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="ITE"
+    Comment="ITE  (subdivision in Custom)"
+    OriginalName="ITE" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="MIH"
+    Comment="MIH  (subdivision in Custom)" />
+  <ConditionTag
+    BackgroundColor="#9acd32"
+    Name="Mini BTE"
+    Comment="Mini BTE (subdivision in BTE)"
+    OriginalName="Mini BTE" />
+  <ConditionTag
+    BackgroundColor="#fa8072"
+    Name="BTE 70"
+    Comment="Standard BTE (subdivision in BTE)"
+    OriginalName="BTE 70" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="BTE 80"
+    Comment="&quot;Small&quot; power BTE (subdivision in BTE)"
+    OriginalName="BTE 80" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="RIE 62"
+    Comment="Standard RIE 62 (subdivision in RIE)"
+    OriginalName="RIE 62" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="BTE 90"
+    Comment="Super power BTE (subdivison in BTE)"
+    OriginalName="BTE 90" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="BTE 80 Hook"
+    Comment="Power BTE with metal hook"
+    OriginalName="BTE 80 Hook" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="BTE 70 Light"
+    Comment="Standard BTE m. Mini BTE gain"
+    OriginalName="BTE 70 Light" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Mini RIE 60"
+    Comment="Mini RIE 60 (smaller than RIE 61)" />
+  <ConditionTag
+    BackgroundColor="#6747c9"
+    Name="Micro RIE"
+    Comment="Micro RIE" />
+</CatapultConditionTagSet>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <!-- Base GN User Guides: ProductType Brand+Family ModelNumbers ManualType -->
+        <div MadCap:conditions="CoverTextLayout._All-CoverTextLayouts,CoverTextLayout.Default">
+            <p class="cover_title1"><MadCap:variable name="Z_Translated variables.ProductType"></MadCap:variable>
+            </p>
+            <p class="cover_title2" style="direction: ltr;">
+                <MadCap:conditionalText MadCap:conditions="CoverIcons.Brand name"><MadCap:variable name="Basic_variables.BrandName"></MadCap:variable>&#160;</MadCap:conditionalText><MadCap:variable name="Basic_variables.FamilyName" MadCap:conditions="CoverIcons.Family name"></MadCap:variable>
+            </p>
+            <p class="cover_title2" MadCap:conditions="CoverIcons.Family name2">
+                <MadCap:conditionalText MadCap:conditions="CoverIcons.Brand name"><MadCap:variable name="Basic_variables.BrandName"></MadCap:variable>&#160;</MadCap:conditionalText><MadCap:variable name="Basic_variables.FamilyName2"></MadCap:variable>
+            </p>
+            <p class="cover_title4"><MadCap:variable name="Z_Translated variables.ManualType"></MadCap:variable>
+            </p>
+        </div>
+        <!-- Brand+Family ProductType ModelNumbers ManualType (Costco/Jabra)-->
+        <div MadCap:conditions="CoverTextLayout._All-CoverTextLayouts,CoverTextLayout.Costco-Jabra">
+            <p class="cover_title1" style="direction: ltr;">
+                <MadCap:conditionalText MadCap:conditions="CoverIcons.Brand name"><MadCap:variable name="Basic_variables.BrandName"></MadCap:variable>&#160;</MadCap:conditionalText><MadCap:variable name="Basic_variables.FamilyName" MadCap:conditions="CoverIcons.Family name"></MadCap:variable>
+            </p>
+            <p class="cover_title2"><MadCap:variable name="Z_Translated variables.ProductType"></MadCap:variable>
+            </p>
+            <p class="cover_title4"><MadCap:variable name="Z_Translated variables.ManualType"></MadCap:variable>
+            </p>
+        </div>
+        <!-- Amplifon: Brand+Family ModelNumbers ProductType+ManualType -->
+        <div MadCap:conditions="CoverTextLayout._All-CoverTextLayouts,CoverTextLayout.Amplifon-One-Family">
+            <p class="cover_title1"><MadCap:variable name="Basic_variables.FamilyName" MadCap:conditions="CoverIcons.Family name"></MadCap:variable>
+            </p>
+            <p class="cover_title2" style="direction: ltr;"><MadCap:variable name="Basic_variables.ModelNumbers"></MadCap:variable>
+            </p>
+            <hr class="cover" />
+            <p class="cover_title3"><MadCap:variable name="Z_Translated variables.ProductType"></MadCap:variable>
+            </p>
+            <p class="cover_title3"><MadCap:variable name="Z_Translated variables.ManualType"></MadCap:variable>
+            </p>
+        </div>
+        <!-- Amplifon Two Families: Brand+Family ModelNumbers Brand2+Family2 ModelNumbers2 ProductType+ManualType -->
+        <div class="two_families" MadCap:conditions="CoverTextLayout._All-CoverTextLayouts,CoverTextLayout.Amplifon-Two-Families">
+            <p class="cover_title1"><MadCap:variable name="Basic_variables.FamilyName" MadCap:conditions="CoverIcons.Family name"></MadCap:variable>
+            </p>
+            <p class="cover_title2" style="direction: ltr;"><MadCap:variable name="Basic_variables.ModelNumbers"></MadCap:variable>
+            </p>
+            <p class="cover_title1"><MadCap:variable name="Basic_variables.FamilyName2" MadCap:conditions="CoverIcons.Family name2"></MadCap:variable>
+            </p>
+            <p class="cover_title2" style="direction: ltr;"><MadCap:variable name="Basic_variables.ModelNumbers2"></MadCap:variable>
+            </p>
+            <hr class="cover" />
+            <p class="cover_title3"><MadCap:variable name="Z_Translated variables.ProductType"></MadCap:variable>
+            </p>
+            <p class="cover_title3"><MadCap:variable name="Z_Translated variables.ManualType"></MadCap:variable>
+            </p>
+        </div>
+    </body>
+</html>

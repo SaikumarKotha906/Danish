@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="All-CoverLogos"
+    Comment=""
+    OriginalName="All-BackpageLogo" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="ReSound"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="HBM"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="COSTCO Kirkland"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Puretone"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Danalogic"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="CRAI"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Audigy"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="SpecSavers"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Interton"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Beltone"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="HearingAustralia"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Multisound"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Danavox"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Jabra"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="COSTCO RS"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Amplifon"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Zenaud"
+    Comment="" />
+</CatapultConditionTagSet>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment="US, US/CA, US-ES, , ISO 639-2"
+    Name="USA"
+    BackgroundColor="#C8C8C8"
+    OriginalName="USA" />
+  <ConditionTag
+    Comment=""
+    Name="EU"
+    BackgroundColor="#C8C8C8" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="CAN"
+    Comment="CA, US/CA, F"
+    OriginalName="CAN" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="JPN"
+    Comment="Japan, ISO 639-2"
+    OriginalName="JPN" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="Swiss CHREP"
+    Comment=""
+    OriginalName="Swiss CHREP" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="RUS"
+    Comment="Russia, ISO 639-2"
+    OriginalName="RUS" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="SVK"
+    Comment="Slovakia, ISO 639-2"
+    OriginalName="SVK" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="BRA"
+    Comment="Brazil, ISO 639-2"
+    OriginalName="BRA" />
+  <ConditionTag
+    BackgroundColor="#C8C8C8"
+    Name="TWN"
+    Comment="Taiwan, ISO 639-2"
+    OriginalName="TWN" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="_All-Markets"
+    Comment="" />
+  <ConditionTag
+    Name="KOR"
+    Comment="Korea, ISO 639-2"
+    OriginalName="KOR"
+    BackgroundColor="#c7c7c7" />
+  <ConditionTag
+    Name="CHN"
+    Comment="China, ISO 639-2"
+    BackgroundColor="#c7c7c7" />
+</CatapultConditionTagSet>

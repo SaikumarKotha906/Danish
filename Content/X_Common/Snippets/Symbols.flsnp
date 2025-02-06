@@ -1,0 +1,666 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Resources/TableStyles/Symbols.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.Warning">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/Warning.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetBlock src="../../Snippets/Regulatory information/symbols/WARNING Points out a situation.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.Caution">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/Warning.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p src="../../Snippets/Regulatory information/symbols/CAUTION Indicates a situation - minor or moderate.flsnp">
+                                <MadCap:snippetBlock src="../../Snippets/Regulatory information/symbols/CAUTION Indicates a situation - minor or moderate.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.Manufacturer">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/Manufacturer.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/symbols/Legal manufacturer.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.Date of manufacture">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/Date of manufacture.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/Date of manufacture.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.IFU">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/IFU.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/Follow instructions for use.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.CE">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/CE.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/symbols/Compliance mark for EU.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.CE0297">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/CE logo 0297.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/CE_0297.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.Medical device">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/Medical device.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/Complies with MDR.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.UDI">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/UDI.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/Unique Device Identification.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.Catalog number">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/Catalog number.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/symbols/Catalogue number.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.Serial number">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/Serial number.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/symbols/Serial number.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.Batch code">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/Batch code.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/symbols/Batch code.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.Country of manufacture">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/Country of manufacture.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/symbols/Country of manufacture.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.eIFU">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/eIFU.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/Consult electronic instructions for use.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.Temperature limits">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/Temperature limits.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/Temperature limit.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.CH-REP">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/CH rep/CH-REP.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/symbols/Swiss authorized representative.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.Type B">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/Type B.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/Product is a Type B applied part.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.FCC symbol">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/FCC Symbol.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/symbols/FCC symbol.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.FCC ID">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/FCC ID.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/symbols/FCC ID.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.RxOnly">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/RxOnly.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/By prescription only (US).flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.Mexico IFETEL certification">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/IFETEL.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/IFETEL.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.ACMA">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/ACMA.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/Complies with ACMA requirements.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.IMDA singapore">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/IMDA Singapore.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/Complies with IMDA requirements.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.TELEC Japan">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/TELEC Japan.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/symbols/Radio compliance mark for Japan.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.NCC Taiwan">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/NCC Taiwan.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/symbols/NCC compliance mark for Taiwan.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.MCMC Malaysia">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/MCMC Malaysia.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/symbols/MCMC compliance mark for Malaysia.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.IC Korea">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/IC Korea.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/symbols/KC compliance mark for Korea.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.Anatel">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/Anatel.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <MadCap:snippetBlock src="../../Snippets/Regulatory information/symbols/Anatel.flsnp" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.UKCA">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/UKCA.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/UKCA marking.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.China CMIIT&#160;ID">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/CMIIT.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/CMIIT.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.BIS India">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/BIS India.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <MadCap:snippetBlock src="../../Snippets/Regulatory information/symbols/BIS compliance mark for India.flsnp" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.RF transmitter">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/RF transmitter.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <p>
+                                <MadCap:snippetText src="../../Snippets/Regulatory information/Equipment includes an RF transmitter.flsnp" />
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbol" MadCap:conditions="Symbols._All-Symbols,Symbols.WEEE">
+            <table style="margin-left: auto;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/Symbols.css');" class="TableStyle-Symbols" cellspacing="0">
+                <col class="TableStyle-Symbols-Column-Column1" />
+                <col class="TableStyle-Symbols-Column-Column2" />
+                <tbody>
+                    <tr class="TableStyle-Symbols-Body-Body1">
+                        <td class="TableStyle-Symbols-BodyB-Column1-Body1">
+                            <p>
+                                <img src="../../Global/Images/Symbols_Marks/WEEE.eps" class="symbols" />
+                            </p>
+                        </td>
+                        <td class="TableStyle-Symbols-BodyA-Column2-Body1">
+                            <div class="keep_together">
+                                <p>
+                                    <MadCap:snippetText src="../../Snippets/Regulatory information/WEE.flsnp" />
+                                </p>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="symbols_clear"></div> <!-- DO NOT REMOVE OR CHANGE --></body>
+</html>

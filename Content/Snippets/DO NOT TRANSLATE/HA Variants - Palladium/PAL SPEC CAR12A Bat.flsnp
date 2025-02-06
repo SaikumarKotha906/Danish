@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Powersource.Battery" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 9" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">ADV664-RIE</MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 7" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">, ADV564-RIE</MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 5" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">, ADV464-RIE</MadCap:conditionalText>
+        &#160;&#160;
+    </body>
+</html>

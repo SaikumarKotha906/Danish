@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Name="TV_Streamer" EvaluatedDefinition="[TV Streamer]" Comment="TC_DONT_TRANSLATE._anything">[TV Streamer]</Variable>
+  <Variable Name="TV_Streamer" Comment="SAS3: ReSound, Interton, generic" EvaluatedDefinition="TV Streamer 2">TV Streamer 2</Variable>
+  <Variable Name="TV_Streamer" Comment="SAS3: Beltone" EvaluatedDefinition="Direct TV Link 2">Direct TV Link 2</Variable>
+  <Variable Name="RemoteControl" EvaluatedDefinition="[Remote Control 2]" Comment="TC_DONT_TRANSLATE._anything">[Remote Control 2]</Variable>
+  <Variable Name="RemoteControl" Comment="Interton" EvaluatedDefinition="Remote Control 2">Remote Control 2</Variable>
+  <Variable Name="RemoteControl" Comment="Beltone" EvaluatedDefinition="Beltone Direct Remote Control 2">Beltone Direct Remote Control 2</Variable>
+  <Variable Name="RemoteControl" Comment="ReSound" EvaluatedDefinition="ReSound Remote Control 2">ReSound Remote Control 2</Variable>
+  <Variable Name="PhoneClip" Comment="TC_DONT_TRANSLATE._anything" EvaluatedDefinition="[Phone Clip +]">[Phone Clip +]</Variable>
+  <Variable Name="PhoneClip" Comment="ReSound" EvaluatedDefinition="ReSound Phone Clip+">ReSound Phone Clip+</Variable>
+  <Variable Name="PhoneClip" Comment="Beltone" EvaluatedDefinition="Beltone Direct Phone Link 2">Beltone Direct Phone Link 2</Variable>
+  <Variable Name="PhoneClip" Comment="Interton" EvaluatedDefinition="Phone Clip 2">Phone Clip 2</Variable>
+  <Variable Name="MicroMic" Comment="TC_DONT_TRANSLATE._anything" EvaluatedDefinition="[Micro Mic]">[Micro Mic]</Variable>
+  <Variable Name="MicroMic" Comment="ReSound" EvaluatedDefinition="ReSound Micro Mic">ReSound Micro Mic</Variable>
+  <Variable Name="MicroMic" Comment="Beltone" EvaluatedDefinition="Beltone Direct myPAL Micro">Beltone Direct myPAL Micro</Variable>
+  <Variable Name="MicroMic" Comment="Interton" EvaluatedDefinition="Micro Mic">Micro Mic</Variable>
+  <Variable Name="MultiMic" Comment="TC_DONT_TRANSLATE._anything" EvaluatedDefinition="[Multi Mic]">[Multi Mic]</Variable>
+  <Variable Name="MultiMic" Comment="ReSound" EvaluatedDefinition="ReSound Multi Mic">ReSound Multi Mic</Variable>
+  <Variable Name="MultiMic" Comment="Beltone" EvaluatedDefinition="Beltone Direct myPAL Pro">Beltone Direct myPAL Pro</Variable>
+  <Variable Name="MultiMic" Comment="Key accounts" EvaluatedDefinition="Multi Mic">Multi Mic</Variable>
+  <Variable Name="PhoneClip" Comment="Key accounts" EvaluatedDefinition="Phone Clip+">Phone Clip+</Variable>
+  <Variable Name="RemoteControl" Comment="Danavox" EvaluatedDefinition="ControlVox">ControlVox</Variable>
+  <Variable Name="PhoneClip" Comment="Danavox" EvaluatedDefinition="PhoneVox">PhoneVox</Variable>
+  <Variable Name="RemoteControlGeneric" Comment="Translate only in Danish" EvaluatedDefinition="Remote Control">Remote Control</Variable>
+  <Variable Name="TV_Streamer" Comment="SAS3: Amplifon" EvaluatedDefinition="ampli-TV">ampli-TV</Variable>
+  <Variable Name="TV_Streamer" Comment="SAS4: generic" EvaluatedDefinition="TV-Streamer+">TV-Streamer+</Variable>
+  <Variable Name="MultiMic" Comment="SM-3P" EvaluatedDefinition="Multi-Mic+">Multi-Mic+</Variable>
+</CatapultVariableSet>

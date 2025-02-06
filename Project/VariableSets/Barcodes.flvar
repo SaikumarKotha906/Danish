@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Name="Barcode" EvaluatedDefinition="[BarImage]">[BarImage]</Variable>
+  <Variable Name="Barcode" Comment="KA AMP RIE" EvaluatedDefinition="KA AMP 401539_HE200048.png">KA AMP 401539_HE200048.png</Variable>
+</CatapultVariableSet>

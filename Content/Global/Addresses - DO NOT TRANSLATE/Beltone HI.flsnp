@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Brands.Beltone">
+    <head>
+    </head>
+    <body>
+        <div class="forced_frame_break">
+            <MadCap:snippetBlock src="../../Addresses/Manufacturer.flsnp" />
+            <MadCap:snippetBlock src="../../Addresses/ManufacturerIcon.flsnp" />
+            <MadCap:snippetBlock src="Addresses/WorldwideHeadquarters.flsnp" />
+        </div>
+        <MadCap:snippetBlock src="../../Addresses/Local contacts.flsnp" />
+        <MadCap:snippetBlock src="Addresses/Local contacts/BT Hindi.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+    </body>
+</html>

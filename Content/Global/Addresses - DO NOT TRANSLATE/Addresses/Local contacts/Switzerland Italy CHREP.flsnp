@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Markets.Swiss CHREP,Markets._All-Markets">
+    <head>
+    </head>
+    <body>
+        <p class="AddressTitle">Mandatario Svizzero</p>
+        <p class="AddressLine">
+            <img src="../../../Images/CH rep/CH-REP.eps" style="width: 39px;height: 13px;padding-top: 4px;padding-bottom: 4px;" />
+        </p>
+        <p class="AddressLine">Decomplix AG</p>
+        <p class="AddressLine">Freiburgstrasse 3</p>
+        <p class="AddressLine">3010 Bern</p>
+        <p class="AddressLine">Svizzera</p>
+    </body>
+</html>

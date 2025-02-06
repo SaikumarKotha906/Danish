@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment=""
+    Name="DK Telephone"
+    BackgroundColor="Blue"
+    OriginalName="DK Telephone" />
+  <ConditionTag
+    BackgroundColor="#51e100"
+    Name="DK CVR"
+    Comment=""
+    OriginalName="DK CVR" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="WorldWideHQ"
+    Comment=""
+    OriginalName="WorldWideHQ" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="LocalContacts"
+    Comment=""
+    OriginalName="Local contacts" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="URL"
+    Comment="" />
+</CatapultConditionTagSet>

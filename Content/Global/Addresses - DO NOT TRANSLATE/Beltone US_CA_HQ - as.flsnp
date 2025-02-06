@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Brands.Beltone">
+    <head>
+    </head>
+    <body>
+        <div class="forced_frame_break">
+            <MadCap:snippetBlock src="Manufacturer/Manufacturer US_CA.flsnp" />
+            <MadCap:snippetBlock src="../../Addresses/Manufacturer US FDA.flsnp" />
+            <MadCap:snippetBlock src="../../Addresses/Manufacturer CA.flsnp" />
+        </div>
+        <div class="forced_frame_break">
+            <MadCap:snippetBlock src="Addresses/HQ_Beltone GB_as.flsnp" />
+            <MadCap:snippetBlock src="Addresses/US_addresses.flsnp" />
+            <MadCap:snippetBlock src="Addresses/Local contacts/BT US_CA_Canada.flsnp" />
+        </div>
+    </body>
+</html>

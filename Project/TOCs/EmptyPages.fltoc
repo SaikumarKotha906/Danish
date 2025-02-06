@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print only topics/Blank Page - NO TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="EmptyPages.1" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print only topics/Blank Page - NO TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="EmptyPages.2" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print only topics/Blank Page - NO TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="EmptyPages.3" />
+</CatapultToc>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="DAI"
+    Comment="Direct Audio Input" />
+</CatapultConditionTagSet>

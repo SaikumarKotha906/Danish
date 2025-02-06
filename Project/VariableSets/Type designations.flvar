@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="TC_DONT_TRANSLATE._anything">
+  <Variable
+    Comment="Custom"
+    Name="CSX12"
+    EvaluatedDefinition="CSX12">CSX12</Variable>
+  <Variable
+    Comment="Custom"
+    Name="CSX13"
+    EvaluatedDefinition="CSX13">CSX13</Variable>
+  <Variable
+    Name="CSI12"
+    Comment="Custom"
+    EvaluatedDefinition="CSI12">CSI12</Variable>
+  <Variable
+    Name="CSI13"
+    Comment="Custom"
+    EvaluatedDefinition="CSI13">CSI13</Variable>
+  <Variable
+    Name="CSX10"
+    Comment="Custom"
+    EvaluatedDefinition="CSX10">CSX10</Variable>
+  <Variable
+    Name="VE312"
+    Comment="MiniRIE"
+    EvaluatedDefinition="VE312">VE312</Variable>
+  <Variable
+    Name="BER13"
+    Comment="RIE non rechargeable"
+    EvaluatedDefinition="BER13">BER13</Variable>
+  <Variable
+    Name="LOB90"
+    Comment="Power BTE"
+    EvaluatedDefinition="LOB90">LOB90</Variable>
+  <Variable
+    Name="BEB80"
+    Comment="Power BTE"
+    EvaluatedDefinition="BEB80">BEB80</Variable>
+  <Variable
+    Name="LXR45"
+    Comment="RHA"
+    EvaluatedDefinition="LXR45">LXR45</Variable>
+  <Variable
+    Name="VER12"
+    Comment="Venus C5 MiniRIE"
+    EvaluatedDefinition="VER12">VER12</Variable>
+  <Variable
+    Name="CAR46A"
+    Comment="Cambridge RIE RHA"
+    EvaluatedDefinition="CAR46A">CAR46A</Variable>
+  <Variable
+    Name="BEB60"
+    Comment="BTE"
+    EvaluatedDefinition="BEB60">BEB60</Variable>
+  <Variable
+    Name="BEB70"
+    Comment="BTE"
+    EvaluatedDefinition="BEB70">BEB70</Variable>
+  <Variable
+    Name="CAR13A"
+    Comment="Cambridge RIE"
+    EvaluatedDefinition="CAR13A">CAR13A</Variable>
+  <Variable
+    Name="CAR12A"
+    Comment="Cambridge RIE"
+    EvaluatedDefinition="CAR12A">CAR12A</Variable>
+  <Variable
+    Name="C-x"
+    EvaluatedDefinition="[Charger type]"
+    Comment="Hearing aid charger type">[Charger type]</Variable>
+  <Variable
+    Name="C-x"
+    Comment="Apollo 5 Charger"
+    EvaluatedDefinition="C-1">C-1</Variable>
+  <Variable
+    Name="C-x"
+    Comment="Apollo 6 Charger"
+    EvaluatedDefinition="C-2">C-2</Variable>
+  <Variable
+    Name="C-x"
+    Comment="Apollo 6.1 Desktop charger"
+    EvaluatedDefinition="C-3">C-3</Variable>
+  <Variable
+    Name="CAIR Left"
+    Comment="CAIR1 03 Thorium Left Custom RHA"
+    EvaluatedDefinition="CAIR1L">CAIR1L</Variable>
+  <Variable
+    Name="C-x"
+    Comment="Apollo 7 Custom Charger"
+    EvaluatedDefinition="C-4">C-4</Variable>
+  <Variable
+    Name="CABR70"
+    Comment="Cambridge BTE RHA 70"
+    EvaluatedDefinition="CABR70">CABR70</Variable>
+  <Variable
+    Name="CABR80"
+    Comment="Cambridge BTE RHA 80"
+    EvaluatedDefinition="CABR80">CABR80</Variable>
+  <Variable
+    Name="CAIR Right"
+    Comment="CAIR1 03 Thorium Right Custom RHA"
+    EvaluatedDefinition="CAIR1R">CAIR1R</Variable>
+  <Variable
+    Name="CAIR1"
+    Comment="CAIR1 03 Thorium Custom RHA (R&amp;L)"
+    EvaluatedDefinition="CAIR1">CAIR1</Variable>
+  <Variable
+    Name="CARR1"
+    Comment="Cambridge RIE RHA (Hassium 2 and 3)"
+    EvaluatedDefinition="CARR1">CARR1</Variable>
+  <Variable
+    Name="CAI10"
+    Comment="Thorium non-WL, z-a battery custom HA"
+    EvaluatedDefinition="CAI10">CAI10</Variable>
+  <Variable
+    Name="CAR46 03 Q"
+    Comment="OTC variant of CAR46A"
+    EvaluatedDefinition="CAR46 03 Q">CAR46 03 Q</Variable>
+  <Variable
+    Name="LXR45 02 Q"
+    Comment="OTC variant of LXR45"
+    EvaluatedDefinition="LXR45 02 Q">LXR45 02 Q</Variable>
+  <Variable
+    Name="VER12 02 Q"
+    Comment="VER12"
+    EvaluatedDefinition="VER12 02 Q">VER12 02 Q</Variable>
+  <Variable
+    Name="DURR1"
+    Comment="DURR1 04 Dundee (Palladium micro 60S RIE RHI)"
+    EvaluatedDefinition="DURR1">DURR1</Variable>
+  <Variable
+    Name="CARR1 04 Q"
+    Comment="OTC variant of CARR1"
+    EvaluatedDefinition="CARR1 04 Q">CARR1 04 Q</Variable>
+  <Variable
+    Name="DURR1 04 Q"
+    Comment="OTC variant of DURR1"
+    EvaluatedDefinition="DURR1 04 Q">DURR1 04 Q</Variable>
+  <Variable
+    Name="LHI12 04"
+    Comment="Lhasa CUST non-RHA (Rhodium)"
+    EvaluatedDefinition="LHI12 04">LHI12 04</Variable>
+  <Variable
+    Name="DURR1A"
+    Comment="Gallium RIE RHA Dundee 2"
+    EvaluatedDefinition="DURR1A">DURR1A</Variable>
+  <Variable
+    Name="DURR1B"
+    Comment="Gallium RIE RHA pp9 AI"
+    EvaluatedDefinition="DURR1B">DURR1B</Variable>
+  <Variable
+    Name="DURR1 04 Q"
+    Comment="" />
+  <Variable
+    Name="DURR1 04 X"
+    Comment="OTC Self-fit 550"
+    EvaluatedDefinition="DURR1 04 X">DURR1 04 X</Variable>
+  <Variable
+    Name="CARR1 04 X"
+    Comment="OTC Self-fit 150, 350"
+    EvaluatedDefinition="CARR1 04 X">CARR1 04 X</Variable>
+</CatapultVariableSet>

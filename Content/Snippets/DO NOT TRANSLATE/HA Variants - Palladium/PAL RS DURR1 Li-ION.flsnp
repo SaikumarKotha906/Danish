@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Powersource.Rechargeable">
+    <body>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 9">NX960S-DRWC, </MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 7">NX760S-DRWC, </MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 5">NX560S-DRWC</MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 4">, NX460S-DRWC</MadCap:conditionalText>.&#160;</body>
+</html>

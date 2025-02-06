@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;">Hvis du hører brummen i dine høreapparater efter tilslutning til <MadCap:variable name="CrossBrand_WirelessAccessories.TV_Streamer"></MadCap:variable> via lydkablet, skal du gøre følgende for at afhjælpe problemet:</p>
+        <div class="steps_indent">
+            <p class="bullet_list" MadCap:autonum="•">Tilslut <MadCap:variable name="CrossBrand_WirelessAccessories.TV_Streamer"></MadCap:variable> til tv'et via det digitale (optiske) kabel</p>
+            <p class="bullet_list" MadCap:autonum="•">Brug en ekstern strømkilde</p>
+            <p class="bullet_list" MadCap:autonum="•">Skru op for lyden på tv'et og ned i dine høreapparater.</p>
+        </div>
+    </body>
+</html>

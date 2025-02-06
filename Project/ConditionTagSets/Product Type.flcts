@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    Comment=""
+    Name="Accessories only"
+    BackgroundColor="#ee82ee" />
+  <ConditionTag
+    Comment=""
+    Name="Hearing aids only"
+    BackgroundColor="#008b8b" />
+  <ConditionTag
+    BackgroundColor="#00ffff"
+    Name="LP"
+    Comment="Low Power HA or receiver"
+    OriginalName="LP" />
+  <ConditionTag
+    BackgroundColor="#87ff7f"
+    Name="MP"
+    Comment="Medium Power HA or receiver"
+    OriginalName="MP" />
+  <ConditionTag
+    BackgroundColor="#ffbc00"
+    Name="HP"
+    Comment="High Power HA or receiver"
+    OriginalName="HP" />
+  <ConditionTag
+    BackgroundColor="#ff0030"
+    Name="UP"
+    Comment="Ultra Power HA or receiver"
+    OriginalName="UP" />
+  <ConditionTag
+    BackgroundColor="#ff7f50"
+    Name="B&amp;RIE"
+    Comment="Active Vent"
+    OriginalName="B&amp;RIE" />
+  <ConditionTag
+    BackgroundColor="#1e90ff"
+    Name="M&amp;RIE"
+    Comment="Mic on Receiver"
+    OriginalName="M&amp;RIE" />
+  <ConditionTag
+    BackgroundColor="#ad00ff"
+    Name="BTE w_Hook"
+    Comment="BTE variant with hook and standard tube"
+    OriginalName="BTE w_Hook" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="BTE w_thin_tube"
+    Comment="BTE variant with thin tube - no hook"
+    OriginalName="BTE w_thin_tube" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Domes"
+    Comment="Domes"
+    OriginalName="Domes" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Direct Audio Input"
+    Comment="DAI" />
+  <ConditionTag
+    BackgroundColor="#ff9d00"
+    Name="Wireless"
+    Comment="Wireless hearing aid (w/Bluetooth etc.)" />
+  <ConditionTag
+    BackgroundColor="#ff3700"
+    Name="Non-wireless"
+    Comment="Classic non-wireless, no Bluetooth etc." />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="TV Streamer"
+    Comment="TV Streamer" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Multi-Mic"
+    Comment="Multi-Mic" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="Prescription HAs"
+    Comment="For FDA regulated HAs: Hearing Aids requiring prescription. Contrary to OTC (Over The Counter) HAs."
+    OriginalName="Prescription HAs" />
+  <ConditionTag
+    BackgroundColor="#d2691e"
+    Name="OTC HAs"
+    Comment="&quot;Over The Counter&quot; HAs. Currently only for USA. Contrary to Prescription HAs."
+    OriginalName="OTC HAs" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="All except OTC and Prescription HAs"
+    Comment="To exclude obsolete information from OTC and Prescription HA UGs. Include in all other UGs."
+    OriginalName="All except OTC and Prescription HAs" />
+  <ConditionTag
+    BackgroundColor="#9acd32"
+    Name="All except OTC HAs"
+    Comment="To exclude information not relevant for OTC HAs. Include in all other UGs (incl. Prescription HAs)."
+    OriginalName="All except OTC HAs" />
+  <ConditionTag
+    BackgroundColor="#7fffd4"
+    Name="TV Streamer 2"
+    Comment="TV Streamer 2" />
+</CatapultConditionTagSet>

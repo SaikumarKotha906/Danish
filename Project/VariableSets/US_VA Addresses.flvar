@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Comment="GN US office address" Name="Road" EvaluatedDefinition="8001 E Bloomington Freeway">8001 E Bloomington Freeway</Variable>
+  <Variable Comment="GN US office address" Name="Town" EvaluatedDefinition="Bloomington, MN 55420">Bloomington, MN 55420</Variable>
+  <Variable Name="Telephone" Comment="" EvaluatedDefinition="1-800-392-9932">1-800-392-9932</Variable>
+  <Variable Name="Title" Comment="" EvaluatedDefinition="ReSound Government Services">ReSound Government Services</Variable>
+  <Variable Name="URL" Comment="" EvaluatedDefinition="[URL]">[URL]</Variable>
+  <Variable Name="URL" Comment="Resound HCP, FSW, Apps" EvaluatedDefinition="gs.resound.com">gs.resound.com</Variable>
+  <Variable Name="Country" Comment="" EvaluatedDefinition="USA">USA</Variable>
+  <Variable Name="e-mail" Comment="" EvaluatedDefinition="[e-mail]">[e-mail]</Variable>
+  <Variable Name="e-mail" Comment="OTC" EvaluatedDefinition="support@jabraenhance.com">support@jabraenhance.com</Variable>
+  <Variable Name="URL" Comment="Consumers" EvaluatedDefinition="resound.com/veterans">resound.com/veterans</Variable>
+  <Variable Name="URL" Comment="FSW US" EvaluatedDefinition="resoundpro.com">resoundpro.com</Variable>
+</CatapultVariableSet>

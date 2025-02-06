@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="SubHeader">Tilslutning af enhed og høreapparats-appen</p>
+        <p>Enheden kan styres via samme app som til dine høreapparater.</p>
+        <p>Det vil gøre det muligt for dig at starte og stoppe streamingen samt justere lydstyrken via appen.</p>
+        <p MadCap:conditions="Product Type.TV Streamer">Appen gør det muligt at foretage en række forskellige indstillinger som fx Auracast™-lyd og forsinkelsestilstand.</p>
+        <p>Appen vil om nødvendigt give besked om firmwareopdateringer og produktforbedringer.</p>
+        <p>Download appen, eller kontakt din høreapparatspecialist for yderligere oplysninger.</p>
+        <p class="note" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;">Enheder fra partnere har muligvis ikke den samme appfunktionalitet.</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Regional/Brazil/Brazil.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" conditions="Markets._All-Markets,Markets.BRA" ReplaceMergeNode="false" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Regional/Russia/Russian Warranty/Warranty Hearing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Regional/Slovakia/Slovakian Warranty/Warranty SK.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+</CatapultToc>

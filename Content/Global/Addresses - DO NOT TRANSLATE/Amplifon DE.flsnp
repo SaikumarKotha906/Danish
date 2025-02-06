@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Brands.Amplifon">
+    <head>
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../../Addresses/Manufacturer.flsnp" />
+        <div class="forced_column_break">
+            <p class="AddressLine">
+                <MadCap:snippetText src="../../Addresses/Distributed by.flsnp" />
+            </p>
+        </div>
+        <MadCap:snippetBlock src="../../Addresses/ManufacturerIcon.flsnp" />
+        <MadCap:snippetBlock src="Addresses/WorldwideHeadquarters.flsnp" />
+        <MadCap:snippetBlock src="Addresses/World HQ_AMP distrib by.flsnp" />
+        <MadCap:snippetBlock src="../../Addresses/Local contacts.flsnp" />
+        <MadCap:snippetBlock src="Addresses/Local contacts/AMP Germany.flsnp" />
+        <MadCap:snippetBlock src="Addresses/Local contacts/AMP Switzerland.flsnp" />
+        <MadCap:snippetBlock src="Addresses/Local contacts/Switzerland German CHREP.flsnp" MadCap:conditions="Symbols.CH-REP" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+    </body>
+</html>

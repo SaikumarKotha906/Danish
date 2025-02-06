@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:conditions="Brands.COSTCO Kirkland" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../../Addresses/Manufacturer.flsnp" />
+                <MadCap:snippetBlock src="../../Addresses/Manufacturer US FDA.flsnp" />
+        <MadCap:snippetBlock src="../../Addresses/Manufacturer CA.flsnp" />
+        <MadCap:snippetBlock src="../../Addresses/ManufacturerIcon.flsnp" />
+        <MadCap:snippetBlock src="Addresses/WorldwideHeadquarters.flsnp" />
+        <MadCap:snippetBlock src="Addresses/HQ Costco KA US.flsnp" />
+        <MadCap:snippetBlock src="Addresses/HQ Costco KA CA.flsnp" />
+        <MadCap:snippetBlock src="../../Addresses/Local contacts.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+        <MadCap:snippetBlock src="Misc/Ghost.flsnp" />
+    </body>
+</html>

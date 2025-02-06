@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileTagSet
+  Type="Classification"
+  Comment="My set of author tags">
+  <FileTag
+    Name="RegulatoryInformation"
+    Comment="Regulatory requirements, topic and snippets" />
+</CatapultFileTagSet>

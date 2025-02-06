@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  conditions="GlobalImport.Import">
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Internal"
+    Comment="TC_DONT_TRANSLATE_anything" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="One-model_UG"
+    Comment="singular form for model type etc." />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="More-models_UG"
+    Comment="plural form for model types etc." />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="TechSpecs_105_105"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="TechSpecs_148_105"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#08b4b4"
+    Name="MDR"
+    Comment="Conforms to Medical Device REGULATION"
+    OriginalName="MDR" />
+  <ConditionTag
+    BackgroundColor="#d01d33"
+    Name="MDD"
+    Comment="Conforms to Medical Device DIRECTIVE (older)"
+    OriginalName="MDD" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="DateOfIssuance"
+    Comment="Field on the back covers." />
+  <ConditionTag
+    BackgroundColor="#6495ed"
+    Name="TechSpecs_115_115"
+    Comment=""
+    OriginalName="TechSpecs_115_115" />
+  <ConditionTag
+    BackgroundColor="#00bf2f"
+    Name="TechSpecs_95_95"
+    Comment=""
+    OriginalName="TechSpecs_95_95" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Grey_box_App_UG"
+    Comment="Large grey box A4 page" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Danavox_148_105"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00fffb"
+    Name="KA model name"
+    Comment="To be able to remove model name, for example &quot;Model 88&quot;, from KA UG if not part of the KA nomenclature" />
+  <ConditionTag
+    BackgroundColor="#7fffd4"
+    Name="TechSpecs_90_100"
+    Comment="" />
+</CatapultConditionTagSet>

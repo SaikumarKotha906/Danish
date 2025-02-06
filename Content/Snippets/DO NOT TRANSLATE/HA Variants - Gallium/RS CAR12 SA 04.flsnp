@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="TC_DONT_TRANSLATE._anything">
+    <body>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 4">SA461-DRW,</MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 3"> SA361-DRW,</MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Price point 2"> SA261-DRW,</MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="RS Price points.Flex demo model">
+		SAX61-DRW</MadCap:conditionalText>.</body>
+</html>

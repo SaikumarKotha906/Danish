@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Comment="" Name="Road" EvaluatedDefinition="8001 E Bloomington Freeway">8001 E Bloomington Freeway</Variable>
+  <Variable Comment="" Name="Town" EvaluatedDefinition="Bloomington, MN 55420">Bloomington, MN 55420</Variable>
+  <Variable Name="Telephone" Comment="" EvaluatedDefinition="[Phone]">[Phone]</Variable>
+  <Variable Name="Telephone" Comment="RESOUND: HCP-Facing Materials, FSW, Apps" EvaluatedDefinition="(800) 248-4327">(800) 248-4327</Variable>
+  <Variable Name="Telephone" Comment="RESOUND: Consumers" EvaluatedDefinition="(888) 735-4327">(888) 735-4327</Variable>
+  <Variable Name="Title" Comment="" EvaluatedDefinition="[Title]">[Title]</Variable>
+  <Variable Name="Title" Comment="Beltone" EvaluatedDefinition="Beltone">Beltone</Variable>
+  <Variable Name="Title" Comment="GNH" EvaluatedDefinition="GN Hearing">GN Hearing</Variable>
+  <Variable Name="URL" Comment="" EvaluatedDefinition="[URL]">[URL]</Variable>
+  <Variable Name="URL" Comment="GN Hearing - Jabra (Costco), Patient-Facing Materials, Jabra Enhance Pro only" EvaluatedDefinition="jabra.com/enhancepro">jabra.com/enhancepro</Variable>
+  <Variable Name="URL" Comment="Resound" EvaluatedDefinition="resound.com">resound.com</Variable>
+  <Variable Name="URL" Comment="Jabra Enhance Select (JES), Patient-Facing Materials, OTC" EvaluatedDefinition="jabraenhance.com">jabraenhance.com</Variable>
+  <Variable Name="URL" Comment="Beltone" EvaluatedDefinition="beltone.com">beltone.com</Variable>
+  <Variable Name="Title" Comment="OTC" EvaluatedDefinition="GN Consumer Hearing Corporation dba Jabra Enhance">GN Consumer Hearing Corporation dba Jabra Enhance</Variable>
+  <Variable Name="Title" Comment="Resound" EvaluatedDefinition="GN ReSound North America">GN ReSound North America</Variable>
+  <Variable Name="Country" Comment="" EvaluatedDefinition="USA">USA</Variable>
+  <Variable Name="e-mail" Comment="" EvaluatedDefinition="[e-mail]">[e-mail]</Variable>
+  <Variable Name="e-mail" Comment="GN Hearing Care Corporation dba Jabra Enhance, Patient Facing Materials" EvaluatedDefinition="support@jabraenhance.com">support@jabraenhance.com</Variable>
+  <Variable Name="Telephone" Comment="Jabra Enhance Select (JES), Patient-Facing Materials, OTC" EvaluatedDefinition="(800) 854-2772">(800) 854-2772</Variable>
+  <Variable Name="Telephone" Comment="BELTONE: HCP- and Patient-Facing Materials" EvaluatedDefinition="1-800-BELTONE">1-800-BELTONE</Variable>
+  <Variable Name="Telephone" Comment="AUDIGY: Patient-Facing Materials, Customers" EvaluatedDefinition="1-888-886-6570">1-888-886-6570</Variable>
+  <Variable Name="URL" Comment="ReSound (Costco) and GN Hearing - Jabra (Costco), legacy materials, HCP" EvaluatedDefinition="future.resound.com">future.resound.com</Variable>
+  <Variable Name="URL" Comment="GN Hearing - Jabra (Costco), new/updated materials, HCP" EvaluatedDefinition="vsgnresound.com">vsgnresound.com</Variable>
+  <Variable Name="Telephone" Comment="Jabra Enhance Pro (JEP)" EvaluatedDefinition="1-800-882-3636">1-800-882-3636</Variable>
+  <Variable Name="URL" Comment="GN Hearing - Jabra (Costco), Patient-Facing Materials" EvaluatedDefinition="jabra.com/hearing">jabra.com/hearing</Variable>
+  <Variable Name="URL" Comment="KIRKLAND SIGNATURE (Costco): HCP- and Patient-Facing Materials" EvaluatedDefinition="costco.com">costco.com</Variable>
+  <Variable Name="Telephone" Comment="KIRKLAND SIGNATURE (Costco): HCP- and Patient-Facing Materials" EvaluatedDefinition="1-800-774-2678">1-800-774-2678</Variable>
+  <Variable Name="Telephone" Comment="AUDIGY: HCP-Facing Materials, FSW, apps" EvaluatedDefinition="1-888-879-7260">1-888-879-7260</Variable>
+  <Variable Name="Title" Comment="Audigy (AGX, HBM)" EvaluatedDefinition="Audigy">Audigy</Variable>
+  <Variable Name="e-mail" Comment="Consumers" EvaluatedDefinition="consumerhelp@gnresound.com">consumerhelp@gnresound.com</Variable>
+  <Variable Name="e-mail" Comment="HCP" EvaluatedDefinition="gnresound@gnresound.com">gnresound@gnresound.com</Variable>
+  <Variable Name="Telephone" Comment="RESOUND: Consumers" EvaluatedDefinition="1-888-735-4327">1-888-735-4327</Variable>
+</CatapultVariableSet>

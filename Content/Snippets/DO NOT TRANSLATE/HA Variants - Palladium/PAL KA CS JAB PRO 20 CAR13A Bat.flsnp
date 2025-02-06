@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Powersource.Battery,FormFactors.RIE 62">
+    <body><![CDATA[
+        ]]><MadCap:conditionalText MadCap:conditions="RS Price points.Price point 9">EP262</MadCap:conditionalText></body>
+</html>

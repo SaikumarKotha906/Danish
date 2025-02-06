@@ -1,0 +1,2379 @@
+﻿/*<meta />*/
+
+@import url('Alerts.css');
+
+/* GN Hearing A/S stylesheet*/
+/* Maintained by Matthew Ellison, Thomas Bro-Rasmussen, & Scott DeLoach */
+/* ---------- Variables ---------- */
+
+:root
+{
+	--blackcolor: device-cmyk(0,0,0,100);
+	/* #000000; */
+	--brandcolor: device-cmyk(100,26,0,36);
+	/* #0078a2; */
+	--footercolor: device-cmyk(0,0,0,65);
+	/* device-cmyk(0,0,0,65); #595959; 65% black */
+	--regulatorycolor: device-cmyk(0,16,100,0);
+	/* #ffd700; */
+	--basefont: 7pt;
+	--basefontopensans: 7.1pt;
+	/* not used */
+	--basefontlineheight: 9.5pt;
+	--indent: 4mm;
+	--doubleindent: 8mm;
+}
+
+/* ---------- END of Variables ---------- */
+
+body
+{
+	font-family: "Open Sans Light", Helvetica, sans-serif;
+	margin-left: 0;
+	margin-right: 0;
+	widows: 2;
+	orphans: 2;
+	font-size: var(--basefont);
+	mc-hyphenate: never;
+}
+
+/* Links */
+
+a:link
+{
+	color: var(--blackcolor);
+	text-decoration: none;
+}
+
+a:visited
+{
+	text-decoration: none;
+	color: var(--blackcolor);
+}
+
+a:hover
+{
+	color: var(--blackcolor);
+	text-decoration: none;
+}
+
+/* End links */
+
+span.bold
+{
+	/*	font-weight: bold; */
+	font-family: "Open Sans Semibold";
+}
+
+span.italic
+{
+	font-style: italic;
+}
+
+/* ---------- Footer ---------- */
+
+span.footer_page_number
+{
+	font-size: var(--basefont);
+	margin-right: 3mm;
+}
+
+span.footer_text
+{
+	color: var(--footercolor);
+	font-size: 6.5pt;
+}
+
+p
+{
+	line-height: var(--basefontlineheight);
+	text-align: left;
+	margin-bottom: 6pt;
+	widows: 2;
+	orphans: 2;
+	color: device-cmyk(0,0,0,100);
+	mc-hyphenate: never;
+	font-size: var(--basefont);
+}
+
+p.center
+{
+	text-align: center;
+}
+
+p.figuretext
+{
+	font-style: italic;
+}
+
+p.techspec_header
+{
+	font-size: 11.5pt;
+	font-weight: bold;
+	color: black;
+	padding-bottom: -3pt;
+}
+
+p.pagefooter
+{
+	padding-top: 4pt;
+}
+
+/* ---------- Back page ---------- */
+
+p.backpage_cover_logo
+{
+	text-align: right;
+	margin-top: 0;
+	frame-break-after: always;
+	margin-bottom: 10pt;
+}
+
+p.backpage_cover_logo img
+{
+	width: 25mm;
+	height: auto;
+}
+
+p.backpage_cover_logo img.backpage_logo_australia
+{
+	width: 45mm;
+	height: auto;
+}
+
+p.backpage_cover_logo img.backpage_logo_multisound
+{
+	width: auto;
+	height: 9mm;
+}
+
+p.CE_backpage_text
+{
+	margin-top: -5pt;
+	font-size: 5pt;
+	line-height: 5pt;
+	letter-spacing: 0.2pt;
+}
+
+p.backpage_text_new_frame
+{
+	mc-hyphenate: never;
+	margin-top: 0pt;
+	margin-bottom: 10pt;
+	font-size: 5pt;
+	line-height: 7pt;
+	frame-break-before: always;
+}
+
+/* ---------- Cover page ---------- */
+
+p.danavox_title
+{
+	mc-hyphenate: never;
+	margin-top: 0pt;
+	margin-bottom: 10pt;
+	font-size: 12pt;
+	line-height: 7pt;
+	frame-break-before: always;
+}
+
+p.book_title1
+{
+	padding-left: -0.5mm;
+	padding-top: 12pt;
+	margin-bottom: 4pt;
+	font-size: 18pt;
+}
+
+p.book_title2
+{
+	padding-left: -0.2mm;
+}
+
+p.cover_logo
+{
+	position: absolute;
+	top: 0;
+	text-align: right;
+}
+
+p.cover_logo img
+{
+	width: 30mm;
+	height: auto;
+}
+
+p.cover_logo img.backpage_logo_australia
+{
+	width: 50mm;
+	height: auto;
+}
+
+p.cover_icon,
+p.cover_icon_two_icon,
+p.cover_icon_costco
+{
+	position: absolute;
+	bottom: 0;
+	bottom: -2mm;
+	/* extra padding in images */
+}
+
+p.cover_icon_costco
+{
+	position: fixed;
+}
+
+p.cover_icon img
+{
+	width: 38mm;
+	height: auto;
+}
+
+p.cover_icon_costco img
+{
+	width: 38mm;
+	height: auto;
+	padding-top: -16mm;
+}
+
+/* ADDED SD 2/5/24 for two families (amplifon) */
+
+p.cover_icon_two_icon
+{
+	text-align: center;
+}
+
+/* ADDED SD 2/5/24 for two families (amplifon) */
+
+p.cover_icon_two_icon img
+{
+	width: 38mm;
+	height: auto;
+}
+
+p.cover_title1
+{
+	font-family: "Open Sans";
+	font-size: 13pt;
+	line-height: 1.22;
+	margin-bottom: 20pt;
+}
+
+p.cover_title1 + p.cover_title1	/* two products on cover */
+{
+	margin-top: -9pt;
+}
+
+p.cover_title2
+{
+	font-size: 11pt;
+}
+
+p.cover_title3
+{
+	font-size: 11pt;
+}
+
+p.cover_title4
+{
+	font-size: 9pt;
+	margin-bottom: 16pt;
+}
+
+/* ADDED SD 2/5/24 to replace bottom border (more flexible option) */
+
+hr.cover
+{
+	border-top: .5pt solid black;
+	border-bottom: none;
+	border-radius: 0;
+	border-left: none;
+	border-right: none;
+}
+
+p.cover_os
+{
+	position: absolute;
+	bottom: -2mm;
+	text-align: right;
+}
+
+img.cover_apple
+{
+	height: 7mm;
+	width: auto;
+	margin-right: var(--indent);
+}
+
+img.cover_android
+{
+	height: 7mm;
+	width: auto;
+}
+
+/* ---------- Headings ---------- */
+
+h1,
+h2,
+h3,
+h4
+{
+	font-family: "Open Sans";
+	mc-hyphenate: never;
+	text-align: left;
+	page-break-inside: avoid;
+	page-break-after: avoid;
+	line-height: 113%;
+	font-weight: normal;
+}
+
+h1
+{
+	margin-top: 0;
+	font-size: 15pt;
+	page-break-before: always;
+	margin-bottom: 12.5pt;
+	/* padding-right: 10pt; */
+}
+
+h2
+{
+	font-size: 11pt;
+	margin-bottom: 4pt;
+	mc-heading-level: 0;
+	margin-top: 15pt;
+}
+
+h3
+{
+	font-size: 8.5pt;
+	margin-bottom: -4pt;
+	mc-heading-level: 0;
+	margin-top: 9pt;
+}
+
+h4
+{
+	font-size: 8.5pt;
+	mc-heading-level: 0;
+	font-weight: normal;
+	margin-top: 9pt;
+	mc-heading-level: 0;
+}
+
+h1 + table,
+h2 + table,
+h3 + table
+{
+	margin-top: -5px;
+}
+
+p.SubHeader
+{
+	font-family: "Open Sans Semibold";
+	/*	font-weight: bold; */
+	margin-top: 9pt;
+	padding-bottom: -4pt;
+	page-break-after: avoid;
+	mc-next-tag: p;
+	mc-next-class: ' ';
+}
+
+
+p.ItalicHeader
+{
+	font-weight: normal;
+	font-style: italic;
+	font-family: 'Open Sans Light';
+	margin-top: 11pt;
+	padding-bottom: -3pt;
+	page-break-after: avoid;
+	mc-next-tag: p;
+	mc-next-class: ' ';
+}
+
+/* ---------- Images ---------- */
+
+img.icon
+{
+	height: auto;
+	width: 6mm;
+}
+
+img.icon_ce
+{
+	height: auto;
+	width: 24px;
+	width: 6mm;
+	padding-top: 2.3mm;
+}
+
+img.icon_notes
+{
+	height: 7pt;
+	width: auto;
+}
+
+img.alerts
+{
+	width: 6.2mm;
+	height: auto;
+	vertical-align: top;
+	padding-left: -9.5mm;
+	padding-top: -5.1mm;
+	mc-float: outside-left;
+}
+
+img.apple_google
+{
+	width: auto;
+	height: 10mm;
+	padding-bottom: 9mm;
+	padding-top: 9mm;
+	padding-left: 10mm;
+}
+
+table img.alerts
+{
+	/* padding-top: -2.6mm; */
+	padding-left: -7.5mm;
+}
+
+h1 img.icon_in_headings,
+h2 img.icon_in_headings,
+h3 img.icon_in_headings,
+h4 img.icon_in_headings,
+h5 img.icon_in_headings,
+h6 img.icon_in_headings
+{
+	height: auto;
+	width: 6mm;
+	padding-right: 5pt;
+	padding-bottom: -0.5pt;
+}
+
+img.table
+{
+	width: 92%;
+	height: auto;
+}
+
+img.symbols	/* revised 4/15/24 */
+{
+	max-width: 5mm;
+	max-height: auto;
+	padding-top: 0;
+}
+
+img.logo_24mm
+{
+	width: 24mm;
+	height: auto;
+}
+
+img.width_16mm
+{
+	width: 16mm;
+	height: auto;
+}
+
+img.width_23mm
+{
+	width: 23mm;
+	height: auto;
+}
+
+img.width_29mm
+{
+	width: 29mm;
+	height: auto;
+}
+
+img.width_33mm
+{
+	width: 33mm;
+	height: auto;
+}
+
+img.width_37mm
+{
+	width: 37mm;
+	height: auto;
+}
+
+img.height_33
+{
+	width: auto;
+	height: 33mm;
+}
+
+img.height_60
+{
+	width: auto;
+	height: 60mm;
+}
+
+img.apple
+{
+	height: 10mm;
+	width: auto;
+}
+
+img.cover
+{
+	width: 100%;
+	height: auto;
+	margin-top: -5pt;
+	margin-left: 0pt;
+}
+
+img.barcode
+{
+	/*width: 22mm; */
+	width: 33mm;
+	height: auto;
+	/* margin-top: -14pt; */
+	margin-top: -36pt;
+	margin-left: -42pt;
+	padding-right: 1pt;
+	padding-bottom: var(--indent);
+}
+
+img.barcode-big
+{
+	/* width: 16mm; */
+	width: 24mm;
+	height: auto;
+	/*	margin-top: -14pt; */
+	margin-top: -38pt;
+	margin-left: -22pt;
+	padding-right: 1pt;
+	padding-bottom: var(--indent);
+}
+
+img.manufacturer_hq
+{
+	width: 4.2mm;
+	height: auto;
+	vertical-align: top;
+}
+
+/* ---------- Lists ---------- */
+
+p.step_1,
+p.step_2,
+p.step_5,
+p.step_7
+{
+	margin-left: var(--indent);
+	margin-bottom: -3pt;
+	mc-auto-number-position: outside-head;
+	mc-auto-number-offset: var(--indent);
+	page-break-inside: avoid;
+	mc-next-tag: p;
+	mc-next-class: step_2;
+}
+
+p.step_1
+{
+	mc-auto-number-format: 'S:{n=1}.';
+}
+
+p.step_2
+{
+	mc-auto-number-format: 'S:{n+}.';
+}
+
+/*Used specifically in ITC-ITE_RHA.htm*/
+
+p.step_5
+{
+	mc-auto-number-format: 'S:{n=5}.';
+}
+
+/*Used specifically in ITC-ITE_RHA.htm*/
+
+p.step_7
+{
+	mc-auto-number-format: 'S:{n=7}.';
+}
+
+p.step_a,
+p.step_b,
+p.caption_a,
+p.caption_b
+{
+	mc-next-tag: p;
+	mc-next-class: step_b;
+	margin-left: var(--doubleindent);
+	margin-bottom: -3pt;
+	mc-auto-number-position: outside-head;
+	mc-auto-number-offset: var(--indent);
+	page-break-inside: avoid;
+}
+
+p.step_a
+{
+	mc-auto-number-format: 'A:{a=1}.';
+}
+
+span.bullet
+{
+	font-size: 10pt;
+	display: inline-block;
+	/* position: absolute; causes issue in tables */
+	top: 2px;
+	left: -15px;
+}
+
+p.step_b
+{
+	mc-auto-number-format: 'A:{a+}.';
+}
+
+p.caption_a
+{
+	mc-auto-number-format: 'A:{A=1}.';
+}
+
+p.caption_b
+{
+	mc-auto-number-format: 'A:{A+}.';
+}
+
+p.bullet_list
+{
+	margin-left: 11pt;
+	margin-bottom: -3pt;
+	mc-auto-number-format: '•';
+	mc-auto-number-offset: 11pt;
+	mc-auto-number-position: outside-head;
+	mc-auto-number-class: bullet;
+	position: relative;
+}
+
+p.bullet_list + h1,
+p.bullet_list + h2,
+p.bullet_list + h3
+{
+	margin-top: 20px;
+}
+
+p.bullet_list + p.caution,
+p.bullet_list + p.warning
+{
+	margin-top: 12pt;
+}
+
+p.dash_list
+{
+	margin-left: var(--doubleindent);
+	margin-bottom: -3pt;
+	mc-auto-number-format: '–';
+	mc-auto-number-offset: 3.5mm;
+	mc-auto-number-position: outside-head;
+}
+
+table p.step_1,
+table p.step_2,
+table p.step_5,
+table p.step_7
+{
+	margin-left: var(--indent);
+	margin-bottom: -3pt;
+	mc-auto-number-offset: var(--indent);
+}
+
+/* ---------- Xrefs ---------- */
+
+MadCap|xref
+{
+	mc-format: '{paratext}';
+}
+
+/* Text found in Alerts.css */
+
+MadCap|xref.SeeAlso
+{
+	color: var(--blackcolor);
+	text-decoration: none;
+}
+
+MadCap|xref.See
+{
+	color: var(--blackcolor);
+	text-decoration: none;
+}
+
+MadCap|xref.page
+{
+	color: var(--blackcolor);
+	text-decoration: none;
+}
+
+MadCap|xref.Seepage
+{
+	color: var(--blackcolor);
+	text-decoration: none;
+}
+
+MadCap|xref.IndexPageNumber
+{
+	mc-format: ' page {page}';
+}
+
+/* ----------- Table of Contents ----*/
+
+MadCap|tocProxy
+{
+	mc-toc-depth: 1;
+	padding-top: 0;
+	page-break-before: avoid;
+	page-break-after: always;
+	border-top: none;
+	padding-left: 0;
+}
+
+p.TOC_header
+{
+	text-align: center;
+	font-size: 14pt;
+	margin-top: 0px;
+	mc-heading-level: 0;
+	margin-bottom: 10pt;
+}
+
+p.TOC1
+{
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 1mm;
+	font-weight: normal;
+}
+
+p.TOC2	/* not used */
+{
+	margin-left: 10pt;
+	margin-bottom: -2pt;
+	mc-leader-format: 'dot';
+	mc-leader-offset: 10mm;
+}
+
+p.TOC3	/* not used */
+{
+	margin-left: 20pt;
+	margin-bottom: -2pt;
+	mc-leader-format: 'dot';
+	mc-leader-offset: 10mm;
+}
+
+h1.h1_NoTOC
+{
+	mc-heading-level: 0;
+	padding-bottom: 5pt;
+}
+
+/* ---------- BackPage ---------- */
+
+img.backpage_logo
+{
+	width: 20mm;
+	height: auto;
+}
+
+img.backpage_logo_australia
+{
+	width: 50mm;
+	height: auto;
+}
+
+p.AddressTitle
+{
+	font-weight: bold;
+	font-size: 5pt;
+	line-height: 5pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	letter-spacing: 0.2pt;
+	column-break-before: always;
+}
+
+p.AddressLine
+{
+	font-size: 5pt;
+	line-height: 5pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	letter-spacing: 0.2pt;
+}
+
+p.AddressLineManufacturer
+{
+	font-size: 5pt;
+	line-height: 5pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	margin-right: 10pt;
+	letter-spacing: 0.2pt;
+}
+
+/* potential fix for very long manufacturer info. requires div around p.AddressLineManufacturer
+div.AddressLineManufacturerWrapper
+{
+	position: relative;
+	height: 5em;
+}
+			
+p.AddressLineManufacturer
+{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+*/
+
+p.LocalContacts
+{
+	font-size: 5pt;
+	line-height: 5pt;
+	text-align: left;
+	letter-spacing: 0.2pt;
+}
+
+/* ---------- DIVs ---------- */
+
+div.regulatory
+{
+	color: var(--brandcolor);
+}
+
+div.cover
+{
+	margin-top: 50mm;
+}
+
+div.keep_together
+{
+	page-break-inside: avoid;
+}
+
+div.forced_column_break
+{
+	column-break-before: always;
+}
+
+div.forced_frame_break
+{
+	frame-break-before: always;
+}
+
+div.framebreak_before_after
+{
+	frame-break-before: always;
+	frame-break-after: always;
+}
+
+div.framebreak_after
+{
+	frame-break-after: always;
+}
+
+div.TechSpecs
+{
+	margin-bottom: 2pt;
+	font-size: 4.5pt;
+	line-height: 5.3pt;
+}
+
+h1 + div.TechSpecs,
+h2 + div.TechSpecs,
+h3 + div.TechSpecs
+{
+	margin-top: 3pt;
+}
+
+h1 + div.keep_together h2
+{
+	margin-top: -10pt;
+}
+
+div.TechSpecs p
+{
+	padding-bottom: -5pt;
+	padding-top: -5pt;
+}
+
+div.Warranty
+{
+	font-size: var(--basefont);
+	line-height: var(--basefontlineheight);
+	padding-left: -8pt;
+	padding-right: -8pt;
+	page-break-before: always;
+}
+
+div.Warranty_PageBreak_Start
+{
+	page-break-before: right;
+	page-break-after: always;
+}
+
+div.Warranty_PageBreak_Middle
+{
+	page-break-before: right;
+	page-break-after: always;
+}
+
+div.Warranty_PageBreak_End
+{
+	page-break-before: right;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+}
+
+div.Warranty p
+{
+	padding-top: -2pt;
+}
+
+div.fda_warning
+{
+	padding-left: 6px;
+	padding-right: 6px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	border-style: solid;
+	border-width: 1pt;
+	border-color: device-cmyk(0,0,0,100);
+}
+
+p.russian
+{
+	mc-leader-format: '_';
+}
+
+div.steps_indent
+{
+	margin-left: var(--doubleindent);
+}
+
+div.steps_indent_20px
+{
+	margin-left: var(--indent);
+}
+
+/* ---------- Alerts ---------- */
+
+p.caution,
+p.warning,
+p.note
+{
+	orphans: 3;
+	widows: 2;
+	padding-left: var(--doubleindent);
+	padding-top: 8pt;
+	mc-auto-number-position: inside-head;
+	mc-next-class: ' ';
+	margin-bottom: -4px;
+}
+
+h2 + p.caution,
+h2 + p.warning,
+h3 + p.caution,
+h3 + p.warning
+{
+	margin-top: 6pt;
+}
+
+p.note
+{
+	padding-left: 0;
+}
+
+p.caution_table,
+p.warning_table,
+p.note_table
+{
+	orphans: 3;
+	widows: 1;
+	padding-left: 0mm;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	mc-auto-number-position: inside-head;
+	mc-next-class: ' ';
+}
+
+table p.caution,
+table p.warning
+{
+	padding-left: 7mm;
+	padding-top: 8pt;
+	mc-auto-number-position: inside-head;
+	mc-next-class: ' ';
+}
+
+/* ---- New Alert styles added by Matthew ---- */
+
+/* Warning headings */
+
+h1.warning,
+h2.warning,
+h3.warning,
+h4.warning
+{
+}
+
+h1.warning::before,
+h2.warning::before,
+h3.warning::before,
+h4.warning::before
+{
+	background-image: url('../../Global/Images/Symbols_Marks/Warning.eps');
+	background-repeat: no-repeat;
+	display: block;
+	height: 24px;
+	padding-top: 9px;
+	padding-left: 26px;
+}
+
+/* Styles for notes, warnings, and cautions containing multiple items */
+
+div.notes::before
+{
+	display: block;
+	font-weight: bold;
+	padding-top: 0;
+	padding-bottom: 5pt;
+}
+
+div.notes
+{
+	padding-top: 10pt;
+	/* padding-left: var(--doubleindent); */
+}
+
+div.warnings,
+div.cautions
+{
+	margin-top: 18pt;
+	padding-top: 1pt;
+	padding-left: var(--doubleindent);
+}
+
+div.warnings::before
+{
+	display: block;
+	font-weight: bold;
+	padding-left: 0;
+	padding-bottom: 0;
+}
+
+div.cautions::before
+{
+	display: block;
+	font-weight: bold;
+	padding-left: 0;
+	padding-bottom: 0;
+}
+
+div.notes p,
+div.notes p.note,
+div.notes p.bullet_list,
+div.warnings p,
+div.warnings p.warning,
+div.warnings p.bullet_list,
+div.cautions p,
+div.cautions p.caution,
+div.cautions p.bullet_list
+{
+	margin-top: 0;
+	margin-left: 11pt;
+	margin-bottom: 0;
+	padding: 0;
+	padding-top: 0.5em;
+	padding-bottom: 0.2em;
+	mc-auto-number-format: '•';
+	mc-auto-number-offset: 11pt;
+	mc-auto-number-position: outside-head;
+	mc-auto-number-class: bullet;
+	position: relative;
+}
+
+.warnings img.alerts,
+.cautions img.alerts
+{
+	padding-top: -2.2mm;
+	padding-bottom: 0;
+}
+
+/* Hide warning icons within individual warning items */
+
+/*
+.warnings p img.alerts,
+.cautions p img.alerts
+{
+	width: 0.1px;
+	height: 0.1px;
+}
+
+@media print
+{
+	.cautions p img.alerts,
+	.warnings p img.alerts
+	{
+		padding-left: -10cm;
+	}
+}
+
+*/
+.notes img.alerts
+{
+	display: none;
+}
+
+.cautions p img.alerts,
+.warnings p img.alerts
+{
+	mc-conditions: 'X_Checklists.Hide';
+}
+
+@media amplifon_opensans
+{
+	body
+	{
+		font-family: 'Open Sans', 'Open Sans Light', Helvetica, sans-serif;
+	}
+
+	a:link
+	{
+		color: var(--blackcolor);
+		text-decoration: none;
+	}
+
+	a:visited
+	{
+		text-decoration: none;
+		color: var(--blackcolor);
+	}
+
+	a:hover
+	{
+		color: var(--blackcolor);
+		text-decoration: none;
+	}
+
+	a:active
+	{
+		color: var(--blackcolor);
+		text-decoration: none;
+	}
+
+	p
+	{
+		line-height: 9pt;
+		margin-bottom: 7pt;
+	}
+
+	div.TechSpecs
+	{
+		margin-bottom: 2pt;
+		font-size: 4.5pt;
+		line-height: 5.3pt;
+	}
+
+	div.TechSpecs p
+	{
+		padding-bottom: -5pt;
+		padding-top: -5pt;
+	}
+
+	p.book_title1
+	{
+		padding-left: -0.5mm;
+		padding-top: 12pt;
+		margin-bottom: 4pt;
+		font-size: 18pt;
+	}
+
+	p.book_title2
+	{
+		padding-left: -0.2mm;
+	}
+}
+
+@media A4
+{
+	/* all fontsizes, margins, padding x 1.57 of default */
+
+	body
+	{
+		--basefont: 11pt;
+		--basefontlineheight: 16pt;
+		--indent: 8mm;
+		--doubleindent: 16mm;
+	}
+
+	p
+	{
+		margin-bottom: 16pt;
+	}
+
+	/* ---------- Footer ---------- */
+
+	span.footer_text
+	{
+		font-size: 10.5pt;
+	}
+
+	/* ---------- Cover page ---------- */
+
+	p.book_title1
+	{
+		margin-left: 0.35mm;
+		margin-bottom: 4pt;
+		font-size: 18pt;
+	}
+
+	p.book_title2
+	{
+		padding-left: -0.2mm;
+	}
+
+	p.pageheader_left
+	{
+		font-size: 90%;
+		text-align: left;
+	}
+
+	p.pageheader_right
+	{
+		font-size: 90%;
+		text-align: right;
+	}
+
+	p.cover_icon img
+	{
+		height: auto;
+		width: 100mm;
+	}
+
+	p.cover_title1
+	{
+		font-size: 30.6pt;
+		/* 20.4pt; */
+		margin-bottom: 31.4pt;
+	}
+
+	p.cover_title1 + p.cover_title1	/* two products on cover */
+	{
+		margin-top: -14pt;
+	}
+
+	p.cover_title2
+	{
+		font-size: 26pt;
+		/* 17.3pt; */
+	}
+
+	p.cover_title3
+	{
+		font-size: 26pt;
+		/* 17.3pt; */
+	}
+
+	p.cover_title4
+	{
+		font-size: 26pt;
+		/* 17.3pt; */
+	}
+
+	img.symbols
+	{
+		height: 12mm;
+		width: auto;
+	}
+
+	img.cover_apple
+	{
+		height: 10mm;
+		margin-right: var(--indent);
+	}
+
+	img.cover_android
+	{
+		height: 10mm;
+	}
+
+	/* ---------- Headings ---------- */
+
+	h1
+	{
+		font-family: "Open Sans Semibold";
+		font-size: 23.6pt;
+		margin-bottom: 0pt;
+		page-break-before: avoid;
+		margin-top: 50.2pt;
+	}
+
+	h2
+	{
+		font-size: 17.3pt;
+		margin-top: 23.6pt;
+		margin-bottom: -6.3pt;
+	}
+
+	h3
+	{
+		font-size: 13.3pt;
+		margin-top: 14.1pt;
+		margin-bottom: -6.3pt;
+	}
+
+	p.step_1 + h3,
+	p.step_2 + h3,
+	p.step_5 + h3,
+	p.step_7 + h3
+	{
+		margin-top: 18.81pt;
+	}
+
+	h4
+	{
+		font-size: 13.3pt;
+		margin-top: 14.1pt;
+	}
+
+	h1 + table,
+	h2 + table,
+	h3 + table
+	{
+		margin-top: -7.9px;
+	}
+
+	p.SubHeader
+	{
+		margin-top: 14.1pt;
+		padding-bottom: -6.3pt;
+	}
+
+	/* ---------- Images ---------- */
+
+	img.icon
+	{
+		height: auto;
+		width: 9mm;
+	}
+
+	img.icon_ce
+	{
+		height: auto;
+		width: 6mm;
+		padding-top: 6.3 mm;
+	}
+
+	img.symbols
+	{
+		height: 12mm;
+		width: auto;
+	}
+
+	img.A4_2col
+	{
+		height: auto;
+		width: 60%;
+	}
+
+	img.edge
+	{
+		height: 215mm;
+		width: auto;
+	}
+
+	img.icon_notes
+	{
+		height: 7pt;
+		width: auto;
+	}
+
+	img.alerts
+	{
+		width: 11mm;
+		padding-top: -9.4mm;
+	}
+
+	table img.alerts
+	{
+		padding-top: -1.6mm;
+	}
+
+	h1 img.icon_in_headings,
+	h2 img.icon_in_headings,
+	h3 img.icon_in_headings,
+	h4 img.icon_in_headings,
+	h5 img.icon_in_headings,
+	h6 img.icon_in_headings,
+	p.subheader img.icon_in_headings
+	{
+		height: auto;
+		width: 8.2mm;
+		padding-right: 5pt;
+		padding-bottom: -1.5pt;
+	}
+
+	img.apple
+	{
+		height: 10mm;
+		width: auto;
+	}
+
+	img.cover
+	{
+		width: 100%;
+		height: auto;
+		margin-top: -5pt;
+		margin-left: 0pt;
+	}
+
+	img.manufacturer_hq
+	{
+		width: 6.2mm;
+		height: auto;
+		vertical-align: top;
+	}
+
+	p.page2
+	{
+		padding-top: -5mm;
+		frame-break-before: always;
+		padding-bottom: -15mm;
+		padding-left: 3mm;
+	}
+
+	/* ---------- Lists ---------- */
+
+	p.step_1,
+	p.step_2,
+	p.step_5,
+	p.step_7
+	{
+		margin-bottom: -4.71pt;
+		mc-auto-number-position: outside-head;
+	}
+
+	p.step_a,
+	p.step_b
+	{
+		margin-bottom: -3pt;
+		mc-auto-number-position: outside-head;
+	}
+
+	div.steps_indent_20px
+	{
+		margin-left: var(--indent);
+	}
+
+	div.steps_indent_20px div.steps_indent_20px
+	{
+		margin-left: 4mm;
+	}
+
+	span.bullet
+	{
+		font-size: 15.7pt;
+	}
+
+	p.bullet_list
+	{
+		margin-bottom: -3pt;
+		mc-auto-number-format: '•';
+		mc-auto-number-position: outside-head;
+		mc-auto-number-class: bullet;
+	}
+
+	p.bullet_list + p.caution,
+	p.bullet_list + p.warning
+	{
+		margin-top: 19pt;
+	}
+
+	p.dash_list
+	{
+		margin-bottom: -3pt;
+		mc-auto-number-format: '–';
+		mc-auto-number-offset: var(--indent);
+		mc-auto-number-position: outside-head;
+	}
+
+	table p.step_1,
+	table p.step_2,
+	table p.step_5,
+	table p.step_7
+	{
+		margin-left: var(--indent);
+		margin-bottom: -4.7pt;
+		mc-auto-number-offset: var(--indent);
+	}
+
+	/* ----------- Table of Contents ----*/
+
+	p.TOC_header
+	{
+		font-size: 22pt;
+		margin-bottom: 15.7pt;
+	}
+
+	p.TOC1
+	{
+		margin-bottom: 1.57mm;
+	}
+
+	h1.h1_NoTOC
+	{
+		mc-heading-level: 0;
+		padding-bottom: 7.85pt;
+	}
+
+	/* ---------- BackPage ---------- */
+
+	p.CE_backpage_text
+	{
+		margin-top: -5pt;
+		font-size: 7pt;
+		line-height: 9pt;
+		letter-spacing: 0.2pt;
+	}
+
+	p.backpage_text_new_frame
+	{
+		font-size: 7pt;
+		line-height: 9pt;
+	}
+
+	/* CoverPage */
+
+	p.cover_logo
+	{
+		position: absolute;
+		top: 0;
+		text-align: right;
+	}
+
+	p.cover_logo img
+	{
+		width: 45mm;
+		height: auto;
+	}
+
+	p.cover_logo img.backpage_logo_australia
+	{
+		width: 60mm;
+		height: auto;
+	}
+
+	p.backpage_cover_logo img
+	{
+		width: 45mm;
+		height: auto;
+	}
+
+	p.backpage_cover_logo img.backpage_logo_australia
+	{
+		width: 60mm;
+		height: auto;
+	}
+
+	p.AddressLineManufacturer
+	{
+		font-size: 9pt;
+		line-height: 11pt;
+		/* margin-top: 0pt; */
+		/* margin-bottom: 0pt; */
+		/* margin-right:10pt; */
+		/* letter-spacing: 0.2pt; */
+	}
+
+	p.AddressTitle
+	{
+		font-weight: bold;
+		font-size: 9pt;
+		line-height: 11pt;
+		margin-top: 0pt;
+		margin-bottom: 0pt;
+		letter-spacing: 0.2pt;
+		column-break-before: always;
+	}
+
+	p.AddressLine
+	{
+		font-size: 9pt;
+		line-height: 11pt;
+		margin-top: 0pt;
+		margin-bottom: 0pt;
+		letter-spacing: 0.2pt;
+	}
+
+	p.LocalContacts
+	{
+		font-size: 9pt;
+		line-height: 11pt;
+		text-align: left;
+		letter-spacing: 0.2pt;
+	}
+
+	p.CE_backpage_text
+	{
+		margin-top: -5pt;
+		font-size: 9pt;
+		line-height: 11pt;
+		letter-spacing: 0.2pt;
+	}
+
+	/* ---------- DIVs ----------- */
+
+	div.regulatory
+	{
+		color: var(--brandcolor);
+	}
+
+	div.cover
+	{
+		margin-top: 50mm;
+	}
+
+	div.TechSpecs
+	{
+		margin-bottom: 2pt;
+		font-size: 4.5pt;
+		line-height: 5.3pt;
+	}
+
+	div.TechSpecs p
+	{
+		padding-bottom: -5pt;
+		padding-top: -5pt;
+	}
+
+	/* ---------- Alerts ---------- */
+
+	p.caution,
+	p.warning,
+	p.note
+	{
+		padding-top: 12.6pt;
+		margin-bottom: -6.3px;
+		padding-left: var(--indent);
+		margin-left: 5mm;
+		page-break-after: avoid;
+	}
+
+	p.note
+	{
+		padding-top: 2.6pt;
+		/* added 3/26/24 */
+		padding-left: -5mm;
+	}
+
+	h2 + p.caution,
+	h2 + p.warning,
+	h3 + p.caution,
+	h3 + p.warning
+	{
+		margin-top: 9.4pt;
+	}
+
+	table p.caution,
+	table p.warning
+	{
+		padding-left: 10mm;
+		padding-top: 12.6pt;
+	}
+
+	/* ---------- Links ----------- */
+
+	MadCap|xref
+	{
+		text-decoration: none;
+	}
+}
+
+@media arabic
+{
+	body
+	{
+		font-family: "Open Sans Light", Helvetica, sans-serif;
+		font-size: 0.75em;
+		widows: 2;
+		orphans: 2;
+	}
+
+	/* ---------- Span tags not used in DIV's ----------  */
+	/* span.bold */
+	/* { */
+	/* font-weight: bold; */
+	/* } */
+	/* span.italic */
+	/* { */
+	/* font-style: italic; */
+	/* } */
+	/* ---------- END of Span tags not used in DIV's ----------  */
+
+	a:link
+	{
+		color: var(--blackcolor);
+		text-decoration: none;
+	}
+
+	a:visited
+	{
+		text-decoration: none;
+		color: var(--blackcolor);
+	}
+
+	a:hover
+	{
+		color: var(--blackcolor);
+		text-decoration: none;
+	}
+
+	a:active
+	{
+		color: var(--blackcolor);
+		text-decoration: none;
+	}
+
+	p
+	{
+		text-align: left;
+		margin-top: 10pt;
+		mc-hyphenate: never;
+		widows: 2;
+		orphans: 2;
+	}
+
+	p.figuretext
+	{
+		font-size: 7pt;
+		font-style: italic;
+		mc-hyphenate: never;
+	}
+
+	p.block_label
+	{
+		font-weight: bold;
+		margin-bottom: 0.5em;
+		mc-next-tag: p;
+		mc-next-class: p;
+		font-size: 1.25em;
+		line-height: 1.1em;
+		color: var(--regulatorycolor);
+	}
+
+	p.pageheader_left
+	{
+		font-size: 90%;
+		text-align: left;
+	}
+
+	p.pageheader_right
+	{
+		font-size: 90%;
+		text-align: right;
+	}
+
+	p.pagefooterleft
+	{
+		font-size: 9pt;
+		text-align: left;
+	}
+
+	p.pagefooterright
+	{
+		font-size: 9pt;
+		text-align: right;
+	}
+
+	p.CE_backpage_text
+	{
+		mc-hyphenate: never;
+		margin-top: -10pt;
+		font-size: 5pt;
+		line-height: 7pt;
+		letter-spacing: 0.2pt;
+	}
+
+	p.book_title1
+	{
+		margin-bottom: 4pt;
+		font-size: 18pt;
+		text-align: right;
+	}
+
+	p.book_title2
+	{
+		font-size: 8pt;
+		text-align: right;
+	}
+
+	/* added 7/31/24 to align part # info */
+
+	p.backpage_text_new_frame
+	{
+		mc-hyphenate: never;
+		margin-top: 0pt;
+		margin-bottom: 10pt;
+		padding-top: 50pt;
+		padding-left: 20pt;
+		font-size: 5pt;
+		line-height: 7pt;
+		frame-break-before: always;
+	}
+
+	/* added 8/14/24 to align barcodes */
+
+	p.barcodes
+	{
+		padding-left: 80pt;
+		padding-top: 60pt;
+	}
+
+	/* ---------- Headings ----------  */
+
+	h1,
+	h2,
+	h3,
+	h4
+	{
+		text-align: left;
+		page-break-inside: avoid;
+		page-break-after: avoid;
+		line-height: 1.1em;
+		mc-hyphenate: never;
+		margin-top: 1em;
+		margin-bottom: 0.75em;
+	}
+
+	h1
+	{
+		margin-top: 0;
+		font-size: 1.75em;
+		page-break-before: always;
+		margin-bottom: 0.5em;
+	}
+
+	h2
+	{
+		font-size: 1.5em;
+		mc-heading-level: 0;
+		margin-top: 1.25em;
+		padding-bottom: -0.8em;
+	}
+
+	h3
+	{
+		font-size: 1.25em;
+		mc-heading-level: 0;
+		font-weight: normal;
+	}
+
+	p.SubHeader
+	{
+		font-weight: bold;
+		margin-top: 10pt;
+		padding-bottom: -6pt;
+		page-break-after: avoid;
+	}
+
+	/* ---------- END of Headings ----------  */
+	/* ---------- Image classes ----------  */
+
+	img.cover
+	{
+		width: 100%;
+		height: auto;
+		padding-top: -20pt;
+		margin-left: 0pt;
+	}
+
+	/* ---------- END of Image classes ----------  */
+	/* ---------- Numbering classes ----------  */
+
+	p.step_1,
+	p.step_2,
+	p.step_5,
+	p.step_7
+	{
+		text-align: left;
+		margin-bottom: -1px;
+		padding-left: 10px;
+		mc-auto-number-position: outside-head;
+		mc-auto-number-offset: -8px;
+		page-break-inside: avoid;
+		mc-next-tag: p;
+		mc-next-class: step_2;
+	}
+
+	p.step_1
+	{
+		mc-auto-number-format: 'S:{n=1}.';
+	}
+
+	p.step_2
+	{
+		mc-auto-number-format: 'S:{n+}.';
+	}
+
+	p.step_a,
+	p.step_b
+	{
+		text-align: left;
+		margin-bottom: -1px;
+		padding-left: 12px;
+		mc-auto-number-position: outside-head;
+		mc-auto-number-offset: -8px;
+		page-break-inside: avoid;
+	}
+
+	p.step_a
+	{
+		mc-auto-number-format: 'A:{a=1}.';
+	}
+
+	p.step_b
+	{
+		mc-auto-number-format: 'A:{a+}.';
+	}
+
+	p.bullet_list
+	{
+		text-align: left;
+		padding-left: 10px;
+		margin-bottom: 8px;
+		mc-auto-number-format: '•';
+		mc-auto-number-offset: -8px;
+		mc-auto-number-position: outside-head;
+	}
+
+	p.dash_list
+	{
+		text-align: left;
+		margin-bottom: -1px;
+		padding-left: 12px;
+		mc-auto-number-position: outside-head;
+		mc-auto-number-offset: -8px;
+		page-break-inside: avoid;
+		mc-auto-number-format: '–';
+	}
+
+	table p.step_1,
+	table p.step_2,
+	table p.step_5,
+	table p.step_7
+	{
+		padding-right: 0px;
+		margin-right: 20px;
+		mc-auto-number-offset: -8px;
+		text-align: left;
+	}
+
+	table p.step_2
+	{
+		margin-top: 8pt;
+	}
+
+	/* ---------- END of Numbering classes ----------  */
+	/* ----------- Table of Contents ----*/
+
+	MadCap|tocProxy
+	{
+		mc-toc-depth: 1;
+		page-break-before: avoid;
+		page-break-after: always;
+	}
+
+	p.TOC_header
+	{
+		font-weight: bold;
+		text-align: center;
+		font-size: 14pt;
+		margin-top: 0px;
+		mc-heading-level: 0;
+		margin-bottom: 10pt;
+	}
+
+	p.TOC1
+	{
+		margin-left: 0pt;
+		/*		padding-top: -5pt; SD removed 2/14/24 */
+		mc-leader-format: 'dot';
+		mc-leader-offset: 10mm;
+	}
+
+	p.TOC2
+	{
+		margin-left: 10pt;
+		padding-top: -5pt;
+		mc-leader-format: 'dot';
+		mc-leader-offset: 10mm;
+	}
+
+	p.TOC3
+	{
+		margin-left: 10pt;
+		padding-top: -5pt;
+		mc-leader-format: 'dot';
+		mc-leader-offset: 10mm;
+	}
+
+	h1.h1_NoTOC
+	{
+		mc-heading-level: 0;
+		page-break-before: always;
+	}
+
+	/* ---------- END of Table of Contents ----------  */
+	/* ---------- BackPage ----------  */
+
+	p.backpage_cover_logo
+	{
+		position: absolute;
+		top: 0;
+		text-align: right;
+	}
+
+	img.backpage_logo
+	{
+		width: 20mm;
+		height: auto;
+	}
+
+	img.alerts
+	{
+		width: 8.2mm;
+		height: auto;
+		vertical-align: top;
+		padding-right: 2mm;
+		padding-top: -4.4mm;
+		mc-float: outside-right;
+	}
+
+	p.AddressTitle
+	{
+		font-size: 5pt;
+		line-height: 5pt;
+		margin-top: 0pt;
+		margin-bottom: 1pt;
+		column-break-before: always;
+		letter-spacing: 0.2pt;
+	}
+
+	p.AddressLine
+	{
+		font-size: 5pt;
+		line-height: 5pt;
+		line-height: 5pt;
+		margin-top: 0pt;
+		margin-bottom: 0pt;
+		margin-right: -10pt;
+		letter-spacing: 0.2pt;
+	}
+
+	/* ---------- END of BackPage ----------  */
+	/* ---------- DIVs*/
+
+	div.regulatory
+	{
+		color: var(--brandcolor);
+	}
+
+	div.cover
+	{
+		margin-top: 50mm;
+	}
+
+	div.keep_together
+	{
+		page-break-inside: avoid;
+	}
+
+	div.forced_column_break
+	{
+		column-break-before: always;
+	}
+
+	div.forced_frame_break
+	{
+		frame-break-before: always;
+	}
+
+	div.steps_indent
+	{
+		margin-left: 0px;
+	}
+
+	div.steps_indent_20px
+	{
+		margin-left: 20px;
+	}
+
+	/* ---------- Caution, warnings etc. (DIV) ----------  */
+
+	span.caution
+	{
+		text-align: left;
+		position: relative;
+		font-weight: bold;
+		/* float: right; */
+		padding-left: 0px;
+		padding-right: 15px;
+	}
+
+	/* ---------- END of Caution, warning etc. ----------  */
+	/* ---------- END of DIV classes*/
+
+	MadCap|xref
+	{
+		mc-format: '{paratext}';
+	}
+
+	/* Text found in Alerts.css */
+
+	MadCap|xref
+	{
+		color: var(--blackcolor);
+		text-decoration: none;
+	}
+
+	MadCap|xref.SeeAlso
+	{
+		color: var(--blackcolor);
+		text-decoration: none;
+	}
+
+	MadCap|xref.See
+	{
+		color: var(--blackcolor);
+		text-decoration: none;
+	}
+
+	MadCap|xref.page
+	{
+		color: var(--blackcolor);
+		text-decoration: none;
+	}
+
+	MadCap|xref.Seepage
+	{
+		color: var(--blackcolor);
+		text-decoration: none;
+	}
+}
+
+img.height_40
+{
+	height: 40mm;
+}
+
+img.height_30
+{
+	width: auto;
+	height: 30mm;
+}
+
+MadCap|xref.Paratext
+{
+	mc-format: '{quote}{paratext}{quote}, page {page}';
+}
+
+table.TableStyle-Table_Grid th,
+table.TableStyle-Table_Grid th p
+{
+	text-align: center;
+	font-size: var(--basefont);
+}
+
+table.TableStyle-Table_Grid td,
+table.TableStyle-Table_Grid td p
+{
+	font-size: var(--basefont);
+}
+
+table.TableStyle-Table_InvisibleTight td,
+table.TableStyle-Table_InvisibleTight td p
+{
+	line-height: var(--basefontlineheight);
+}
+
+table.TableStyle-TechSpecs td
+{
+	padding-top: 0pt !important;
+	padding-bottom: 0pt !important;
+}
+
+MadCap|footnotesBlock
+{
+	font-size: 5.2pt;
+	line-height: 8.66pt;
+	border-top-style: dotted;
+	border-top-width: 0.4pt;
+	padding-top: 5.2pt;
+	margin-top: 0;
+	padding-bottom: 7.2pt;
+	border-top-color: var(--footercolor);
+	line-height: 1;
+}
+
+img.height_25
+{
+	width: auto;
+	height: 25mm;
+}
+
+/* SYMBOLS */
+
+div.symbol
+{
+	float: left;
+	clear: left;
+	width: 50%;
+}
+
+div.symbol:nth-child(even)
+{
+	float: right;
+	clear: right;
+	width: 50%;
+}
+
+div.symbols_clear
+{
+	clear: both;
+	height: 0;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+@media A4
+{
+	div.symbol
+	{
+		float: none;
+		clear: both;
+		width: auto;
+	}
+
+	div.symbol:nth-child(even)
+	{
+		float: none;
+		clear: both;
+		width: auto;
+	}
+
+	img.symbols
+	{
+		width: 11mm;
+		max-width: 11mm;
+		height: auto;
+		max-height: auto;
+	}
+}
+
+@media 90x100
+{
+	:root
+	{
+		--basefont: 5.5pt;
+		--basefontlineheight: 1.2;
+	}
+
+	p.cover_icon,
+	p.cover_icon_two_icon,
+	p.cover_icon_costco
+	{
+		bottom: -4mm;
+	}
+
+	p.cover_title1
+	{
+		font-size: 12pt;
+		line-height: 1.22;
+		margin-bottom: 12pt;
+	}
+
+	p.cover_title1 + p.cover_title1	/* two products on cover */
+	{
+		margin-top: -8pt;
+	}
+
+	p.cover_title2
+	{
+		font-size: 10pt;
+	}
+
+	p.cover_title3
+	{
+		font-size: 10pt;
+	}
+
+	p.cover_title4
+	{
+		font-size: 8pt;
+		margin-bottom: 14pt;
+	}
+
+	h1
+	{
+		font-size: 13pt;
+		margin-bottom: 10pt;
+	}
+
+	h2
+	{
+		font-size: 9pt;
+		margin-top: 13pt;
+	}
+
+	h3
+	{
+		font-size: 7.5pt;
+		margin-top: 7.5pt;
+	}
+
+	h4
+	{
+		font-size: 7.5pt;
+		margin-top: 7.5pt;
+	}
+
+	p.SubHeader
+	{
+		margin-top: 8pt;
+	}
+
+	p,
+	th,
+	td,
+	table.TableStyle-Table_InvisibleTight td,
+	table.TableStyle-Table_InvisibleTight td p
+	{
+		font-size: 5.5pt;
+		line-height: 1.2;
+	}
+
+	p.backpage_cover_logo img
+	{
+		width: 16mm;
+		height: auto;
+	}
+
+	p.AddressLineManufacturer,
+	p.AddressTitle,
+	p.AddressLine,
+	p.CE_backpage_text
+	{
+		font-size: 4.5pt;
+		line-height: 4.5pt;
+		letter-spacing: 0.1pt;
+	}
+}
+

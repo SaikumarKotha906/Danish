@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet conditions="TC_DONT_TRANSLATE._anything">
+  <Variable Comment="" Name="Road" EvaluatedDefinition="Lautrupbjerg 7">Lautrupbjerg 7</Variable>
+  <Variable Comment="" Name="Town" EvaluatedDefinition="DK-2750 Ballerup">DK-2750 Ballerup</Variable>
+  <Variable Name="TelephoneDK" Comment="" EvaluatedDefinition="+45 4575 1111">+45 4575 1111</Variable>
+  <Variable Name="CVR" Comment="" EvaluatedDefinition="55082715">55082715</Variable>
+</CatapultVariableSet>
