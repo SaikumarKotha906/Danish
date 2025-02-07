@@ -60,26 +60,12 @@
       Name="Regulatory_bodies_directives/EU_medical_directive">2017/745</Variable>
     <Variable
       Name="Z_Translated variables/ManualType">Brugsanvisning</Variable>
-    <Variable
-      Name="Z_Translated variables/EU_directives">2017/745</Variable>
-    <Variable
-      Name="Z_Translated variables/ProductType">Multi-Mic+</Variable>
+          Name="Z_Translated variables/ProductType">Multi-Mic+</Variable>
     <Variable
       Name="Regulatory_bodies_directives/EU_declarations_URL">www.declarations.resound.com/en</Variable>
     <Variable
-      Name="US Addresses/Title">GN Hearing</Variable>
-    <Variable
-      Name="Basic_variables/FamilyName"> </Variable>
-    <Variable
-      Name="Basic_variables/FamilyName2"> </Variable>
-    <Variable
-      Name="Basic_variables/ModelNumbers"> </Variable>
-    <Variable
-      Name="Basic_variables/ModelNumbers2"> </Variable>
-    <Variable
-      Name="Basic_variables/URL_compatibility">resound.com/compatibility</Variable>
-    <Variable
-      Name="Basic_variables/BrandName"> </Variable>
+      Name="US Addresses/Title">GN Hearing</Variable>      Name="Basic_variables/FamilyName2"> </Variable>
+          Name="Basic_variables/BrandName"> </Variable>
     <Variable
       Name="Z_Translated variables/EU_Directive_Regulation_Long">EU’s forordning om medicinsk udstyr</Variable>
   </Variables>
