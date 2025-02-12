@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment=""
+  Type="PDF"
+  InjectBookHeadings="true"
+  PatchHeadingLevels="true"
+  GetLatestBeforeCompile="false"
+  MasterToc="/Project/TOCs/Accessories/TVS+MM.fltoc"
+  ConditionTagExpression="include[AddressLanguages.DA or AddressLanguages.NotInUSCustom or CoverIcons.MultiMic or CoverTextLayout.Default or &quot;Legal marks.Medical dev class I (CE)&quot; or &quot;Legal marks.Registered trademark&quot; or &quot;Legal marks.TM&quot; or Markets.CAN or Markets.EU or Markets.JPN or Markets.TWN or Markets.USA or Symbols.ACMA or &quot;Symbols.Catalog number&quot; or Symbols.Caution or Symbols.CE or &quot;Symbols.China CMIIT ID&quot; or &quot;Symbols.Date of manufacture&quot; or &quot;Symbols.FCC ID&quot; or Symbols.IFU or Symbols.Manufacturer or &quot;Symbols.MCMC Malaysia&quot; or &quot;Symbols.RF transmitter&quot; or &quot;Symbols.Serial number&quot; or &quot;Symbols.TELEC Japan&quot; or Symbols.UDI or Symbols.Warning or Symbols.WEEE or &quot;WirelessAccessories.Multi Mic&quot;], exclude[AddressLanguages._All-AddressLanguages or AppUserGuides.Connectivity or AppUserGuides.Control or AppUserGuides.Smart or &quot;AppUserGuides.Smart 3D&quot; or &quot;Backpage address setup.DK Telephone&quot; or &quot;Backpage address setup.DK CVR&quot; or &quot;Backpage address setup.LocalContacts&quot; or &quot;Backpage address setup.URL&quot; or &quot;Backpage address setup.WorldWideHQ&quot; or BackpageLogos.All-BackpageLogos or BarCodes._All-BarCodes or BohriumTypeDesignations.Domes or BohriumTypeDesignations.Earmoulds or Brands.Amplifon or Brands.Audigy or Brands.Beltone or Brands.BeMore or &quot;Brands.COSTCO Kirkland&quot; or &quot;Brands.COSTCO RS&quot; or Brands.CRAI or Brands.Danalogic or Brands.Danavox or Brands.ExcludeBrandName or Brands.HBM or Brands.HearingAustralia or Brands.Interton or Brands.Jabra or &quot;Brands.Jabra Enhance OTC&quot; or &quot;Brands.Jabra Enhance Pro&quot; or &quot;Brands.Key Account&quot; or Brands.Lively or Brands.Ltd or Brands.Multisound or Brands.Neuroth or Brands.Non-brand or Brands.Puretone or Brands.ReSound or Brands.SpecSavers or Brands.Tuner or Brands.Zenaud or &quot;Consumables.Closed dome&quot; or &quot;Consumables.Custom earmould&quot; or &quot;Consumables.Microphone filter&quot; or &quot;Consumables.Open dome&quot; or &quot;Consumables.Power dome&quot; or &quot;Consumables.Tulip dome&quot; or &quot;Consumables.Wax filter&quot; or CoverIcons._All-CoverIcon or CoverIconsAmplifon._All-CoverIconsAmplifon or CoverLogos.All-CoverLogos or CoverTextLayout._All-CoverTextLayouts or EmptyPages.2 or EmptyPages.3 or Features._All-Features or FittingSoftware.CROS or &quot;FittingSoftware.Flex demo device&quot; or &quot;FittingSoftware.Live remote assistance&quot; or &quot;FittingSoftware.Local contact&quot; or &quot;FittingSoftware.Partial - Live remote assistance&quot; or &quot;FittingSoftware.Remote fine-tuning&quot; or FittingSoftware.TSG or &quot;FittingSoftware.View ratings&quot; or FormFactors.BTE or &quot;FormFactors.BTE 70&quot; or &quot;FormFactors.BTE 70 Light&quot; or &quot;FormFactors.BTE 80&quot; or &quot;FormFactors.BTE 80 Hook&quot; or &quot;FormFactors.BTE 90&quot; or FormFactors.CIC or FormFactors.CUSTOM or FormFactors.ITC or FormFactors.ITE or &quot;FormFactors.Micro RIE&quot; or FormFactors.MIH or &quot;FormFactors.Mini BTE&quot; or &quot;FormFactors.Mini RIE 60&quot; or FormFactors.MiniRIE or &quot;FormFactors.Power BTE&quot; or FormFactors.RIE or &quot;FormFactors.RIE 62&quot; or FormFactors.Skin1 or FormFactors.Skin2 or FormFactors.Skin3 or FormFactors.Skin4 or Generic.Danavox_148_105 or Generic.Grey_box_App_UG or Generic.Internal or &quot;Generic.KA model name&quot; or Generic.MDD or Generic.More-models_UG or Generic.One-model_UG or Generic.TechSpecs_105_105 or Generic.TechSpecs_148_105 or Generic.TechSpecs_90_100 or Generic.TechSpecs_95_95 or &quot;Legal marks._All-LegalMarks&quot; or Markets._All-Markets or Markets.BRA or Markets.CHN or Markets.KOR or Markets.RUS or Markets.SVK or &quot;Markets.Swiss CHREP&quot; or Powersource.Battery or &quot;Powersource.C-4 f_Custom Mains required&quot; or &quot;Powersource.Desktop charger&quot; or &quot;Powersource.Mains required&quot; or Powersource.Rechargeable or &quot;Powersource.Rechargeable charger&quot; or &quot;Product Type.Accessories only&quot; or &quot;Product Type.All except OTC and Prescription HAs&quot; or &quot;Product Type.All except OTC HAs&quot; or &quot;Product Type.B&amp;RIE&quot; or &quot;Product Type.BTE w_thin_tube&quot; or &quot;Product Type.BTE w_Hook&quot; or &quot;Product Type.Direct Audio Input&quot; or &quot;Product Type.Domes&quot; or &quot;Product Type.Hearing aids only&quot; or &quot;Product Type.HP&quot; or &quot;Product Type.LP&quot; or &quot;Product Type.M&amp;RIE&quot; or &quot;Product Type.MP&quot; or &quot;Product Type.Non-wireless&quot; or &quot;Product Type.OTC HAs&quot; or &quot;Product Type.Prescription HAs&quot; or &quot;Product Type.TV Streamer&quot; or &quot;Product Type.TV Streamer 2&quot; or &quot;Product Type.UP&quot; or &quot;Product Type.Wireless&quot; or Project.Beryllium or &quot;Project.Beryllium 1&quot; or Project.Bohrium or Project.Domino or Project.Dubnium or Project.Gallium or Project.Hassium or &quot;Project.Hassium 1&quot; or &quot;Project.Hassium 1_1&quot; or &quot;Project.Hassium 2_0&quot; or &quot;Project.Hassium 3&quot; or Project.Magnesium or Project.Magnesium_Jikang or &quot;Project.Magnesium_Jikang 2&quot; or Project.Palladium or Project.Rhodium or Project.Salieri or Project.Thorium or &quot;Project.Thorium 2&quot; or &quot;Project.Thorium 3&quot; or &quot;RS Price points.Flex demo model&quot; or &quot;RS Price points.Price point 1&quot; or &quot;RS Price points.Price point 2&quot; or &quot;RS Price points.Price point 3&quot; or &quot;RS Price points.Price point 4&quot; or &quot;RS Price points.Price point 5&quot; or &quot;RS Price points.Price point 7&quot; or &quot;RS Price points.Price point 9&quot; or Symbols._All-Symbols or &quot;US Backpage address.e-mail&quot; or &quot;US Backpage address.URL&quot; or &quot;US Backpage address.US Telephone&quot; or &quot;US_VA Backpage address.Country&quot; or &quot;US_VA Backpage address.e-mail&quot; or &quot;US_VA Backpage address.Road&quot; or &quot;US_VA Backpage address.Title&quot; or &quot;US_VA Backpage address.Town&quot; or &quot;US_VA Backpage address.URL&quot; or &quot;US_VA Backpage address.US Telephone&quot; or WirelessAccessories._All-WirelessAccessories]"
+  CentralLinkIds=""
+  MasterStylesheet="/Content/Resources/Stylesheets/GNH.css"
+  OutputFile="[%=Basic_variables.DocumentNumber%][%=Basic_variables.Language_ID%]-[%=GNSystem.Releasedate%]-Rev.[%=Basic_variables.Revision%]"
+  Medium="print"
+  fileTags="Translation status.0-Ready for translation"
+  MasterStylesheetOverride="true"
+  TargetLanguage="da">
+  <Destinations> </Destinations>
+  <Glossaries></Glossaries>
+  <PrintedOutput
+    GenerateXPS="false"
+    GeneratePDF="false"
+    GenerateTOCProxy="false"
+    CollapseMargins="true"
+    OutputFormat="doc" />
+  <DocumentProperties
+    Title="[%=Basic_variables.BrandName%] - [%=Z_Translated variables.ManualType%]"
+    Author="Prepared by GN labelling team"
+    Keywords="[%=BranchTagName.BranchNameContent%]" />
+  <PDF
+    ShowUsedBookmarks="false"
+    ConvertBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true"
+    Tagged="false"
+    InitialMagnification="Actual"
+    PageLayout="SinglePage"
+    TitleBar="FileName"
+    CollapsedBookmarks="true" />
+  <Variables>
+    <Variable
+      Name="Basic_variables/URL_main">gnhearing.com</Variable>
+    <Variable
+      Name="Basic_variables/BrandNameLong">GN Hearing A/S</Variable>
+    <Variable
+      Name="Basic_variables/DocumentNumber">401819</Variable>
+    <Variable
+      Name="Basic_variables/Language_ID">006DK</Variable>
+    <Variable
+      Name="Basic_variables/Revision">B</Variable>
+    <Variable
+      Name="Basic_variables/CompanyNameLong for BackPages and CE mark">GN Hearing A/S</Variable>
+    <Variable
+      Name="Basic_variables/CurrentYearStatic">2025</Variable>
+    <Variable
+      Name="Basic_variables/ProductName">Multi-Mic+</Variable>
+    <Variable
+      Name="CrossBrand_WirelessAccessories/MultiMic">Multi-Mic+</Variable>
+          Name="Z_Translated variables/ManualType">Brugsanvisning</Variable>
+          Name="Z_Translated variables/ProductType">Multi-Mic+</Variable>
+    <Variable
+      Name="Regulatory_bodies_directives/EU_declarations_URL">www.declarations.resound.com/en</Variable>
+    <Variable
+      Name="US Addresses/Title">GN Hearing</Variable>      Name="Basic_variables/FamilyName2"> </Variable>
+          Name="Basic_variables/BrandName"> </Variable>
+    <Variable
+      Name="Z_Translated variables/EU_Directive_Regulation_Long">EU’s forordning om medicinsk udstyr</Variable>
+  </Variables>
+  <PreBuild>C:\IFU\X_ProductionFiles\Content\Executables\BranchPDF_Tag\dist\scriptaut.exe "$(ProjectDirectory)</PreBuild>
+</CatapultTarget>
