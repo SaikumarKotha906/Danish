@@ -50,10 +50,7 @@
       Name="Basic_variables/Revision">B</Variable>
     <Variable
       Name="Basic_variables/CompanyNameLong for BackPages and CE mark">GN Hearing A/S</Variable>
-    <Variable
-      Name="Basic_variables/CurrentYearStatic">2025</Variable>
-    <Variable
-      Name="Basic_variables/ProductName">Multi-Mic+</Variable>
+          Name="Basic_variables/ProductName">Multi-Mic+</Variable>
     <Variable
       Name="CrossBrand_WirelessAccessories/MultiMic">Multi-Mic+</Variable>
           Name="Z_Translated variables/ManualType">Brugsanvisning</Variable>
