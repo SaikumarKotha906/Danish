@@ -60,8 +60,6 @@
     <Variable
       Name="US Addresses/Title">GN Hearing</Variable>      Name="Basic_variables/FamilyName2"> </Variable>
           Name="Basic_variables/BrandName"> </Variable>
-    <Variable
-      Name="Z_Translated variables/EU_Directive_Regulation_Long">EU’s forordning om medicinsk udstyr</Variable>
-  </Variables>
+      </Variables>
   <PreBuild>C:\IFU\X_ProductionFiles\Content\Executables\BranchPDF_Tag\dist\scriptaut.exe "$(ProjectDirectory)</PreBuild>
 </CatapultTarget>
