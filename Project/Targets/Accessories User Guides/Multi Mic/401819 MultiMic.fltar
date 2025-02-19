@@ -55,8 +55,6 @@
     <Variable
       Name="Basic_variables/ProductName">Multi-Mic+</Variable>
     <Variable
-      Name="CrossBrand_WirelessAccessories/MultiMic">Multi-Mic+</Variable>
-    <Variable
       Name="Regulatory_bodies_directives/EU_medical_directive">2017/745</Variable>
     <Variable
       Name="Z_Translated variables/ManualType">Brugsanvisning</Variable>
